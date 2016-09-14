@@ -16,8 +16,6 @@ Install miniconda_. Create an environment for this website:
    $ source activate eng122-website
    (pelican)$ pip install pelican ghp-import
 
-.. _minconda: http://conda.pydata.org/miniconda.html
-
 Clone the plugin repository (for the render_math plugin)::
 
    $ mkdir ~/src
@@ -30,6 +28,8 @@ Rebuild and serve the site locally::
 Push the site to Github pages::
 
    (pelican)$ fab gh_pages
+
+.. _miniconda: http://conda.pydata.org/miniconda.html
 
 License
 =======
