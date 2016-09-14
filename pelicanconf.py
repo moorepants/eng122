@@ -6,6 +6,7 @@ from os.path import expanduser, join
 AUTHOR = 'Jason K. Moore'
 SITENAME = 'ENG 122: Intro to Mechanical Vibrations'
 SITEURL = ''
+SOURCEURL = 'http://github.com/moorepants/eng122'
 
 PATH = 'content'
 THEME = 'theme'
