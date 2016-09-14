@@ -17,7 +17,7 @@ DEFAULT_LANG = 'en'
 
 PLUGIN_PATHS = [join(expanduser("~"), 'src', 'pelican-plugins')]
 PLUGINS = ['render_math']
-MATH_JAX = {'color':'black'}
+MATH_JAX = {'color': 'black'}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
