@@ -150,3 +150,8 @@ Few other ODE packages:
 - http://www.jmodelica.org/assimulo
 - https://github.com/bmcage/odes
 - https://github.com/bjodah/pyodesys
+
+Jupyter
+-------
+
+http://arogozhnikov.github.io/2016/09/10/jupyter-features.html
