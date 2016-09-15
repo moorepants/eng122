@@ -5,7 +5,7 @@ http://moorepants.github.io/eng122
 
 This site is generated with Pelican_.
 
-.. _Pelican: getpelican.com
+.. _Pelican: http://getpelican.com
 
 Build Instructions
 ==================
