@@ -10,7 +10,7 @@ This site is generated with Pelican_.
 Build Instructions
 ==================
 
-Install miniconda_. Create an environment for this website:
+Install miniconda_. Create an environment for this website::
 
    $ conda create -n eng122-website python=2 pygments pip jinja2 docutils markupsafe python-dateutil pytz six unidecode fabric
    $ source activate eng122-website
