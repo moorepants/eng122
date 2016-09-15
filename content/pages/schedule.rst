@@ -19,7 +19,7 @@ the schedule periodically for changes.**
 3  W Sep 28    - Compound pendulum
                - Viscous damping
                - Energy methods
-               - Raylieghs method
+               - Rayliegh's method
 -- ----------  ------------------------------------  -------------  -----
 4  M Oct 3     - Initial conditions                                 HW #2
                - Phase
@@ -47,7 +47,7 @@ the schedule periodically for changes.**
 -- ----------  ------------------------------------  -------------  -----
 10 M Oct 24    - Residual vibrations                                HW #5
                - Impulse response function
-               - Trinangular blast example
+               - Triangular blast example
 11 W Oct 26    - Response to arbitrary input
                - General forced response
                - Midterm review
@@ -63,10 +63,10 @@ NA M Oct 31    - Midterm
 -- ----------  ------------------------------------  -------------  -----
 15 M Nov 14    - Symmetric eigenproblem analogy                     HW #7
                - Rotation and translation example
-16 W Nov 16    - Rigib body modes
+16 W Nov 16    - Rigid body modes
                - Numerical simulation
 -- ----------  ------------------------------------  -------------  -----
-17 M Nov 21    - Muliple degrees of freedom                         HW #8
+17 M Nov 21    - Multiple degrees of freedom                        HW #8
 18 W Nov 23    - Vibration standards
                - ISO
                - Isolator design
