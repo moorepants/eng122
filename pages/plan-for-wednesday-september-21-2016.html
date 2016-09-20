@@ -35,13 +35,15 @@
 <li>Maybe show them something you've done that is related to vibrations.</li>
 <li>Basic explanation of what mechanical vibrations are, i.e. what you will be
 able to do at the end of the class.</li>
-<li>Introduction activity<ul>
+</ul>
+<div class="section" id="introduction-activity">
+<h3>Introduction activity</h3>
+<ul class="simple">
 <li>Find two people you do not already know in class.</li>
 <li>Tell each other your name and why this class interests you.</li>
 <li>Ask two or three students to share what they learned.</li>
 </ul>
-</li>
-</ul>
+</div>
 </div>
 <div class="section" id="class-questions-4-25">
 <h2>Class Questions 4:25</h2>
@@ -58,46 +60,41 @@ top participants.</li>
 <li>Let them know that, in general, I'd like them to bring laptops on Wednesdays.</li>
 </ul>
 </div>
-<div class="section" id="quiz-on-odes-4-35">
-<h2>Quiz on ODEs 4:35</h2>
-<ul class="simple">
-<li>Hand out quiz and give them 10 minutes to complete by themselves.</li>
-<li>Give a show of hands for each question.</li>
-<li>Now give them 10 more minutes to discuss with neighbor the answers.</li>
-<li>Give a show of hands for each question.</li>
-</ul>
-</div>
-<div class="section" id="engineering-computation-with-python-intro-4-45">
-<h2>Engineering Computation with Python Intro 4:45</h2>
+<div class="section" id="engineering-computation-with-python-intro-4-40">
+<h2>Engineering Computation with Python Intro 4:40</h2>
 <div class="section" id="objectives">
 <h3>Objectives</h3>
 <p>These are the main takeaways and the things we should test them on in any of
 the exercises.</p>
 <ul class="simple">
 <li>Learn the main package names and functions in the SciPy stack.</li>
-<li>Learn where to get help on Python.</li>
 <li>Learn to open a Jupyter notebook and it's basic features.</li>
-<li>Learn to open Spyder and execute a script and type at the IPython interpreter.</li>
 <li>Learn the basics of Python, primarily the differences from Matlab (or C?)</li>
 <li>Learn how to do vectorized operations with NumPy.</li>
 <li>Learn to integrate a second order ODE.</li>
 <li>Learn to make a plot with matplotlib.</li>
-<li>Show how to make the plot interactive.</li>
+<li>Show how to make the plot interactive with Jupyter interact.</li>
 <li>Learn how to create an object and its use.</li>
+<li>Learn where to get help on Python.</li>
 </ul>
 </div>
 <div class="section" id="instructions">
 <h3>Instructions</h3>
 <p>Have the students pull out their laptops and fire up a Jupyter notebook using
 Anaconda.</p>
-<p>Windows: Select from Start Menu
-Mac and Linux: Open terminal and type &quot;jupyter notebook&quot; + Enter</p>
+<dl class="docutils">
+<dt>Windows</dt>
+<dd>Select from Start Menu</dd>
+<dt>Mac and Linux</dt>
+<dd>Open terminal and type &quot;jupyter notebook&quot; + Enter</dd>
+</dl>
 <p>Go through the chosen tutorial (first chapter of scipy lecture notes) by
 speaking and live coding in a notebook. Don't worry about mistakes, it's better
-if they see us make mistakes. They should follow along and do what you do. You
-should break it up with a short exercise every 15 minutes or so. Save the
-notebook that you create and we will post it online for them. Be sure to type
-in explanations of what you are doing for their future reference.</p>
+if they see us make mistakes. They should follow along and do what you do, them
+typing is key. You should break it up with a short exercise every 15 minutes or
+so. Save the notebook that you create and we will post it online for them. Be
+sure to type in explanations of what you are doing for their future reference.
+Be sure to take a short break some time in the middle of this tutorial.</p>
 <p>Use sticky notes for exercises and feedback at the end.</p>
 <p>Tell them why python:</p>
 <ul class="simple">
@@ -107,11 +104,216 @@ in explanations of what you are doing for their future reference.</p>
 </ul>
 <p>Differences</p>
 <ul class="simple">
+<li>indentation matters</li>
 <li>You have to import everything.</li>
 <li>Indexing starts at 0.</li>
 <li>** not ^</li>
+<li>etc</li>
 </ul>
 </div>
+</div>
+<div class="section" id="scipy-lecture-notes-tutorial">
+<h2>SciPy Lecture Notes Tutorial</h2>
+<p>Cover the following topics (this is a reduced list).</p>
+<ol class="arabic">
+<li><p class="first">Scientific computing with tools and workflow</p>
+<ol class="arabic simple">
+<li>Why Python?<ol class="arabic">
+<li>The scientist’s needs</li>
+<li>Specifications</li>
+<li>Existing solutions</li>
+</ol>
+</li>
+<li>Scientific Python building blocks</li>
+<li><em>Jupyter intro here instead of IPython specific you can use http://arogozhnikov.github.io/2016/09/10/jupyter-features.html as supplement.</em></li>
+</ol>
+</li>
+<li><p class="first">The Python language</p>
+<ol class="arabic simple">
+<li>First steps</li>
+<li>Basic types<ol class="arabic">
+<li>Numerical types</li>
+<li>Containers<ol class="arabic">
+<li>Lists</li>
+<li>Strings</li>
+<li>Dictionaries</li>
+<li>More container types</li>
+</ol>
+</li>
+<li>Assignment operator</li>
+</ol>
+</li>
+<li>Control Flow<ol class="arabic">
+<li>if/elif/else</li>
+<li>for/range</li>
+<li>while/break/continue</li>
+<li>Conditional Expressions</li>
+<li>Advanced iteration<ol class="arabic">
+<li>Iterate over any sequence</li>
+<li>Keeping track of enumeration number</li>
+<li>Looping over a dictionary</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Defining functions<ol class="arabic">
+<li>Function definition</li>
+<li>Return statement</li>
+<li>Parameters</li>
+<li>Skip</li>
+<li>Skip</li>
+<li>Skip</li>
+<li>Docstrings</li>
+</ol>
+</li>
+<li>Reusing code: scripts and modules<ol class="arabic">
+<li>Scripts</li>
+<li>Importing objects from modules</li>
+<li>Creating modules</li>
+<li>Skip</li>
+<li>Skip</li>
+<li>Skip</li>
+<li>Good practices</li>
+</ol>
+</li>
+<li>Input and Output<ol class="arabic">
+<li>Iterating over a file<ol class="arabic">
+<li>File modes</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Standard Library <em>Just tell them that python comes with standad libs, show one example, and how to google the others. Don't go over all of these.</em></li>
+<li>Skip</li>
+<li>Object-oriented programming (OOP) <em>Use this example: http://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/oo_basics.ipynb</em></li>
+</ol>
+</li>
+<li><p class="first">NumPy: creating and manipulating numerical data</p>
+<ol class="arabic simple">
+<li>The Numpy array object<ol class="arabic">
+<li>What are Numpy and Numpy arrays?<ol class="arabic">
+<li>Numpy arrays</li>
+<li>Numpy Reference documentation</li>
+<li>Import conventions</li>
+</ol>
+</li>
+<li>Creating arrays<ol class="arabic">
+<li>Manual construction of arrays</li>
+<li>Functions for creating arrays</li>
+</ol>
+</li>
+<li>Basic data types</li>
+<li>Basic visualization</li>
+<li>Indexing and slicing</li>
+<li>Copies and views</li>
+<li>Fancy indexing<ol class="arabic">
+<li>Using boolean masks</li>
+<li>Indexing with an array of integers</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Numerical operations on arrays<ol class="arabic">
+<li>Elementwise operations<ol class="arabic">
+<li>Basic operations</li>
+<li>Other operations</li>
+</ol>
+</li>
+<li>Basic reductions<ol class="arabic">
+<li>Computing sums</li>
+<li>Other reductions</li>
+</ol>
+</li>
+<li>Broadcasting</li>
+<li>Array shape manipulation<ol class="arabic">
+<li>Flattening</li>
+<li>Reshaping</li>
+<li>Adding a dimension</li>
+<li>Dimension shuffling</li>
+<li>Resizing</li>
+</ol>
+</li>
+<li>Sorting data</li>
+<li>Summary</li>
+</ol>
+</li>
+</ol>
+</li>
+<li><p class="first">Matplotlib: plotting</p>
+<ol class="arabic simple">
+<li>Introduction<ol class="arabic">
+<li>Jupyter and the matplotlib mode <em>Be sure to use the &quot;notebook&quot; mode, not inline. This makes the graph interactive.</em></li>
+<li>pyplot</li>
+</ol>
+</li>
+<li>Simple plot<ol class="arabic">
+<li>Plotting with default settings</li>
+<li>Instantiating defaults</li>
+<li>Changing colors and line widths</li>
+<li>Setting limits</li>
+<li>Setting ticks</li>
+<li>Setting tick labels</li>
+<li>Moving spines</li>
+<li>Adding a legend</li>
+<li>Annotate some points</li>
+<li>Devil is in the details</li>
+</ol>
+</li>
+<li>Figures, Subplots, Axes and Ticks<ol class="arabic">
+<li>Figures</li>
+<li>Subplots</li>
+<li>Axes</li>
+<li>Ticks<ol class="arabic">
+<li>Tick Locators</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Other Types of Plots: examples and exercises <em>Just demo making one and show them some of the others. Show them the matplotlib gallery.</em><ol class="arabic">
+<li>Regular Plots</li>
+<li>Scatter Plots</li>
+<li>Bar Plots</li>
+<li>Contour Plots</li>
+<li>Imshow</li>
+<li>Pie Charts</li>
+<li>Quiver Plots</li>
+<li>Grids</li>
+<li>Multi Plots</li>
+<li>Polar Axis</li>
+<li>3D Plots</li>
+<li>Text</li>
+</ol>
+</li>
+<li>Beyond this tutorial<ol class="arabic">
+<li>Tutorials</li>
+<li>Matplotlib documentation</li>
+<li>Code documentation</li>
+<li>Galleries</li>
+<li>Mailing lists</li>
+</ol>
+</li>
+<li>Quick references<ol class="arabic">
+<li>Line properties</li>
+<li>Line styles</li>
+<li>Markers</li>
+<li>Colormaps</li>
+</ol>
+</li>
+</ol>
+</li>
+<li><p class="first">Scipy : high-level scientific computing</p>
+<blockquote>
+<p>1. File input/output: scipy.io (csv and mat)
+3. Linear algebra operations: scipy.linalg
+4. Fast Fourier transforms: scipy.fftpack
+7. Interpolation: scipy.interpolate
+8. Numerical integration: scipy.integrate
+9. Signal processing: scipy.signal</p>
+</blockquote>
+</li>
+<li><p class="first">Getting help and finding documentation</p>
+</li>
+</ol>
 </div>
 <div class="section" id="extra-materials">
 <h2>Extra Materials</h2>
@@ -150,14 +352,15 @@ content for engineers)
 <div class="section" id="odes">
 <h3>ODES</h3>
 <p>Nice package that has all types of ODE integrators to try out with same
-interface:
-<a class="reference external" href="https://github.com/hplgit/odespy">https://github.com/hplgit/odespy</a></p>
-<p>Few other ODE packages:
-- <a class="reference external" href="https://github.com/olivierverdier/odelab">https://github.com/olivierverdier/odelab</a>
-- <a class="reference external" href="http://olivierverdier.github.io/odelab/">http://olivierverdier.github.io/odelab/</a>
-- <a class="reference external" href="http://www.jmodelica.org/assimulo">http://www.jmodelica.org/assimulo</a>
-- <a class="reference external" href="https://github.com/bmcage/odes">https://github.com/bmcage/odes</a>
-- <a class="reference external" href="https://github.com/bjodah/pyodesys">https://github.com/bjodah/pyodesys</a></p>
+interface: <a class="reference external" href="https://github.com/hplgit/odespy">https://github.com/hplgit/odespy</a></p>
+<p>Few other ODE packages:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/olivierverdier/odelab">https://github.com/olivierverdier/odelab</a></li>
+<li><a class="reference external" href="http://olivierverdier.github.io/odelab/">http://olivierverdier.github.io/odelab/</a></li>
+<li><a class="reference external" href="http://www.jmodelica.org/assimulo">http://www.jmodelica.org/assimulo</a></li>
+<li><a class="reference external" href="https://github.com/bmcage/odes">https://github.com/bmcage/odes</a></li>
+<li><a class="reference external" href="https://github.com/bjodah/pyodesys">https://github.com/bjodah/pyodesys</a></li>
+</ul>
 </div>
 <div class="section" id="jupyter">
 <h3>Jupyter</h3>
