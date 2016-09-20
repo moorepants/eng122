@@ -103,7 +103,7 @@ Cover the following topics (this is a reduced list).
       3. Existing solutions
 
    2. Scientific Python building blocks
-   3. *Jupyter intro here instead of IPython specific you can use http://arogozhnikov.github.io/2016/09/10/jupyter-features.html as supplement.*
+   3. *Jupyter intro here instead of IPython specific you can use* http://arogozhnikov.github.io/2016/09/10/jupyter-features.html *as supplement.*
 
 2. The Python language
 
@@ -160,7 +160,7 @@ Cover the following topics (this is a reduced list).
 
    7. Standard Library *Just tell them that python comes with standad libs, show one example, and how to google the others. Don't go over all of these.*
    8. Skip
-   9. Object-oriented programming (OOP) *Use this example: http://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/oo_basics.ipynb*
+   9. Object-oriented programming (OOP) *Use this example:* http://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/oo_basics.ipynb
 
 3. NumPy: creating and manipulating numerical data
 
