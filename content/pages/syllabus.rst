@@ -86,6 +86,8 @@ Textbook
 *Engineering Vibration*, Daniel J. Inman, 4th Edition, Pearson Education. ISBN
 978-0-13-287169-3 [`Book Information`_]
 
+Most homework problems will come from the book.
+
 .. _Book Information: https://www.pearsonhighered.com/program/Inman-Engineering-Vibration-4th-Edition/PGM198634.html
 
 Assignments & Grades
