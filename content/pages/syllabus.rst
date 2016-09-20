@@ -62,7 +62,13 @@ exception).**
 Office Hours
 ============
 
-TBA
+| Instructor Office Hours
+| TBA
+|
+| TA Office Hours (*tentative*)
+| Bainer 2071 (CAE Lab)
+| Th 3-4, F 2-3
+
 
 Academic Integrity
 ==================
