@@ -9,7 +9,7 @@ the schedule periodically for changes.**
 == ==========  ====================================  =============  =====
 #  Date        Topic                                 Materials      Assignment Due
 == ==========  ====================================  =============  =====
-1  W Sep 21    - Intro to mechanical vibrations
+1  W Sep 21    - Intro to mechanical vibrations      `Plan 01`_
                - Intro to Python
 -- ----------  ------------------------------------  -------------  -----
 2  M Sep 26    - Simple pendulum                                    HW #1
@@ -78,3 +78,5 @@ NA M Oct 31    - Midterm
 -- ----------  ------------------------------------  -------------  -----
 NA R Dec 8     **Final Exam** 8:00-10:00
 == ==========  ====================================  =============  =====
+
+.. _Plan 01: {filename}/pages/materials/plan-01.rst
