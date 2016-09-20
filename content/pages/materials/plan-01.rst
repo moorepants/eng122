@@ -155,7 +155,7 @@ Cover the following topics (this is a reduced list).
 
    7. Standard Library *Just tell them that python comes with standad libs, show one example, and how to google the others. Don't go over all of these.*
    8. Skip
-   9. Object-oriented programming (OOP) *Use the example below to show them OO*
+   9. Object-oriented programming (OOP) *Use this example: http://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/oo_basics.ipynb*
 
 3. NumPy: creating and manipulating numerical data
 
