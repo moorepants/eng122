@@ -84,6 +84,11 @@ Differences
 - ** not ^
 - etc
 
+Here are some exercises that they can chew on during the session. They should
+pair up for these:
+
+https://github.com/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
+
 SciPy Lecture Notes Tutorial
 ============================
 
@@ -267,13 +272,16 @@ Cover the following topics (this is a reduced list).
 5. Scipy : high-level scientific computing
 
     1. File input/output: scipy.io (csv and mat)
+    2. SKIP
     3. Linear algebra operations: scipy.linalg
     4. Fast Fourier transforms: scipy.fftpack
+    5. SKIP
+    6. SKIP
     7. Interpolation: scipy.interpolate
     8. Numerical integration: scipy.integrate
     9. Signal processing: scipy.signal
 
-6. Getting help and finding documentation
+6. Getting help and finding documentation *Show them stackoverflow.*
 
 Extra Materials
 ===============
