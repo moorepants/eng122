@@ -12,7 +12,7 @@ the schedule periodically for changes.**
 1  W Sep 21    - Intro to mechanical vibrations      - `Prep 01`_
                - Intro to Python                     - `Exercises 01`_
 -- ----------  ------------------------------------  ------------------  ---------------
-2  M Sep 26    - Simple pendulum                                         HW #1
+2  M Sep 26    - Simple pendulum                                         `HW #1`_
                - Spring-mass system
                - Torsional vibration
                - Filar pendulum
@@ -81,3 +81,5 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 
 .. _Prep 01: {filename}/pages/materials/prep-01.rst
 .. _Exercises 01: {attach}/materials/notebooks/exercises-01.ipynb
+
+.. _HW #1: {filename}/pages/homework/hw-01.rst

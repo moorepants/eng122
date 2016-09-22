@@ -8,9 +8,10 @@ import datetime
 
 from pelican.server import ComplexHTTPRequestHandler
 
-COURSE_TITLE = "ENG 122"
-QUARTER = "Fall 2016"
-BOX_IDENTIFIER = "D"
+COURSE_NUMBER = "ENG 122"
+YEAR = "2016"
+QUARTER = "Fall {}".format(YEAR)
+BOX_IDENTIFIER = "A"
 
 # Local path configuration (can be absolute or relative to fabfile)
 env.deploy_path = 'output'
@@ -134,24 +135,35 @@ def build_homework():
         if not os.path.exists(d):
             os.makedirs(d)
 
-    assigned_dates = {'01': '2015/09/21',
-                      '02': '2015/09/26',
-                      '03': '2015/10/03',
-                      '04': '2015/10/10',
-                      '05': '2015/10/17',
-                      '06': '2015/10/24',
-                      '07': '2015/11/07',
-                      '08': '2015/11/14',
-                      '09': '2015/11/21'}
+    assigned_dates = {'01': '2016/09/21',
+                      '02': '2016/09/26',
+                      '03': '2016/10/03',
+                      '04': '2016/10/10',
+                      '05': '2016/10/17',
+                      '06': '2016/10/31',
+                      '07': '2016/11/07',
+                      '08': '2016/11/14',
+                      '09': '2016/11/21'}
+
+    due_dates = {'01': '2016/09/26',
+                 '02': '2016/10/03',
+                 '03': '2016/10/10',
+                 '04': '2016/10/17',
+                 '05': '2016/10/24',
+                 '06': '2016/11/07',
+                 '07': '2016/11/14',
+                 '08': '2016/11/21',
+                 '09': '2016/11/28'}
 
     pdf_header_template = """\
 ===============================
-ENG 122 Fall 2015 Homework #{}
+ENG 122 Fall 2016 Homework #{}
 ===============================
 
 :date: {}
 
-**DUE: {} before class in Box D in the MAE department.**
+**DUE: {} before class in Box A in the MAE department if a paper assignment and
+if digital turn in it in via Canvas.**
 """
 
     web_header_template = """\
@@ -159,7 +171,8 @@ ENG 122 Fall 2015 Homework #{}
 :subtitle: {}
 :status: hidden
 
-**DUE: {} before class in Box D in the MAE department.**
+**DUE: {} before class in Box A in the MAE department if a paper assignment and
+if digital turn in it in via Canvas.**
 
 `PDF Version <{{attach}}/materials/hw-{}.pdf>`_
 """

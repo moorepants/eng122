@@ -4,7 +4,7 @@
 ============== ========== ================
 Homework       PDF        Due Date
 ============== ========== ================
-Homework #1     PDF #1    September 26, 2016
+`Homework #1`_ `PDF #1`_  September 26, 2016
 Homework #2     PDF #2    October 3, 2016
 Homework #3     PDF #3    October 10, 2016
 Homework #4     PDF #4    October 17, 2016
