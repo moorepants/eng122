@@ -1,0 +1,88 @@
+:title: Homework #01
+:subtitle: Wednesday, September 21, 2016
+:status: hidden
+
+**DUE: Monday, September 26, 2016 before class in Box A in the MAE department if a paper assignment and
+if digital turn in it in via Canvas.**
+
+`PDF Version <{attach}/materials/hw-01.pdf>`_
+
+Problem 1
+=========
+
+A function object is a value you can assign to a variable or pass as an
+argument. For example, ``do_twice`` is a function that takes a function object
+as an argument and calls it twice:
+
+.. code:: python
+
+   def do_twice(f):
+       f()
+       f()
+
+Here's an example that uses ``do_twice`` to call a function named
+``print_spam`` twice.
+
+.. code:: python
+
+   def print_spam():
+       print 'spam'
+
+   do_twice(print_spam)
+
+1. Type this example into a Jupyter notebook and test it.
+2. Modify ``do_twice`` so that it takes two arguments, a function object and a
+   value, and calls the function twice, passing the value as an argument to the
+   function.
+3. Write a more general version of ``print_spam``, called ``print_twice``, that
+   takes a string as a parameter and prints it twice.
+4. Use the modified version of ``do_twice`` to call ``print_twice`` twice,
+   passing ``'spam'`` as an argument.
+5. Define a new function called ``do_four`` that takes a function object and a
+   value and calls the function four times, passing the value as a parameter.
+   There should be only two statements in the body of this function, not four.
+
+Problem 2
+=========
+
+In a Jupyter notebook use NumPy to solve the following:
+
+1. Create a uniform subdivision of the interval -1.3 to 2.5 with 64
+   subdivisions.
+2. Generate an array of length :math:`3n` filled with the cyclic pattern 1, 2,
+   3.
+3. Create an array of the first 10 odd integers.
+4. Create a 10 x 10 arrays of zeros and then "frame" it with a border of ones.
+5. Create an 8 x 8 array with a checkerboard pattern of zeros and ones using a
+   slicing + striding approach.
+6. Try using the dot function on a vector-vector, matrix-vector and
+   matrix-matrix example. (This may seem simple but it's good to see how the
+   results differ in each case.)
+7. Create a function which creates an n×n array with (i,j)-entry equal to i+j.
+8. Evaluate cos and sin on the interval [0, 1] and then stack the results into
+   a tall array with rows being the (cos(x), sin(x)) entries.
+9. Create a random 3x5 array using the ``np.random.rand(3, 5)`` function and
+   compute: the sum of all the entries, the sum of the rows and the sum of the
+   columns. (*Just like sorted had an optional key= argument, many Numpy
+   functions have an optional axis= argument!*)
+10. Create a random 5x5 array using the function ``np.random.rand(5, 5)``. We want
+    to sort the rows according to the second column. Try combining array
+    slicing + argsort + indexing to do this.
+
+Refer to the `NumPy documentation`_ and `SciPy Lecture Notes`_ for help.
+
+.. _NumPy documentation: http://docs.scipy.org/doc/numpy-1.10.0/
+.. _SciPy Lecture Notes: http://www.scipy-lectures.org/
+
+Problem 3
+=========
+
+In a Jupyter notebook use NumPy and Matplotlib to create a plot of the `Batman
+equation`_. The outline should be should be yellow and the enclosed space
+should be filled with black. Remove the grid and axes (i.e. plain white
+background) and insert your first name into the inside the symbol as large as
+it can be without touching the edges of the symbol. Color your name yellow too.
+
+.. _Batman Equation: http://mathworld.wolfram.com/BatmanCurve.html
+
+Refer to the Matplotlib documentation and gallery for help.

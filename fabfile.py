@@ -194,7 +194,7 @@ if digital turn in it in via Canvas.**
 
         date_assigned = datetime.datetime.strptime(assigned_dates[hw_num],
                                                    '%Y/%m/%d')
-        date_due = date_assigned + datetime.timedelta(days=7)
+        date_due = datetime.datetime.strptime(due_dates[hw_num], '%Y/%m/%d')
 
         os.chdir(os.path.join(pelican_root_dir, hw_dir, hw_num))
 
