@@ -83,7 +83,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 == ==========  ====================================  =========================  ===============
 
 .. _Prep 01: {filename}/pages/materials/prep-01.rst
-.. _Exercises 01: {attach}/materials/notebooks/exercises-01.ipynb
+.. _Exercises 01: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
 .. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
 .. _Intro to NumPy: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_numpy.ipynb
 .. _Intro to matplotlib: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_matplotlib.ipynb
