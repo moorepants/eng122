@@ -24,7 +24,7 @@ the schedule periodically for changes.**
                - Energy methods
                - Rayliegh's method
 -- ----------  ------------------------------------  -------------------------  ---------------
-4  M Oct 3     - Initial conditions                                             HW #2
+4  M Oct 3     - Initial conditions                                             `HW #2`_
                - Phase
                - Log decrement
                - Stiffness
@@ -91,3 +91,4 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Intro to matplotlib: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_matplotlib.ipynb
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
+.. _HW #2: {filename}/pages/homework/hw-02.rst

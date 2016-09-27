@@ -1,0 +1,57 @@
+:title: Homework #02
+:subtitle: Monday, September 26, 2016
+:status: hidden
+
+**DUE: Monday, October 03, 2016 before class in Box A in the MAE department if a paper assignment and
+if digital turn in it in via Canvas.**
+
+`PDF Version <{attach}/materials/hw-02.pdf>`_
+
+Problem 1
+=========
+
+Use Langrange's method to solve problem 1.21 in the book.
+
+Problem 2
+=========
+
+An undamped system vibrates with a frequency of 10 Hz and amplitude of 1 mm.
+Calculate the maximum amplitude of the system's velocity and acceleration.
+
+Problem 3
+=========
+
+Using Python inside a Jupyter notebook plot the solutions given by:
+
+.. math::
+
+   x(t) = \frac{\sqrt{\omega_n^2 x_0^2 + v_0^2}}{\omega_n}
+     \sin\left(\omega_n t + \arctan\left(\frac{\omega_n x_0}{v_0}\right)\right)
+
+for the case :math:`k = 1000 \textrm{N/m}` and :math:`m = 10 \textrm{kg}` for
+two complete periods for each of the following sets of initial conditions: a)
+:math:`x_0 = 0`, :math:`v_0= 1 \textrm{m/s}`, b) :math:`x_0= 0.01\textrm{m}`,
+:math:`v_0 = 0`, and c) :math:`x_0 = 0.01 \textrm{m}`, :math:`v_0 = 1
+\textrm{m/s}`. Plot each result in a sub plot of a single figure.
+
+Problem 4
+=========
+
+For a damped system, :math:`m`, :math:`c`, and :math:`k` are known to be
+:math:`m = 1 \textrm{kg}`, :math:`c = 2 \textrm{kg/s}`, :math:`k = 10
+\textrm{N/m}`. Calculate the values of :math:`\zeta` and :math:`\omega_n`. Is
+the system overdamped, underdamped, or critically damped?
+
+Problem 5
+=========
+
+Using Python in a Jupyter notebook plot :math:`x(t)` for a damped system of
+natural frequency :math:`\omega_n = 2 \textrm{rad/s}` and initial conditions
+:math:`x_0 = 1 \textrm{mm}`, :math:`v_0 = 0`, for the following values of the
+damping ratio: :math:`\zeta = 0.01`, :math:`\zeta = 0.2`, :math:`\zeta = 0.6`,
+:math:`\zeta = 0.1`, :math:`\zeta = 0.4`, and :math:`\zeta = 0.8`. Plot each
+line in one plot and add a legend for the different values of :math:`\zeta`. In
+addition, use the interact_ function to create a slider that allows you to
+interactively adjust the values of :math:`\zeta`.
+
+.. _interact: http://ipywidgets.readthedocs.io/en/latest/examples/Using%20Interact.html
