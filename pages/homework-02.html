@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
         <meta charset="utf-8" />
-        <title>Plan for Monday, September 26, 2016</title>
+        <title>Homework #02</title>
         <link rel="stylesheet" href="https://moorepants.github.io/eng122/theme/css/main.css" />
         <link rel="stylesheet" href="https://moorepants.github.io/eng122/theme/css/custom.css" />
 
@@ -26,72 +26,52 @@
                 </ul></nav>
         </header><!-- /#banner -->
 <section id="content" class="body">
-    <h1 class="entry-title">Plan for Monday, September 26, 2016</h1>
+    <h1 class="entry-title">Homework #02</h1>
     
-    <div class="section" id="introduction">
-<h2>16:10 Introduction</h2>
-<ul class="simple">
-<li>Call me Jason</li>
-<li>A little about myself</li>
-<li>Show them the optimal design results from the BMD conference</li>
-<li>When you ask a question, start with your name.</li>
-<li>Any questions about syllabus, class, etc for me?</li>
-</ul>
-<div class="section" id="learning-objectives">
-<h3>Learning objectives</h3>
-<ul class="simple">
-<li>Be able to recount the history of vibrations</li>
-<li>Be able to characterize and solve differential equations</li>
-<li>Be able to derive EoM for simple pendulum</li>
-<li>Be able to describe the solution for the simple pendulum</li>
-</ul>
+    <p><strong>DUE: Monday, October 03, 2016 before class in Box A in the MAE department if a paper assignment and
+if digital turn in it in via Canvas.</strong></p>
+<p><a class="reference external" href="https://moorepants.github.io/eng122/pages/hw-02.pdf">PDF Version</a></p>
+<div class="section" id="problem-1">
+<h2>Problem 1</h2>
+<p>Use Langrange's method to solve problem 1.21 in the book.</p>
 </div>
+<div class="section" id="problem-2">
+<h2>Problem 2</h2>
+<p>An undamped system vibrates with a frequency of 10 Hz and amplitude of 1 mm.
+Calculate the maximum amplitude of the system's velocity and acceleration.</p>
 </div>
-<div class="section" id="history-of-vibrations">
-<h2>16:25 History of Vibrations</h2>
+<div class="section" id="problem-3">
+<h2>Problem 3</h2>
+<p>Using Python inside a Jupyter notebook plot the solutions given by:</p>
+<div class="math">
+\begin{equation*}
+x(t) = \frac{\sqrt{\omega_n^2 x_0^2 + v_0^2}}{\omega_n}
+  \sin\left(\omega_n t + \arctan\left(\frac{\omega_n x_0}{v_0}\right)\right)
+\end{equation*}
 </div>
-<div class="section" id="quiz-on-odes">
-<h2>16:30 Quiz on ODEs</h2>
-<ul class="simple">
-<li>Hand out quiz and give them 10 minutes to complete by themselves.</li>
-<li>Give a show of hands for each question.</li>
-<li>Now give them 10 more minutes to discuss with neighbor the answers.</li>
-<li>Give a show of hands for each question.</li>
-</ul>
+<p>for the case <span class="math">\(k = 1000 \textrm{N/m}\)</span> and <span class="math">\(m = 10 \textrm{kg}\)</span> for
+two complete periods for each of the following sets of initial conditions: a)
+<span class="math">\(x_0 = 0\)</span>, <span class="math">\(v_0= 1 \textrm{m/s}\)</span>, b) <span class="math">\(x_0= 0.01\textrm{m}\)</span>,
+<span class="math">\(v_0 = 0\)</span>, and c) <span class="math">\(x_0 = 0.01 \textrm{m}\)</span>, <span class="math">\(v_0 = 1
+\textrm{m/s}\)</span>. Plot each result in a sub plot of a single figure.</p>
 </div>
-<div class="section" id="break">
-<h2>16:55 Break</h2>
+<div class="section" id="problem-4">
+<h2>Problem 4</h2>
+<p>For a damped system, <span class="math">\(m\)</span>, <span class="math">\(c\)</span>, and <span class="math">\(k\)</span> are known to be
+<span class="math">\(m = 1 \textrm{kg}\)</span>, <span class="math">\(c = 2 \textrm{kg/s}\)</span>, <span class="math">\(k = 10
+\textrm{N/m}\)</span>. Calculate the values of <span class="math">\(\zeta\)</span> and <span class="math">\(\omega_n\)</span>. Is
+the system overdamped, underdamped, or critically damped?</p>
 </div>
-<div class="section" id="vibrations-intro">
-<h2>17:00 Vibrations Intro</h2>
-</div>
-<div class="section" id="eom-derivations">
-<h2>17:10 EoM Derivations</h2>
-<ul class="simple">
-<li>Lagrange</li>
-<li>Newton-Euler</li>
-</ul>
-</div>
-<div class="section" id="simple-pendulum">
-<h2>17:30 Simple Pendulum</h2>
-<ul class="simple">
-<li>Solution to the system</li>
-<li>Natural frequency</li>
-</ul>
-</div>
-<div class="section" id="example">
-<h2>17:45 Example</h2>
-<ul class="simple">
-<li>plug and chug some numbers</li>
-</ul>
-</div>
-<div class="section" id="wrap-up">
-<h2>17:55 Wrap Up</h2>
-<ul class="simple">
-<li>Homework 2 will be posted this evening</li>
-<li>Bring laptops to class on Wednesday, last half on Wednesdays will be live
-computation.</li>
-</ul>
+<div class="section" id="problem-5">
+<h2>Problem 5</h2>
+<p>Using Python in a Jupyter notebook plot <span class="math">\(x(t)\)</span> for a damped system of
+natural frequency <span class="math">\(\omega_n = 2 \textrm{rad/s}\)</span> and initial conditions
+<span class="math">\(x_0 = 1 \textrm{mm}\)</span>, <span class="math">\(v_0 = 0\)</span>, for the following values of the
+damping ratio: <span class="math">\(\zeta = 0.01\)</span>, <span class="math">\(\zeta = 0.2\)</span>, <span class="math">\(\zeta = 0.6\)</span>,
+<span class="math">\(\zeta = 0.1\)</span>, <span class="math">\(\zeta = 0.4\)</span>, and <span class="math">\(\zeta = 0.8\)</span>. Plot each
+line in one plot and add a legend for the different values of <span class="math">\(\zeta\)</span>. In
+addition, use the <a class="reference external" href="http://ipywidgets.readthedocs.io/en/latest/examples/Using%20Interact.html">interact</a> function to create a slider that allows you to
+interactively adjust the values of <span class="math">\(\zeta\)</span>.</p>
 </div>
 
 </section>
