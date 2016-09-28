@@ -15,19 +15,22 @@ the schedule periodically for changes.**
                                                      - `Intro to NumPy`_
                                                      - `Intro to matplotlib`_
 -- ----------  ------------------------------------  -------------------------  ---------------
-2  M Sep 26    - Simple pendulum                     - `Prep 02`_               `HW #1`_
-               - Spring-mass system
-               - Torsional vibration
-               - Filar pendulum
-3  W Sep 28    - Compound pendulum
-               - Viscous damping
+2  M Sep 26    - History of Vibrations               - `Prep 02`_               `HW #1`_
                - Energy methods
-               - Rayliegh's method
+               - Simple pendulum
+3  W Sep 28    - Harmonic motion                     - `Prep 03`_
+               - More on energy methods
+               - Spring-mass system
+               - Viscous damping
+               - Compound pendulum
 -- ----------  ------------------------------------  -------------------------  ---------------
 4  M Oct 3     - Initial conditions                                             `HW #2`_
                - Phase
                - Log decrement
                - Stiffness
+               - Rayliegh's method
+               - Torsional vibration
+               - Filar pendulum
 5  W Oct 5     - Stability
                - Simulation of vibrations
 -- ----------  ------------------------------------  -------------------------  ---------------
@@ -84,6 +87,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 
 .. _Prep 01: {filename}/pages/materials/prep-01.rst
 .. _Prep 02: {filename}/pages/materials/prep-02.rst
+.. _Prep 03: {filename}/pages/materials/prep-03.rst
 
 .. _Exercises 01: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
 .. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
