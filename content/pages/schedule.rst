@@ -16,7 +16,7 @@ the schedule periodically for changes.**
                                                      - `Intro to matplotlib`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 2  M Sep 26    - History of Vibrations               - `Prep 02`_               `HW #1`_
-               - Energy methods
+               - Energy methods                      - `Notes 02`_
                - Simple pendulum
 3  W Sep 28    - Harmonic motion                     - `Prep 03`_
                - More on energy methods
@@ -88,6 +88,8 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Prep 01: {filename}/pages/materials/prep-01.rst
 .. _Prep 02: {filename}/pages/materials/prep-02.rst
 .. _Prep 03: {filename}/pages/materials/prep-03.rst
+
+.. _Notes 02: {filename}/materials/notes-02.pdf
 
 .. _Exercises 01: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
 .. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
