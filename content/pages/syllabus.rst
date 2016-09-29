@@ -63,12 +63,12 @@ Office Hours
 ============
 
 | Instructor Office Hours
-| TBA
+| Bainer 2095
+| Th 10-11, F 11-12
 |
 | TA Office Hours (*tentative*)
 | Bainer 2071 (CAE Lab)
 | Th 3-4, F 2-3
-
 
 Academic Integrity
 ==================
