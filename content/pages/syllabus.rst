@@ -105,13 +105,17 @@ regular basis to gauge your performance. Keep in mind that **15% is deducted
 per business day late** on all assignments.
 
 ================  ===
-Homework          20%
+Classwork         5%
+Homework          15%
 Midterm           35%
 Final             45%
 ================  ===
 
 .. _canvas.ucdavis.edu: http://canvas.ucdavis.edu
 
+Classwork
+   There will be in class quizzes and computational exercises. These will be
+   sometimes be graded for participation and sometimes for correctness.
 Homework
    Weekly homework will be assigned from the book which will be due before
    class the following week in the mechanical engineering homework **drop box
