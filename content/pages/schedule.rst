@@ -19,10 +19,9 @@ the schedule periodically for changes.**
                - Energy methods                      - `Notes 02`_
                - Simple pendulum
 3  W Sep 28    - Harmonic motion                     - `Prep 03`_
-               - More on energy methods
-               - Spring-mass system
-               - Viscous damping
+               - More on energy methods              - `Notes 03`_
                - Compound pendulum
+               - Viscous damping
 -- ----------  ------------------------------------  -------------------------  ---------------
 4  M Oct 3     - Initial conditions                                             `HW #2`_
                - Phase
@@ -90,6 +89,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Prep 03: {filename}/pages/materials/prep-03.rst
 
 .. _Notes 02: {filename}/materials/notes-02.pdf
+.. _Notes 03: {filename}/materials/notes-03.pdf
 
 .. _Exercises 01: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
 .. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
