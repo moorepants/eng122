@@ -26,14 +26,13 @@ you've done the following:
 3. Make sure your plots show up in the notebook (add ``%matplotlib notebook``
    somewhere in one of your code cells)
 
-Once you've done that, you can print the notebook by going into the
-"File" menu in the notebook and clicking "Print Preview". This should
-open up a new tab in your web browser which is just an HTML page. Use
-your browser's print functionality to print out the notebook from there.
-(If you want a PDF, you should be able to "print to file" instead of
-selecting a printer from the print dialog. The details might depend on
-your computer platform). If you want to save some paper, printing
-two-sided and two pages per side is OK.
+Once you've done that, you can print the notebook by going into the "File" menu
+in the notebook and clicking "Print Preview". This should open up a new tab in
+your web browser which is just an HTML page. Use your browser's print
+functionality to print out the notebook from there. (If you want a PDF, you
+should be able to "print to file" instead of selecting a printer from the print
+dialog. The details might depend on your computer platform). If you want to
+save some paper, printing two-sided and two pages per side is OK.
 
-Finally, submit the "ipynb" file on Canvas having saved the notebook in
-the state it is in after following the steps above.
+Finally, submit the "ipynb" file on Canvas having saved the notebook in the
+state it is in after following the steps above.
