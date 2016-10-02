@@ -9,25 +9,24 @@ the schedule periodically for changes.**
 == ==========  ====================================  =========================  ===============
 #  Date        Topic                                 Materials                  Assignment Due
 == ==========  ====================================  =========================  ===============
-1  W Sep 21    - Intro to mechanical vibrations      - `Prep 01`_
-               - Intro to Python                     - `Exercises 01`_
+1  W Sep 21    - Intro to mechanical vibrations      - `Prep 1`_
+               - Intro to Python                     - `Exercises 1`_
                                                      - `Intro to Python`_
                                                      - `Intro to NumPy`_
                                                      - `Intro to matplotlib`_
 -- ----------  ------------------------------------  -------------------------  ---------------
-2  M Sep 26    - History of Vibrations               - `Prep 02`_               `HW #1`_
-               - Energy methods                      - `Notes 02`_
+2  M Sep 26    - History of Vibrations               - `Prep 2`_                `HW #1`_
+               - Energy methods                      - `Notes 2`_
                - Simple pendulum
-3  W Sep 28    - Harmonic motion                     - `Prep 03`_
-               - More on energy methods              - `Notes 03`_
-               - Compound pendulum                   - `Notebook 03`_
+3  W Sep 28    - Harmonic motion                     - `Prep 3`_
+               - More on energy methods              - `Notes 3`_
+               - Compound pendulum                   - `Notebook 3`_
                - Viscous damping
 -- ----------  ------------------------------------  -------------------------  ---------------
-4  M Oct 3     - Initial conditions                                             `HW #2`_
+4  M Oct 3     - Initial conditions                  - `Prep 4`_                `HW #2`_
                - Phase
                - Log decrement
                - Stiffness
-               - Rayliegh's method
                - Torsional vibration
                - Filar pendulum
 5  W Oct 5     - Stability
@@ -60,6 +59,7 @@ the schedule periodically for changes.**
 NA M Oct 31    - Midterm
 12 W Nov 2     - Fourier Series
                - Response to arbitrary input
+               - Rayliegh's method
 -- ----------  ------------------------------------  -------------------------  ---------------
 13 M Nov 7     - Response spectrum                                              HW #6
 14 W Nov 9     - Two DoF systems
@@ -84,18 +84,19 @@ NA M Oct 31    - Midterm
 NA R Dec 8     **Final Exam** 8:00-10:00
 == ==========  ====================================  =========================  ===============
 
-.. _Prep 01: {filename}/pages/materials/prep-01.rst
-.. _Prep 02: {filename}/pages/materials/prep-02.rst
-.. _Prep 03: {filename}/pages/materials/prep-03.rst
+.. _Prep 1: {filename}/pages/materials/prep-01.rst
+.. _Prep 2: {filename}/pages/materials/prep-02.rst
+.. _Prep 3: {filename}/pages/materials/prep-03.rst
+.. _Prep 4: {filename}/pages/materials/prep-04.rst
 
-.. _Notes 02: {filename}/materials/notes-02.pdf
-.. _Notes 03: {filename}/materials/notes-03.pdf
+.. _Notes 2: {filename}/materials/notes-02.pdf
+.. _Notes 3: {filename}/materials/notes-03.pdf
 
-.. _Exercises 01: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
+.. _Exercises 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
 .. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
 .. _Intro to NumPy: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_numpy.ipynb
 .. _Intro to matplotlib: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_matplotlib.ipynb
-.. _Notebook 03: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/viscous_damping.ipynb
+.. _Notebook 3: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/viscous_damping.ipynb
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
