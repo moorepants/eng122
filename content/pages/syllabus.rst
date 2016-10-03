@@ -36,8 +36,11 @@ Prerequisites
 -------------
 
 - ENG 102
-- ENG 5, ENG 6 or ECS 30
+- EME 5\ [*]_, ENG 6 or ECS 30
 - Ability to program in Matlab or similar language.
+
+.. [*] Note that the course catalog incorrectly lists ENG 5 as an optional
+   prerequisite. It should be EME 5.
 
 Instructors
 ===========
