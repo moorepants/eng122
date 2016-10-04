@@ -10,7 +10,7 @@ the schedule periodically for changes.**
 #  Date        Topic                                 Materials                  Assignment Due
 == ==========  ====================================  =========================  ===============
 1  W Sep 21    - Intro to mechanical vibrations      - `Prep 1`_
-               - Intro to Python                     - `Exercises 1`_
+               - Intro to Scientific Python          - `Exercises 1`_
                                                      - `Intro to Python`_
                                                      - `Intro to NumPy`_
                                                      - `Intro to matplotlib`_
@@ -19,18 +19,19 @@ the schedule periodically for changes.**
                - Energy methods                      - `Notes 2`_
                - Simple pendulum
 3  W Sep 28    - Harmonic motion                     - `Prep 3`_
-               - More on energy methods              - `Notes 3`_
-               - Compound pendulum                   - `Notebook 3`_
+               - Initial conditions                  - `Notes 3`_
+               - Phase                               - `Notebook 3`_
+               - More on energy methods
                - Viscous damping
 -- ----------  ------------------------------------  -------------------------  ---------------
-4  M Oct 3     - Initial conditions                  - `Prep 4`_                `HW #2`_
-               - Phase
-               - Log decrement
-               - Stiffness
-               - Torsional vibration
+4  M Oct 3     - Compound pendulum                   - `Prep 4`_                `HW #2`_
+               - Stiffness                           - `Notes 4`_
+               - Stability
+5  W Oct 5     - Spring mass                         - `Prep 5`_
                - Filar pendulum
-5  W Oct 5     - Stability
-               - Simulation of vibrations
+               - Log decrement
+               - Nonlinear simulation of vibrations
+               - Coulomb damping in free vibration
 -- ----------  ------------------------------------  -------------------------  ---------------
 6  M Oct 10    - Forced vibration with no damping                               HW #3
                - Resonance
@@ -44,9 +45,7 @@ the schedule periodically for changes.**
 -- ----------  ------------------------------------  -------------------------  ---------------
 8  M Oct 17    - Energy loss per cycle                                          HW #4
                - Hysteretic damping
-               - Coulomb damping in free vibration
 9  W Oct 19    - Aerodynamic damping
-               - Nonlinear simulation
                - Seismic instruments
 -- ----------  ------------------------------------  -------------------------  ---------------
 10 M Oct 24    - Residual vibrations                                            HW #5
@@ -88,9 +87,11 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Prep 2: {filename}/pages/materials/prep-02.rst
 .. _Prep 3: {filename}/pages/materials/prep-03.rst
 .. _Prep 4: {filename}/pages/materials/prep-04.rst
+.. _Prep 5: {filename}/pages/materials/prep-05.rst
 
 .. _Notes 2: {filename}/materials/notes-02.pdf
 .. _Notes 3: {filename}/materials/notes-03.pdf
+.. _Notes 4: {filename}/materials/notes-04.pdf
 
 .. _Exercises 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
 .. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
