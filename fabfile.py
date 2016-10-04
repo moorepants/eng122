@@ -101,7 +101,7 @@ def gh_pages():
     local("git push origin {github_pages_branch}".format(**env))
 
 
-def build_homework():
+def build_homework(num=None):
     """Collects the problems in the homework folder and constructs both a PDF
     and pelican page.
 
@@ -160,8 +160,6 @@ def build_homework():
 ENG 122 Fall 2016 Homework #{}
 ===============================
 
-:date: {}
-
 **DUE: {} before class in Box A in the MAE department if a paper assignment and
 if digital turn in it in via Canvas.**
 """
@@ -185,8 +183,11 @@ if digital turn in it in via Canvas.**
 
     pelican_root_dir = os.path.abspath(os.path.curdir)
 
-    hw_nums = [name for name in os.listdir(hw_dir) if
-               os.path.isdir(os.path.join(hw_dir, name))]
+    if num is not None:
+        hw_nums = [num]
+    else:
+        hw_nums = [name for name in os.listdir(hw_dir) if
+                   os.path.isdir(os.path.join(hw_dir, name))]
 
     for hw_num in hw_nums:
 
