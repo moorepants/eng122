@@ -11,8 +11,13 @@ will need to download and install the Anaconda Distribution of Python (Python
 
 https://www.continuum.io/downloads
 
-Anaconda will also be available in the CAE lab in Bainer.
+Anaconda is also available in the CAE lab in Bainer.
 
+Alternatively, you can create Jupyter notebooks using the SageMathCloud_ or
+Wakari_ web applications without having to install any software.
+
+.. _SageMathCloud: https://cloud.sagemath.com
+.. _Wakari: https://wakari.io
 
 Jupyter Notebook Printing and Submission
 ========================================
@@ -36,3 +41,11 @@ save some paper, printing two-sided and two pages per side is OK.
 
 Finally, submit the "ipynb" file on Canvas having saved the notebook in the
 state it is in after following the steps above.
+
+Media
+=====
+
+- [Video] Finding the Center of Percussion of a baseball bat:
+  https://youtu.be/Dw3UpKQVhVY
+- [Video] The sweet spot of a baseball bat:
+  http://phys-webapps.csuchico.edu/baseball/DrBaseball/SweetSpot
