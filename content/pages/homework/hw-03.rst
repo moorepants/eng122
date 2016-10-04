@@ -1,0 +1,10 @@
+:title: Homework #03
+:subtitle: Monday, October 03, 2016
+:status: hidden
+
+**DUE: Monday, October 10, 2016 before class in Box A in the MAE department if a paper assignment and
+if digital turn in it in via Canvas.**
+
+`PDF Version <{attach}/materials/hw-03.pdf>`_
+
+Complete problems 1.80, 1.86, 1.94, 1.114, 1.118 from the book.
