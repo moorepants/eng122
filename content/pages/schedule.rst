@@ -28,7 +28,7 @@ the schedule periodically for changes.**
                - Stiffness                           - `Notes 4`_
                - Stability
 5  W Oct 5     - Spring mass                         - `Prep 5`_
-               - Filar pendulum
+               - Filar pendulum                      - `Notebook 5`_
                - Log decrement
                - Nonlinear simulation of vibrations
                - Coulomb damping in free vibration
@@ -98,6 +98,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Intro to NumPy: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_numpy.ipynb
 .. _Intro to matplotlib: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_matplotlib.ipynb
 .. _Notebook 3: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/viscous_damping.ipynb
+.. _Notebook 5: http://tinyurl.com/eng122-lecture-5
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
