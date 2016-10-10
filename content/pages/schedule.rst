@@ -33,7 +33,7 @@ the schedule periodically for changes.**
                - Nonlinear simulation of vibrations
                - Coulomb damping in free vibration
 -- ----------  ------------------------------------  -------------------------  ---------------
-6  M Oct 10    - Forced vibration with no damping                               `HW #3`_
+6  M Oct 10    - Forced vibration with no damping    - `Prep 6`_                `HW #3`_
                - Resonance
                - Forced with viscous damping
                - Undamped freq response curve
@@ -88,6 +88,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Prep 3: {filename}/pages/materials/prep-03.rst
 .. _Prep 4: {filename}/pages/materials/prep-04.rst
 .. _Prep 5: {filename}/pages/materials/prep-05.rst
+.. _Prep 6: {filename}/pages/materials/prep-06.rst
 
 .. _Notes 2: {filename}/materials/notes-02.pdf
 .. _Notes 3: {filename}/materials/notes-03.pdf
