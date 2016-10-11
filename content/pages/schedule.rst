@@ -89,6 +89,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Prep 4: {filename}/pages/materials/prep-04.rst
 .. _Prep 5: {filename}/pages/materials/prep-05.rst
 .. _Prep 6: {filename}/pages/materials/prep-06.rst
+.. _Prep 7: {filename}/pages/materials/prep-07.rst
 
 .. _Notes 2: {filename}/materials/notes-02.pdf
 .. _Notes 3: {filename}/materials/notes-03.pdf
