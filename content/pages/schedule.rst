@@ -28,13 +28,13 @@ the schedule periodically for changes.**
                - Stiffness                           - `Notes 4`_
                - Stability
 5  W Oct 5     - Spring mass                         - `Prep 5`_
-               - Filar pendulum                      - `Notebook 5`_
-               - Log decrement
+               - Filar pendulum                      - `Notes 5`_
+               - Log decrement                       - `Notebook 5`_
                - Nonlinear simulation of vibrations
                - Coulomb damping in free vibration
 -- ----------  ------------------------------------  -------------------------  ---------------
 6  M Oct 10    - Forced vibration with no damping    - `Prep 6`_                `HW #3`_
-               - Resonance
+               - Resonance                           - `Notes 6`_
                - Undamped freq response curve
 7  W Oct 12    - Damped frequency response           - `Prep 7`_
                - Forced with viscous damping
@@ -94,6 +94,8 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Notes 2: {filename}/materials/notes-02.pdf
 .. _Notes 3: {filename}/materials/notes-03.pdf
 .. _Notes 4: {filename}/materials/notes-04.pdf
+.. _Notes 5: {filename}/materials/notes-05.pdf
+.. _Notes 6: {filename}/materials/notes-06.pdf
 
 .. _Exercises 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
 .. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
