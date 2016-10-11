@@ -43,7 +43,7 @@ the schedule periodically for changes.**
                - Energy loss per cycle
                - Equivalent damping ratio
 -- ----------  ------------------------------------  -------------------------  ---------------
-8  M Oct 17    - Energy loss per cycle                                          HW #4
+8  M Oct 17    - Energy loss per cycle                                          `HW #4`_
                - Hysteretic damping
 9  W Oct 19    - Aerodynamic damping
                - Seismic instruments
@@ -105,3 +105,4 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
 .. _HW #3: {filename}/pages/homework/hw-03.rst
+.. _HW #4: {filename}/pages/homework/hw-04.rst
