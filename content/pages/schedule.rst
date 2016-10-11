@@ -35,9 +35,9 @@ the schedule periodically for changes.**
 -- ----------  ------------------------------------  -------------------------  ---------------
 6  M Oct 10    - Forced vibration with no damping    - `Prep 6`_                `HW #3`_
                - Resonance
-               - Forced with viscous damping
                - Undamped freq response curve
-7  W Oct 12    - Damped frequency response
+7  W Oct 12    - Damped frequency response           - `Prep 7`_
+               - Forced with viscous damping
                - Base excitation transmissibility
                - Mass imbalance
                - Energy loss per cycle
