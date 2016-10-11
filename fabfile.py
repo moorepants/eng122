@@ -215,7 +215,6 @@ if digital turn in it in via Canvas.**
 
         with open(rst_filename, 'w') as f:
             hd = pdf_header_template.format(hw_num,
-                                            date_assigned.strftime(date_format),
                                             date_due.strftime(date_format))
             f.write(hd + text)
 
