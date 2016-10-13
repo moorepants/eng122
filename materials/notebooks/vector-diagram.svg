@@ -15,7 +15,7 @@
    height="360"
    id="svg5729"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="vector-diagram.svg">
   <sodipodi:namedview
      id="base"
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.3527778"
-     inkscape:cx="90"
+     inkscape:cx="-13.919716"
      inkscape:cy="180"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4287"
      showgrid="false"
      units="in"
-     inkscape:window-width="1680"
-     inkscape:window-height="1026"
-     inkscape:window-x="1680"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <defs
@@ -572,20 +572,18 @@
           </symbol>
         </g>
       </defs>
-      <g
-         id="textext-20a56601-2">
-        <g
-           id="g4300"
-           style="fill:#000000;fill-opacity:1">
-          <use
-             id="use4302"
-             y="134.765"
-             x="223.43201"
-             xlink:href="#textext-20a56601-1"
-             width="180"
-             height="360" />
-        </g>
-      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         x="222.30746"
+         y="134.79701"
+         id="text4284"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4286"
+           x="222.30746"
+           y="134.79701"
+           style="font-size:12px;">θ</tspan></text>
     </g>
     <g
        transform="matrix(1.25,0,0,1.25,-225.29632,587.18337)"
