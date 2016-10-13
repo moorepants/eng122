@@ -37,13 +37,12 @@ the schedule periodically for changes.**
                - Resonance                           - `Notes 6`_
                - Undamped freq response curve
 7  W Oct 12    - Damped frequency response           - `Prep 7`_
-               - Forced with viscous damping
-               - Base excitation transmissibility
-               - Mass imbalance
-               - Energy loss per cycle
-               - Equivalent damping ratio
+               - Forced with viscous damping         - `Notebook 7-1`_
+               - Base excitation transmissibility    - `Notebook 7-2`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 8  M Oct 17    - Energy loss per cycle                                          `HW #4`_
+               - Mass imbalance
+               - Equivalent damping ratio
                - Hysteretic damping
 9  W Oct 19    - Aerodynamic damping
                - Seismic instruments
@@ -103,6 +102,8 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Intro to matplotlib: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_matplotlib.ipynb
 .. _Notebook 3: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/viscous_damping.ipynb
 .. _Notebook 5: http://tinyurl.com/eng122-lecture-5
+.. _Notebook 7-1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/forced_vibrations_with_viscous_damping.ipynb
+.. _Notebook 7-2: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/bumpy_road.ipynb
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
