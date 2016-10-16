@@ -40,10 +40,10 @@ the schedule periodically for changes.**
                - Forced with viscous damping         - `Notebook 7-1`_
                - Base excitation transmissibility    - `Notebook 7-2`_
 -- ----------  ------------------------------------  -------------------------  ---------------
-8  M Oct 17    - Energy loss per cycle                                          `HW #4`_
-               - Mass imbalance
-               - Equivalent damping ratio
+8  M Oct 17    - Mass imbalance                      - `Prep 8`_                `HW #4`_
+               - Energy loss per cycle
                - Hysteretic damping
+               - Equivalent damping ratio
 9  W Oct 19    - Aerodynamic damping
                - Seismic instruments
 -- ----------  ------------------------------------  -------------------------  ---------------
@@ -89,6 +89,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Prep 5: {filename}/pages/materials/prep-05.rst
 .. _Prep 6: {filename}/pages/materials/prep-06.rst
 .. _Prep 7: {filename}/pages/materials/prep-07.rst
+.. _Prep 8: {filename}/pages/materials/prep-08.rst
 
 .. _Notes 2: {filename}/materials/notes-02.pdf
 .. _Notes 3: {filename}/materials/notes-03.pdf
