@@ -39,6 +39,7 @@ the schedule periodically for changes.**
 7  W Oct 12    - Damped frequency response           - `Prep 7`_
                - Forced with viscous damping         - `Notebook 7-1`_
                - Base excitation transmissibility    - `Notebook 7-2`_
+NA F Oct 14    - Discussion 1                        - `Discussion 1`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 8  M Oct 17    - Mass imbalance                      - `Prep 8`_                `HW #4`_
                - Energy loss per cycle
@@ -105,6 +106,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Notebook 5: http://tinyurl.com/eng122-lecture-5
 .. _Notebook 7-1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/forced_vibrations_with_viscous_damping.ipynb
 .. _Notebook 7-2: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/bumpy_road.ipynb
+.. _Discussion 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/discussion-01.ipynb
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
 .. _HW #2: {filename}/pages/homework/hw-02.rst
