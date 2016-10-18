@@ -8,7 +8,7 @@ Homework       PDF        Due Date
 `Homework #2`_ `PDF #2`_  October 3, 2016
 `Homework #3`_ `PDF #3`_  October 10, 2016
 `Homework #4`_ `PDF #4`_  October 17, 2016
-Homework #5     PDF #5    October 24, 2016
+`Homework #5`_ `PDF #5`_  October 24, 2016
 Homework #6     PDF #6    November 7,, 2016
 Homework #7     PDF #7    November 14, 2016
 Homework #8     PDF #8    November 21, 2016

@@ -42,25 +42,24 @@ the schedule periodically for changes.**
 NA F Oct 14    - Discussion 1                        - `Discussion 1`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 8  M Oct 17    - Mass imbalance                      - `Prep 8`_                `HW #4`_
-               - Energy loss per cycle
-               - Hysteretic damping
+               - Equivalent mass
+               - Equivalent stiffness
                - Equivalent damping ratio
-9  W Oct 19    - Aerodynamic damping
-               - Seismic instruments
+               - Energy loss per cycle
+               - Aerodynamic damping
+               - Hysteretic damping
+9  W Oct 19    - Impulse response function
 -- ----------  ------------------------------------  -------------------------  ---------------
-10 M Oct 24    - Residual vibrations                                            HW #5
-               - Impulse response function
-               - Triangular blast example
-11 W Oct 26    - Response to arbitrary input
-               - General forced response
+10 M Oct 24    - Response to arbitrary input                                    `HW #5`_
+               - Fourier Series
+11 W Oct 26    - Catch up
                - Midterm review
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Oct 31    - Midterm
-12 W Nov 2     - Fourier Series
-               - Response to arbitrary input
-               - Rayliegh's method
+12 W Nov 2     - Response to arbitrary periodic input
 -- ----------  ------------------------------------  -------------------------  ---------------
-13 M Nov 7     - Response spectrum                                              HW #6
+13 M Nov 7     - Response to random inputs                                       HW #6
+               - Shock Response spectrum
 14 W Nov 9     - Two DoF systems
                - Frequencies
                - Modeshapes
@@ -91,6 +90,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Prep 6: {filename}/pages/materials/prep-06.rst
 .. _Prep 7: {filename}/pages/materials/prep-07.rst
 .. _Prep 8: {filename}/pages/materials/prep-08.rst
+.. _Prep 9: {filename}/pages/materials/prep-09.rst
 
 .. _Notes 2: {filename}/materials/notes-02.pdf
 .. _Notes 3: {filename}/materials/notes-03.pdf
@@ -112,3 +112,4 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _HW #2: {filename}/pages/homework/hw-02.rst
 .. _HW #3: {filename}/pages/homework/hw-03.rst
 .. _HW #4: {filename}/pages/homework/hw-04.rst
+.. _HW #5: {filename}/pages/homework/hw-05.rst

@@ -161,7 +161,7 @@ ENG 122 Fall 2016 Homework #{}
 ===============================
 
 **DUE: {} before class in Box A in the MAE department if a paper assignment and
-if digital turn in it in via Canvas.**
+if digital turn it in via Canvas.**
 """
 
     web_header_template = """\
@@ -170,7 +170,7 @@ if digital turn in it in via Canvas.**
 :status: hidden
 
 **DUE: {} before class in Box A in the MAE department if a paper assignment and
-if digital turn in it in via Canvas.**
+if digital turn it in via Canvas.**
 
 `PDF Version <{{attach}}/materials/hw-{}.pdf>`_
 """
