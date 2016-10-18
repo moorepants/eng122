@@ -48,7 +48,7 @@ NA F Oct 14    - Discussion 1                        - `Discussion 1`_
                - Energy loss per cycle
                - Aerodynamic damping
                - Hysteretic damping
-9  W Oct 19    - Impulse response function
+9  W Oct 19    - Impulse response function           - `Prep 9`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 10 M Oct 24    - Response to arbitrary input                                    `HW #5`_
                - Fourier Series
