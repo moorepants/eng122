@@ -36,7 +36,7 @@ notebook, make sure you've done the following:
 Once you've done that, you can print the notebook by going into the "File" menu
 in the notebook and clicking "Print Preview". This should open up a new tab in
 your web browser which is just an HTML page. Use your browser's print
-functionality to print and/or save the notebook from there. To obttain a PDF
+functionality to print and/or save the notebook from there. To obtain a PDF
 version of the notebook, you should be able to "print to file" instead of
 selecting a printer from the print dialog. The details might depend on your
 computer platform.
