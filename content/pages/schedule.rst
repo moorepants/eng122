@@ -56,7 +56,8 @@ NA F Oct 14    - Discussion 1                        - `Discussion 1`_
                - Midterm review
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Oct 31    - Midterm
-12 W Nov 2     - Response to arbitrary periodic input
+12 W Nov 2     - Response to arbitrary periodic
+                 input
 -- ----------  ------------------------------------  -------------------------  ---------------
 13 M Nov 7     - Response to random inputs                                       HW #6
                - Shock Response spectrum
