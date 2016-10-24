@@ -50,13 +50,14 @@ NA F Oct 14    - Discussion 1                        - `Discussion 1`_
                - Hysteretic damping
 9  W Oct 19    - Impulse response function           - `Prep 9`_
 -- ----------  ------------------------------------  -------------------------  ---------------
-10 M Oct 24    - Response to arbitrary input                                    `HW #5`_
-               - Fourier Series
+10 M Oct 24    - Rayleigh dissipation function       - `Prep 10`_               `HW #5`_
+               - Response to arbitrary input
 11 W Oct 26    - Catch up
                - Midterm review
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Oct 31    - Midterm
-12 W Nov 2     - Response to arbitrary periodic
+12 W Nov 2     - Fourier Series
+               - Response to arbitrary periodic
                  input
 -- ----------  ------------------------------------  -------------------------  ---------------
 13 M Nov 7     - Response to random inputs                                       HW #6
@@ -92,6 +93,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Prep 7: {filename}/pages/materials/prep-07.rst
 .. _Prep 8: {filename}/pages/materials/prep-08.rst
 .. _Prep 9: {filename}/pages/materials/prep-09.rst
+.. _Prep 10: {filename}/pages/materials/prep-10.rst
 
 .. _Notes 2: {filename}/materials/notes-02.pdf
 .. _Notes 3: {filename}/materials/notes-03.pdf
