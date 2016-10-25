@@ -37,18 +37,20 @@ the schedule periodically for changes.**
                - Resonance                           - `Notes 6`_
                - Undamped freq response curve
 7  W Oct 12    - Damped frequency response           - `Prep 7`_
-               - Forced with viscous damping         - `Notebook 7-1`_
-               - Base excitation transmissibility    - `Notebook 7-2`_
+               - Forced with viscous damping         - `Notes 7`_
+               - Base excitation transmissibility    - `Notebook 7-1`_
+                                                     - `Notebook 7-2`_
 NA F Oct 14    - Discussion 1                        - `Discussion 1`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 8  M Oct 17    - Mass imbalance                      - `Prep 8`_                `HW #4`_
-               - Equivalent mass
+               - Equivalent mass                     - `Notes 8`_
                - Equivalent stiffness
                - Equivalent damping ratio
                - Energy loss per cycle
                - Aerodynamic damping
                - Hysteretic damping
 9  W Oct 19    - Impulse response function           - `Prep 9`_
+                                                     - `Notes 9`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 10 M Oct 24    - Rayleigh dissipation function       - `Prep 10`_               `HW #5`_
                - Response to arbitrary input
@@ -100,6 +102,9 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Notes 4: {filename}/materials/notes-04.pdf
 .. _Notes 5: {filename}/materials/notes-05.pdf
 .. _Notes 6: {filename}/materials/notes-06.pdf
+.. _Notes 7: {filename}/materials/notes-07.pdf
+.. _Notes 8: {filename}/materials/notes-08.pdf
+.. _Notes 9: {filename}/materials/notes-09.pdf
 
 .. _Exercises 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
 .. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
