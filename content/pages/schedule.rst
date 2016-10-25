@@ -53,7 +53,7 @@ NA F Oct 14    - Discussion 1                        - `Discussion 1`_
                                                      - `Notes 9`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 10 M Oct 24    - Rayleigh dissipation function       - `Prep 10`_               `HW #5`_
-               - Response to arbitrary input
+               - Response to arbitrary input         - `Notes 10`_
 11 W Oct 26    - Catch up
                - Midterm review
 -- ----------  ------------------------------------  -------------------------  ---------------
@@ -105,6 +105,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Notes 7: {filename}/materials/notes-07.pdf
 .. _Notes 8: {filename}/materials/notes-08.pdf
 .. _Notes 9: {filename}/materials/notes-09.pdf
+.. _Notes 10: {filename}/materials/notes-10.pdf
 
 .. _Exercises 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
 .. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
