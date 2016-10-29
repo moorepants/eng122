@@ -50,7 +50,8 @@ NA F Oct 14    - Discussion 1                        - `Discussion 1`_
                - Aerodynamic damping
                - Hysteretic damping
 9  W Oct 19    - Impulse response function           - `Prep 9`_
-                                                     - `Notes 9`_
+               - Book balancing problem              - `Notes 9`_
+                                                     - `Notebook 9`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 10 M Oct 24    - Rayleigh dissipation function       - `Prep 10`_               `HW #5`_
                - Response to arbitrary input         - `Notes 10`_
@@ -115,6 +116,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Notebook 5: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/nonlinear_vibrations.ipynb
 .. _Notebook 7-1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/forced_vibrations_with_viscous_damping.ipynb
 .. _Notebook 7-2: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/bumpy_road.ipynb
+.. _Notebook 9: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/book_balancing_solutions.ipynb
 .. _Discussion 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/discussion-01.ipynb
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
