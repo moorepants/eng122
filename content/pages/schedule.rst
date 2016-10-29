@@ -112,7 +112,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Intro to NumPy: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_numpy.ipynb
 .. _Intro to matplotlib: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_matplotlib.ipynb
 .. _Notebook 3: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/viscous_damping.ipynb
-.. _Notebook 5: http://tinyurl.com/eng122-lecture-5
+.. _Notebook 5: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/nonlinear_vibrations.ipynb
 .. _Notebook 7-1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/forced_vibrations_with_viscous_damping.ipynb
 .. _Notebook 7-2: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/bumpy_road.ipynb
 .. _Discussion 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/discussion-01.ipynb
