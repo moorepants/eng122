@@ -59,7 +59,7 @@ NA F Oct 14    - Discussion 1                        - `Discussion 1`_
                - Midterm review
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Oct 31    - Midterm
-12 W Nov 2     - Fourier Series
+12 W Nov 2     - Fourier Series                      - `Notebook 12`_
                - Response to arbitrary periodic
                  input
 -- ----------  ------------------------------------  -------------------------  ---------------
@@ -118,6 +118,8 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Notebook 7-1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/forced_vibrations_with_viscous_damping.ipynb
 .. _Notebook 7-2: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/bumpy_road.ipynb
 .. _Notebook 9: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/book_balancing_solutions.ipynb
+.. _Notebook 12: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/sawtooth_forcing.ipynb
+
 .. _Discussion 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/discussion-01.ipynb
 
 .. _HW #1: {filename}/pages/homework/hw-01.rst
