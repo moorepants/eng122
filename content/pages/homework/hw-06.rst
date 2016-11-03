@@ -1,0 +1,21 @@
+:title: Homework #06
+:subtitle: Monday, October 31, 2016
+:status: hidden
+
+**DUE: Monday, November 07, 2016 before class in Box A in the MAE department if a paper assignment and
+if digital turn it in via Canvas.**
+
+`PDF Version <{attach}/materials/hw-06.pdf>`_
+
+Problems
+========
+
+Problem 3.26
+   As stated in the book.
+Problem 3.32
+   Determine the Fourier series as the problem states. Then discuss the effects
+   of using fewer or more terms in the infinite series. Finally, plot the
+   response of a linear system described by :math:`m=100\textrm{ kg}`,
+   :math:`\zeta=0.1`, and :math:`k = 1000\textrm{ N/m}` to the square wave.
+   Include the transient and steady state response when
+   :math:`x_0=0.1\textrm{m}` and :math:`v_0=0\textrm{m/s}`.
