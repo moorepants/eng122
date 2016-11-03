@@ -63,7 +63,7 @@ NA M Oct 31    - Midterm
                - Response to arbitrary periodic
                  input
 -- ----------  ------------------------------------  -------------------------  ---------------
-13 M Nov 7     - Response to random inputs                                       HW #6
+13 M Nov 7     - Response to random inputs                                       `HW #6`_
                - Shock Response spectrum
 14 W Nov 9     - Two DoF systems
                - Frequencies
@@ -127,3 +127,4 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _HW #3: {filename}/pages/homework/hw-03.rst
 .. _HW #4: {filename}/pages/homework/hw-04.rst
 .. _HW #5: {filename}/pages/homework/hw-05.rst
+.. _HW #6: {filename}/pages/homework/hw-06.rst
