@@ -65,7 +65,7 @@ NA M Oct 31    - Midterm
 -- ----------  ------------------------------------  -------------------------  ---------------
 13 M Nov 7     - Response to random inputs                                       `HW #6`_
                - Shock Response spectrum
-14 W Nov 9     - Two DoF systems
+14 W Nov 9     - Two DoF systems                     - `Notebook 14`_
                - Frequencies
                - Modeshapes
 -- ----------  ------------------------------------  -------------------------  ---------------
@@ -119,6 +119,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Notebook 7-2: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/bumpy_road.ipynb
 .. _Notebook 9: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/book_balancing_solutions.ipynb
 .. _Notebook 12: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/sawtooth_forcing.ipynb
+.. _Notebook 14: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/bicycle2dof.ipynb
 
 .. _Discussion 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/discussion-01.ipynb
 
