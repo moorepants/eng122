@@ -59,28 +59,29 @@ NA F Oct 14    - Discussion 1                        - `Discussion 1`_
                - Midterm review
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Oct 31    - Midterm
-12 W Nov 2     - Fourier Series                      - `Notebook 12`_
-               - Response to arbitrary periodic
+12 W Nov 2     - Fourier Series                      - `Notes 12`_
+               - Response to arbitrary periodic      - `Notebook 12`_
                  input
 -- ----------  ------------------------------------  -------------------------  ---------------
-13 M Nov 7     - Response to random inputs                                       `HW #6`_
-               - Shock Response spectrum
-14 W Nov 9     - Two DoF systems                     - `Notebook 14`_
+13 M Nov 7     - Free response of two DoF systems    - `Notes 13`_              `HW #6`_
+14 W Nov 9     - Transform methods                   - `Notes 14`_
+               - Response to random inputs           - `Notebook 14`_
+               - Damped response of two DoF systems
+-- ----------  ------------------------------------  -------------------------  ---------------
+15 M Nov 14    - Symmetric eigenproblem analogy
+               - Rotation and translation example
                - Frequencies
                - Modeshapes
--- ----------  ------------------------------------  -------------------------  ---------------
-15 M Nov 14    - Symmetric eigenproblem analogy                                 HW #7
-               - Rotation and translation example
 16 W Nov 16    - Rigid body modes
                - Numerical simulation
 -- ----------  ------------------------------------  -------------------------  ---------------
-17 M Nov 21    - Multiple degrees of freedom                                    HW #8
+17 M Nov 21    - Multiple degrees of freedom                                    HW #7
 18 W Nov 23    - Vibration standards
                - ISO
                - Isolator design
                - Vibration absorbers
 -- ----------  ------------------------------------  -------------------------  ---------------
-19 M Nov 28    - Vibration absorbers                                            HW #9
+19 M Nov 28    - Vibration absorbers                                            HW #8
 20 W Nov 30    - Vibration absorbers damping
                - Review
 -- ----------  ------------------------------------  -------------------------  ---------------
@@ -108,6 +109,9 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Notes 9: {filename}/materials/notes-09.pdf
 .. _Notes 10: {filename}/materials/notes-10.pdf
 .. _Notes 11: {filename}/materials/notes-11.pdf
+.. _Notes 12: {filename}/materials/notes-12.pdf
+.. _Notes 13: {filename}/materials/notes-13.pdf
+.. _Notes 14: {filename}/materials/notes-14.pdf
 
 .. _Exercises 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
 .. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
