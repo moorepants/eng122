@@ -68,11 +68,12 @@ NA M Oct 31    - Midterm
                - Response to random inputs           - `Notebook 14`_
                - Damped response of two DoF systems
 -- ----------  ------------------------------------  -------------------------  ---------------
-15 M Nov 14    - Symmetric eigenproblem analogy
-               - Rotation and translation example
+15 M Nov 14    - Damped response of two DoF systems  - `Prep 15`_
                - Frequencies
                - Modeshapes
-16 W Nov 16    - Rigid body modes
+16 W Nov 16    - Symmetric eigenproblem analogy
+               - Rotation and translation example
+               - Rigid body modes
                - Numerical simulation
 -- ----------  ------------------------------------  -------------------------  ---------------
 17 M Nov 21    - Multiple degrees of freedom                                    HW #7
@@ -98,6 +99,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Prep 8: {filename}/pages/materials/prep-08.rst
 .. _Prep 9: {filename}/pages/materials/prep-09.rst
 .. _Prep 10: {filename}/pages/materials/prep-10.rst
+.. _Prep 15: {filename}/pages/materials/prep-15.rst
 
 .. _Notes 2: {filename}/materials/notes-02.pdf
 .. _Notes 3: {filename}/materials/notes-03.pdf
