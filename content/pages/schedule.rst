@@ -124,7 +124,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Notebook 7-1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/forced_vibrations_with_viscous_damping.ipynb
 .. _Notebook 7-2: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/bumpy_road.ipynb
 .. _Notebook 9: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/book_balancing_solutions.ipynb
-.. _Notebook 12: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/sawtooth_forcing.ipynb
+.. _Notebook 12: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/sawtooth_forcing_solutions.ipynb
 .. _Notebook 14: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/bicycle2dof.ipynb
 
 .. _Discussion 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/discussion-01.ipynb
