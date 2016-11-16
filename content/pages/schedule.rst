@@ -64,27 +64,27 @@ NA M Oct 31    - Midterm
                  input
 -- ----------  ------------------------------------  -------------------------  ---------------
 13 M Nov 7     - Free response of two DoF systems    - `Notes 13`_              `HW #6`_
+               - Eigenvalues and Eigenvectors
 14 W Nov 9     - Transform methods                   - `Notes 14`_
                - Response to random inputs           - `Notebook 14`_
                - Damped response of two DoF systems
 -- ----------  ------------------------------------  -------------------------  ---------------
-15 M Nov 14    - Damped response of two DoF systems  - `Prep 15`_
+15 M Nov 14    - Modal Analysis                      - `Prep 15`_
+               - Symmetric eigenproblem analogy
                - Frequencies
                - Modeshapes
-16 W Nov 16    - Symmetric eigenproblem analogy
-               - Rotation and translation example
+16 W Nov 16    - Damped response of two DoF systems  - `Prep 16`_
                - Rigid body modes
-               - Numerical simulation
+               - Rotation and translation example
 -- ----------  ------------------------------------  -------------------------  ---------------
 17 M Nov 21    - Multiple degrees of freedom                                    HW #7
-18 W Nov 23    - Vibration standards
-               - ISO
+               - Forced response
+18 W Nov 23    - Vibration standards (ISO)
                - Isolator design
                - Vibration absorbers
 -- ----------  ------------------------------------  -------------------------  ---------------
-19 M Nov 28    - Vibration absorbers                                            HW #8
-20 W Nov 30    - Vibration absorbers damping
-               - Review
+19 M Nov 28    - Distributed-Parameter Systems                                  HW #8
+20 W Nov 30    - Review
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA R Dec 8     **Final Exam** 8:00-10:00
 == ==========  ====================================  =========================  ===============
@@ -100,6 +100,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Prep 9: {filename}/pages/materials/prep-09.rst
 .. _Prep 10: {filename}/pages/materials/prep-10.rst
 .. _Prep 15: {filename}/pages/materials/prep-15.rst
+.. _Prep 16: {filename}/pages/materials/prep-16.rst
 
 .. _Notes 2: {filename}/materials/notes-02.pdf
 .. _Notes 3: {filename}/materials/notes-03.pdf
