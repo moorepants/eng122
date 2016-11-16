@@ -1,0 +1,13 @@
+:title: Homework #07
+:subtitle: Monday, November 14, 2016
+:status: hidden
+
+**DUE: Monday, November 21, 2016 before class in Box A in the MAE department if a paper assignment and
+if digital turn it in via Canvas.**
+
+`PDF Version <{attach}/materials/hw-07.pdf>`_
+
+Problems
+========
+
+Complete problems 3.41, 3.44, 4.12, 4.15, 4.22, 4.39.

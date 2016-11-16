@@ -10,9 +10,8 @@ Homework       PDF        Due Date
 `Homework #4`_ `PDF #4`_  October 17, 2016
 `Homework #5`_ `PDF #5`_  October 24, 2016
 `Homework #6`_ `PDF #6`_  November 7, 2016
-Homework #7     PDF #7    November 14, 2016
-Homework #8     PDF #8    November 21, 2016
-Homework #9     PDF #9    November 28, 2016
+`Homework #7`_ `PDF #7`_  November 21, 2016
+Homework #8     PDF #8    November 28, 2016
 ============== ========== ================
 
 .. _Homework #1: {filename}/pages/homework/hw-01.rst
@@ -23,7 +22,6 @@ Homework #9     PDF #9    November 28, 2016
 .. _Homework #6: {filename}/pages/homework/hw-06.rst
 .. _Homework #7: {filename}/pages/homework/hw-07.rst
 .. _Homework #8: {filename}/pages/homework/hw-08.rst
-.. _Homework #9: {filename}/pages/homework/hw-09.rst
 
 .. _PDF #1: {attach}/materials/hw-01.pdf
 .. _PDF #2: {attach}/materials/hw-02.pdf
@@ -33,4 +31,3 @@ Homework #9     PDF #9    November 28, 2016
 .. _PDF #6: {attach}/materials/hw-06.pdf
 .. _PDF #7: {attach}/materials/hw-07.pdf
 .. _PDF #8: {attach}/materials/hw-08.pdf
-.. _PDF #9: {attach}/materials/hw-09.pdf
