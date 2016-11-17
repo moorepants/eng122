@@ -77,7 +77,7 @@ NA M Oct 31    - Midterm
                - Rigid body modes
                - Rotation and translation example
 -- ----------  ------------------------------------  -------------------------  ---------------
-17 M Nov 21    - Multiple degrees of freedom                                    HW #7
+17 M Nov 21    - Multiple degrees of freedom                                    `HW #7`_
                - Forced response
 18 W Nov 23    - Vibration standards (ISO)
                - Isolator design
@@ -136,3 +136,4 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _HW #4: {filename}/pages/homework/hw-04.rst
 .. _HW #5: {filename}/pages/homework/hw-05.rst
 .. _HW #6: {filename}/pages/homework/hw-06.rst
+.. _HW #7: {filename}/pages/homework/hw-07.rst
