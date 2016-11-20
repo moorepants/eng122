@@ -77,13 +77,13 @@ NA M Oct 31    - Midterm
                - Rigid body modes                    - `Notes 16`_
                - Rotation and translation example
 -- ----------  ------------------------------------  -------------------------  ---------------
-17 M Nov 21    - Multiple degrees of freedom                                    `HW #7`_
+17 M Nov 21    - Multiple degrees of freedom
                - Forced response
 18 W Nov 23    - Vibration standards (ISO)
                - Isolator design
                - Vibration absorbers
 -- ----------  ------------------------------------  -------------------------  ---------------
-19 M Nov 28    - Distributed-Parameter Systems                                  HW #8
+19 M Nov 28    - Distributed-Parameter Systems                                  `HW #7`_
 20 W Nov 30    - Review
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA R Dec 8     **Final Exam** 8:00-10:00
