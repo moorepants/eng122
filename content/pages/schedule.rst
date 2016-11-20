@@ -70,11 +70,11 @@ NA M Oct 31    - Midterm
                - Damped response of two DoF systems
 -- ----------  ------------------------------------  -------------------------  ---------------
 15 M Nov 14    - Modal Analysis                      - `Prep 15`_
-               - Symmetric eigenproblem analogy
+               - Symmetric eigenproblem analogy      - `Notes 15`_
                - Frequencies
                - Modeshapes
 16 W Nov 16    - Damped response of two DoF systems  - `Prep 16`_
-               - Rigid body modes
+               - Rigid body modes                    - `Notes 16`_
                - Rotation and translation example
 -- ----------  ------------------------------------  -------------------------  ---------------
 17 M Nov 21    - Multiple degrees of freedom                                    `HW #7`_
@@ -115,6 +115,8 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Notes 12: {filename}/materials/notes-12.pdf
 .. _Notes 13: {filename}/materials/notes-13.pdf
 .. _Notes 14: {filename}/materials/notes-14.pdf
+.. _Notes 15: {filename}/materials/notes-15.pdf
+.. _Notes 16: {filename}/materials/notes-16.pdf
 
 .. _Exercises 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
 .. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
