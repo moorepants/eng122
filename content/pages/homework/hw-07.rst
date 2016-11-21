@@ -2,7 +2,7 @@
 :subtitle: Monday, November 14, 2016
 :status: hidden
 
-**DUE: Monday, November 21, 2016 before class in Box A in the MAE department if a paper assignment and
+**DUE: Monday, November 28, 2016 before class in Box A in the MAE department if a paper assignment and
 if digital turn it in via Canvas.**
 
 `PDF Version <{attach}/materials/hw-07.pdf>`_
