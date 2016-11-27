@@ -73,6 +73,12 @@ Office Hours
 | Bainer 2071 (CAE Lab)
 | Th 3-4, F 2-3
 
+To schedule an appointment with Jason, check his work calendar and select at
+least three potential times on different weekdays between 8 AM and 6PM. Send
+him an email requesting an appointment at the suggested meeting times.
+
+.. _work calendar: http://www.moorepants.info/work-calendar.html
+
 Academic Integrity
 ==================
 
