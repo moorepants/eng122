@@ -77,14 +77,15 @@ NA M Oct 31    - Midterm
                - Rigid body modes                    - `Notes 16`_
                - Rotation and translation example
 -- ----------  ------------------------------------  -------------------------  ---------------
-17 M Nov 21    - Multiple degrees of freedom
-               - Forced response
-18 W Nov 23    - Vibration standards (ISO)
+17 M Nov 21    - Multiple degrees of freedom         - `Notes 17`_
+18 W Nov 23    - Multiple degrees of freedom         - `Notebook 18`_
+-- ----------  ------------------------------------  -------------------------  ---------------
+19 M Nov 28    - Forced response                     - `Prep 19`_               `HW #7`_
+               - Vibration standards (ISO)
                - Isolator design
                - Vibration absorbers
--- ----------  ------------------------------------  -------------------------  ---------------
-19 M Nov 28    - Distributed-Parameter Systems                                  `HW #7`_
-20 W Nov 30    - Review
+20 W Nov 30    - Course evals
+               - Review
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA R Dec 8     **Final Exam** 8:00-10:00
 == ==========  ====================================  =========================  ===============
@@ -101,6 +102,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Prep 10: {filename}/pages/materials/prep-10.rst
 .. _Prep 15: {filename}/pages/materials/prep-15.rst
 .. _Prep 16: {filename}/pages/materials/prep-16.rst
+.. _Prep 19: {filename}/pages/materials/prep-19.rst
 
 .. _Notes 2: {filename}/materials/notes-02.pdf
 .. _Notes 3: {filename}/materials/notes-03.pdf
@@ -117,6 +119,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Notes 14: {filename}/materials/notes-14.pdf
 .. _Notes 15: {filename}/materials/notes-15.pdf
 .. _Notes 16: {filename}/materials/notes-16.pdf
+.. _Notes 17: {filename}/materials/notes-17.pdf
 
 .. _Exercises 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
 .. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
@@ -129,6 +132,7 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Notebook 9: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/book_balancing_solutions.ipynb
 .. _Notebook 12: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/sawtooth_forcing_solutions.ipynb
 .. _Notebook 14: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/bicycle2dof.ipynb
+.. _Notebook 18: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/vibrating_building.ipynb
 
 .. _Discussion 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/discussion-01.ipynb
 
