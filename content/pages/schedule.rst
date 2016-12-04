@@ -81,10 +81,10 @@ NA M Oct 31    - Midterm
 18 W Nov 23    - Multiple degrees of freedom         - `Notebook 18`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 19 M Nov 28    - Forced response                     - `Prep 19`_               `HW #7`_
-               - Vibration standards (ISO)
+               - Vibration standards (ISO)           - `Notes 19`_
                - Isolator design
                - Vibration absorbers
-20 W Nov 30    - Course evals
+20 W Nov 30    - Course evals                        - `Notes 20`_
                - Review
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA R Dec 8     **Final Exam** 8:00-10:00
@@ -120,6 +120,8 @@ NA R Dec 8     **Final Exam** 8:00-10:00
 .. _Notes 15: {filename}/materials/notes-15.pdf
 .. _Notes 16: {filename}/materials/notes-16.pdf
 .. _Notes 17: {filename}/materials/notes-17.pdf
+.. _Notes 19: {filename}/materials/notes-19.pdf
+.. _Notes 20: {filename}/materials/notes-20.pdf
 
 .. _Exercises 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
 .. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
