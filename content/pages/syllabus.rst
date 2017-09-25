@@ -9,13 +9,12 @@ Course Description
 | University of California, Davis
 | Department of Mechanical and Aerospace Engineering
 | Introduction to Mechanical Vibrations - ENG 122
-| Fall 2016, Lecture: MW 4:10-6:00PM
-| CRN: 32317
-| `Catalog Entry <http://catalog.ucdavis.edu/programs/ENG/ENGcourses.html>`_
+| Fall 2017, Lecture: MW 4:10-6:00PM
+| CRN:
 
 Mechanical structures and systems are susceptible to vibrations, i.e. periodic
 changes in the physical state. Vibrations can both be a hindrance and a benefit
-to machines. In this course we will learn how one can predict vibrations and
+to machines. In this course, we will learn how one can predict vibrations and
 interpret simulated and measured vibrations using analytical and computational
 means. We will cover topics ranging from free and forced vibrations in
 lumped-parameter systems with and without damping, vibrations in coupled
@@ -24,13 +23,20 @@ systems, electromechanical analogs, and use of energy conservation principles.
 Learning Objectives
 -------------------
 
-1. Students will derive and interpret analytical vibrational theory.
-2. Students will create models of mechanical systems capable of explaining
-   vibrational phenomena.
-3. Students will write computer programs that simulate and explore vibrating
-   mechanical systems.
-4. Students will analyze and interpret simulations and measurements of
-   mechanical systems.
+There are three broad learning objectives that we focus on in the course:
+
+1. Students will be able to analyze vibrational measurement data to draw
+   conclusions about the measured system's vibrational nature and describe how
+   the systems behaves vibrational.
+2. Students will be able to create simple mathematical and computational models
+   of real vibrating systems that can be used to answer specific questions
+   about the system by concisely demonstrating the vibrational phenomena.
+3. Students will be able to design a mechanical structure that has desirable
+   vibrational behavior.
+
+Students that master these three core learning objectives will be well prepared
+to use mechanical vibration concepts, theories, and tools to solve engineering
+problems.
 
 Prerequisites
 -------------
@@ -56,7 +62,7 @@ Time and Location
 =================
 
 The lecture/discussion meets on Mondays and Wednesdays from 4:10-6:00 PM in
-Haring Hall 1204.
+Bainer Hall 1060.
 
 **If you have any conflicts with the schedule, especially for the midterm or
 exam, you must tell me in the first week of class (emergencies will be the only
@@ -67,15 +73,15 @@ Office Hours
 
 | Instructor Office Hours
 | Bainer 2095
-| Th 10-11, F 11-12
+| TBA
 |
 | TA Office Hours
 | Bainer 2071 (CAE Lab)
-| Th 3-4, F 2-3
+| TBA
 
-To schedule an appointment with Jason, check his work calendar and select at
-least three potential times on different weekdays between 8 AM and 6PM. Send
-him an email requesting an appointment at the suggested meeting times.
+To schedule an appointment with Jason, check his work calendar and select a
+free time between 8:00 AM and 6:30 PM. Send him an email requesting an
+appointment at the suggested meeting times at least two days in advance.
 
 .. _work calendar: http://www.moorepants.info/work-calendar.html
 
@@ -88,9 +94,6 @@ Office of Student Judicial Affairs to review the campus' policy on academic
 responsibility and integrity and read the UC Davis `code of academic conduct
 <http://sja.ucdavis.edu/cac.html>`_.
 
-The midterm and final exam will be closed note, closed book and done on an
-individual basis.
-
 Feel free to discuss homework assignments and work on them together, but each
 student must turn in a *unique* solution. Keep in mind that actually doing all
 of the homework yourself is critical for learning and passing the course.
@@ -98,10 +101,16 @@ of the homework yourself is critical for learning and passing the course.
 Textbook
 ========
 
-*Engineering Vibration*, Daniel J. Inman, 4th Edition, Pearson Education. ISBN
-978-0-13-287169-3 [`Book Information`_]
+In the past, I have used the following book as the official and required
+textbook:
 
-Most homework problems will come from the book.
+   *Engineering Vibration*, Daniel J. Inman, 4th Edition, Pearson Education.
+   ISBN 978-0-13-287169-3 [`Book Information`_]
+
+This year, the textbook is optional and will only be a reference. We will not
+be following it in any way. We will provide you with free online resources and
+other materials for reading. Note that many students have found the above book
+in paperback for ~$25 via non-standard channels.
 
 .. _Book Information: https://www.pearsonhighered.com/program/Inman-Engineering-Vibration-4th-Edition/PGM198634.html
 
@@ -114,10 +123,11 @@ regular basis to gauge your performance. Keep in mind that **15% is deducted
 per business day late** on all assignments.
 
 ================  ===
-Classwork         5%
-Homework          15%
-Midterm           35%
-Final             45%
+Classwork         10%
+Homework          20%
+Midterm           20%
+Final             20%
+Project           30%
 ================  ===
 
 .. _canvas.ucdavis.edu: http://canvas.ucdavis.edu
