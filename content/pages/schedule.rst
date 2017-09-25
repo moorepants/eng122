@@ -9,139 +9,45 @@ the schedule periodically for changes.**
 == ==========  ====================================  =========================  ===============
 #  Date        Topic                                 Materials                  Assignment Due
 == ==========  ====================================  =========================  ===============
-1  W Sep 21    - Intro to mechanical vibrations      - `Prep 1`_
-               - Intro to Scientific Python          - `Exercises 1`_
-                                                     - `Intro to Python`_
-                                                     - `Intro to NumPy`_
-                                                     - `Intro to matplotlib`_
+01 W Sep 27    - Introduction
+               - Working with Jupyter and Python
+               - Book Balancing on a Cup Demo
 -- ----------  ------------------------------------  -------------------------  ---------------
-2  M Sep 26    - History of Vibrations               - `Prep 2`_                `HW #1`_
-               - Energy methods                      - `Notes 2`_
-               - Simple pendulum
-3  W Sep 28    - Harmonic motion                     - `Prep 3`_
-               - Initial conditions                  - `Notes 3`_
-               - Phase                               - `Notebook 3`_
-               - More on energy methods
-               - Viscous damping
+02 M Oct 02    Book Balancing on a Cup Revsited                                 HW 01
+03 W Oct 04    Measuring a Bicycle Wheel's Inertia
 -- ----------  ------------------------------------  -------------------------  ---------------
-4  M Oct 3     - Compound pendulum                   - `Prep 4`_                `HW #2`_
-               - Stiffness                           - `Notes 4`_
-               - Stability
-5  W Oct 5     - Spring mass                         - `Prep 5`_
-               - Filar pendulum                      - `Notes 5`_
-               - Log decrement                       - `Notebook 5`_
-               - Nonlinear simulation of vibrations
-               - Coulomb damping in free vibration
+04 M Oct 09    Clock Pendulum with Damping                                      HW 02
+05 W Oct 11    Vibration of a Bus Driver's Seat
 -- ----------  ------------------------------------  -------------------------  ---------------
-6  M Oct 10    - Forced vibration with no damping    - `Prep 6`_                `HW #3`_
-               - Resonance                           - `Notes 6`_
-               - Undamped freq response curve
-7  W Oct 12    - Damped frequency response           - `Prep 7`_
-               - Forced with viscous damping         - `Notes 7`_
-               - Base excitation transmissibility    - `Notebook 7-1`_
-                                                     - `Notebook 7-2`_
-NA F Oct 14    - Discussion 1                        - `Discussion 1`_
+06 M Oct 16    Bicycle Lateral Vibration                                        HW 03
+07 W Oct 18    Multi-story Building During Earthquake
 -- ----------  ------------------------------------  -------------------------  ---------------
-8  M Oct 17    - Mass imbalance                      - `Prep 8`_                `HW #4`_
-               - Equivalent mass                     - `Notes 8`_
-               - Equivalent stiffness
-               - Equivalent damping ratio
-               - Energy loss per cycle
-               - Aerodynamic damping
-               - Hysteretic damping
-9  W Oct 19    - Impulse response function           - `Prep 9`_
-               - Book balancing problem              - `Notes 9`_
-                                                     - `Notebook 9`_
+08 M Oct 23    Modeling Bicycle Wheel Pendulum                                  HW 04
+NA T Oct 24    Drop Date
+09 W Oct 25    - Modeling A Non-linear Spring
+               - Review for exam
 -- ----------  ------------------------------------  -------------------------  ---------------
-10 M Oct 24    - Rayleigh dissipation function       - `Prep 10`_               `HW #5`_
-               - Response to arbitrary input         - `Notes 10`_
-11 W Oct 26    - Catch up                            - `Notes 11`_
-               - Midterm review
+10 M Oct 30    Midterm Exam
+11 W Nov 01    Modeling the Bus Driver's Seat
 -- ----------  ------------------------------------  -------------------------  ---------------
-NA M Oct 31    - Midterm
-12 W Nov 2     - Fourier Series                      - `Notes 12`_
-               - Response to arbitrary periodic      - `Notebook 12`_
-                 input
+12 M Nov 06    Balancing a Car Tire                                             HW 05
+13 W Nov 08    Modeling an Engine Cam
+NA F Nov 11    Veteran's Day Holiday
 -- ----------  ------------------------------------  -------------------------  ---------------
-13 M Nov 7     - Free response of two DoF systems    - `Notes 13`_              `HW #6`_
-               - Eigenvalues and Eigenvectors
-14 W Nov 9     - Transform methods                   - `Notes 14`_
-               - Response to random inputs           - `Notebook 14`_
-               - Damped response of two DoF systems
+14 M Nov 13    Modeling a Multi-story Building                                  HW 06
+15 W Nov 15    Modeling the Bicycle
 -- ----------  ------------------------------------  -------------------------  ---------------
-15 M Nov 14    - Modal Analysis                      - `Prep 15`_
-               - Symmetric eigenproblem analogy      - `Notes 15`_
-               - Frequencies
-               - Modeshapes
-16 W Nov 16    - Damped response of two DoF systems  - `Prep 16`_
-               - Rigid body modes                    - `Notes 16`_
-               - Rotation and translation example
+16 M Nov 20    Desiging a Clock That Keeps Time                                 HW 07
+17 W Nov 22    Isolator Selection
+NA R Nov 23    Thanksgiving Holiday
+NA F Nov 24    Thanksgiving Holiday
 -- ----------  ------------------------------------  -------------------------  ---------------
-17 M Nov 21    - Multiple degrees of freedom         - `Notes 17`_
-18 W Nov 23    - Multiple degrees of freedom         - `Notebook 18`_
+18 M Nov 27    Designing a Building Tuned Mass Damper                           HW 08
+19 W Nov 29    Designing a Stable Bicycle
 -- ----------  ------------------------------------  -------------------------  ---------------
-19 M Nov 28    - Forced response                     - `Prep 19`_               `HW #7`_
-               - Vibration standards (ISO)           - `Notes 19`_
-               - Isolator design
-               - Vibration absorbers
-20 W Nov 30    - Course evals                        - `Notes 20`_
-               - Review
+20 M Dec 04    TBA                                                              HW 09
+21 W Dec 0     - TBA
+               - Exam Review
 -- ----------  ------------------------------------  -------------------------  ---------------
-NA R Dec 8     **Final Exam** 8:00-10:00
+NA R Dec ?     **Final Exam**
 == ==========  ====================================  =========================  ===============
-
-.. _Prep 1: {filename}/pages/materials/prep-01.rst
-.. _Prep 2: {filename}/pages/materials/prep-02.rst
-.. _Prep 3: {filename}/pages/materials/prep-03.rst
-.. _Prep 4: {filename}/pages/materials/prep-04.rst
-.. _Prep 5: {filename}/pages/materials/prep-05.rst
-.. _Prep 6: {filename}/pages/materials/prep-06.rst
-.. _Prep 7: {filename}/pages/materials/prep-07.rst
-.. _Prep 8: {filename}/pages/materials/prep-08.rst
-.. _Prep 9: {filename}/pages/materials/prep-09.rst
-.. _Prep 10: {filename}/pages/materials/prep-10.rst
-.. _Prep 15: {filename}/pages/materials/prep-15.rst
-.. _Prep 16: {filename}/pages/materials/prep-16.rst
-.. _Prep 19: {filename}/pages/materials/prep-19.rst
-
-.. _Notes 2: {filename}/materials/notes-02.pdf
-.. _Notes 3: {filename}/materials/notes-03.pdf
-.. _Notes 4: {filename}/materials/notes-04.pdf
-.. _Notes 5: {filename}/materials/notes-05.pdf
-.. _Notes 6: {filename}/materials/notes-06.pdf
-.. _Notes 7: {filename}/materials/notes-07.pdf
-.. _Notes 8: {filename}/materials/notes-08.pdf
-.. _Notes 9: {filename}/materials/notes-09.pdf
-.. _Notes 10: {filename}/materials/notes-10.pdf
-.. _Notes 11: {filename}/materials/notes-11.pdf
-.. _Notes 12: {filename}/materials/notes-12.pdf
-.. _Notes 13: {filename}/materials/notes-13.pdf
-.. _Notes 14: {filename}/materials/notes-14.pdf
-.. _Notes 15: {filename}/materials/notes-15.pdf
-.. _Notes 16: {filename}/materials/notes-16.pdf
-.. _Notes 17: {filename}/materials/notes-17.pdf
-.. _Notes 19: {filename}/materials/notes-19.pdf
-.. _Notes 20: {filename}/materials/notes-20.pdf
-
-.. _Exercises 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/exercises-01.ipynb
-.. _Intro to Python: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_python.ipynb
-.. _Intro to NumPy: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_numpy.ipynb
-.. _Intro to matplotlib: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/intro_to_matplotlib.ipynb
-.. _Notebook 3: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/viscous_damping.ipynb
-.. _Notebook 5: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/nonlinear_vibrations.ipynb
-.. _Notebook 7-1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/forced_vibrations_with_viscous_damping.ipynb
-.. _Notebook 7-2: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/bumpy_road.ipynb
-.. _Notebook 9: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/book_balancing_solutions.ipynb
-.. _Notebook 12: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/sawtooth_forcing_solutions.ipynb
-.. _Notebook 14: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/bicycle2dof_solutions.ipynb
-.. _Notebook 18: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/vibrating_building.ipynb
-
-.. _Discussion 1: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/discussion-01.ipynb
-
-.. _HW #1: {filename}/pages/homework/hw-01.rst
-.. _HW #2: {filename}/pages/homework/hw-02.rst
-.. _HW #3: {filename}/pages/homework/hw-03.rst
-.. _HW #4: {filename}/pages/homework/hw-04.rst
-.. _HW #5: {filename}/pages/homework/hw-05.rst
-.. _HW #6: {filename}/pages/homework/hw-06.rst
-.. _HW #7: {filename}/pages/homework/hw-07.rst
