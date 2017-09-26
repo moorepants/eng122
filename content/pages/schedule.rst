@@ -9,8 +9,8 @@ the schedule periodically for changes.**
 == ==========  ====================================  =========================  ===============
 #  Date        Topic                                 Materials                  Assignment Due
 == ==========  ====================================  =========================  ===============
-01 W Sep 27    - Introduction
-               - Working with Jupyter and Python
+01 W Sep 27    - Introduction                        - `NB 01`_
+               - Working with Jupyter and Python     - `NB 02`_
                - Book Balancing on a Cup Demo
 -- ----------  ------------------------------------  -------------------------  ---------------
 02 M Oct 02    Book Balancing on a Cup Revsited                                 HW 01
@@ -20,7 +20,7 @@ the schedule periodically for changes.**
 05 W Oct 11    Vibration of a Bus Driver's Seat
 -- ----------  ------------------------------------  -------------------------  ---------------
 06 M Oct 16    Bicycle Lateral Vibration                                        HW 03
-07 W Oct 18    Multi-story Building During Earthquake
+07 W Oct 18    Multi-story Building Earthquake
 -- ----------  ------------------------------------  -------------------------  ---------------
 08 M Oct 23    Modeling Bicycle Wheel Pendulum                                  HW 04
 NA T Oct 24    Drop Date
@@ -42,12 +42,15 @@ NA F Nov 11    Veteran's Day Holiday
 NA R Nov 23    Thanksgiving Holiday
 NA F Nov 24    Thanksgiving Holiday
 -- ----------  ------------------------------------  -------------------------  ---------------
-18 M Nov 27    Designing a Building Tuned Mass Damper                           HW 08
+18 M Nov 27    Designing a Tuned Mass Damper                                    HW 08
 19 W Nov 29    Designing a Stable Bicycle
 -- ----------  ------------------------------------  -------------------------  ---------------
-20 M Dec 04    TBA                                                              HW 09
-21 W Dec 0     - TBA
+20 M Dec 04    TBA
+21 W Dec 06    - TBA                                                            Design Report Due
                - Exam Review
 -- ----------  ------------------------------------  -------------------------  ---------------
-NA R Dec ?     **Final Exam**
+NA T Dec 12    **Final Exam** 6:00 pm - 8:00 pm
 == ==========  ====================================  =========================  ===============
+
+.. _NB 01: https://moorepants.github.io/resonance/01-intro-jupyter.html
+.. _NB 02: https://moorepants.github.io/resonance/02-book-balancing-intro.html

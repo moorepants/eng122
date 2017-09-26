@@ -10,7 +10,7 @@ Course Description
 | Department of Mechanical and Aerospace Engineering
 | Introduction to Mechanical Vibrations - ENG 122
 | Fall 2017, Lecture: MW 4:10-6:00PM
-| CRN:
+| CRN: 41697
 
 Mechanical structures and systems are susceptible to vibrations, i.e. periodic
 changes in the physical state. Vibrations can both be a hindrance and a benefit
@@ -19,6 +19,16 @@ interpret simulated and measured vibrations using analytical and computational
 means. We will cover topics ranging from free and forced vibrations in
 lumped-parameter systems with and without damping, vibrations in coupled
 systems, electromechanical analogs, and use of energy conservation principles.
+
+Catalog Description
+-------------------
+
+   Lecture—4 hours. Prerequisite: C- or better in Engineering 102; C- or better
+   in Engineering 6 or course 5 or Computer Science Engineering 30; ability to
+   program in MATLAB. Free and forced vibrations in lumped-parameter systems
+   with and without damping; vibrations in coupled systems; electromechanical
+   analogs; use of energy conservation principles. GE credit: SciEng | QL,
+   SE.—F. (F.)
 
 Learning Objectives
 -------------------
@@ -53,6 +63,7 @@ Instructors
 
 | Jason K. Moore
 | 2095 Bainer Hall
+| 530-752-4805
 | jkm@ucdavis.edu
 |
 | Kenneth Lyons
@@ -64,8 +75,8 @@ Time and Location
 The lecture/discussion meets on Mondays and Wednesdays from 4:10-6:00 PM in
 Bainer Hall 1060.
 
-**If you have any conflicts with the schedule, especially for the midterm or
-exam, you must tell me in the first week of class (emergencies will be the only
+**If you have any conflicts with the schedule, especially for the exams, you
+must tell me in the first week of class (emergencies will be the only
 exception).**
 
 Office Hours
@@ -80,8 +91,8 @@ Office Hours
 | TBA
 
 To schedule an appointment with Jason, check his work calendar and select a
-free time between 8:00 AM and 6:30 PM. Send him an email requesting an
-appointment at the suggested meeting times at least two days in advance.
+free time between 8:00 AM and 6:30 PM on weekdays. Send him an email requesting
+an appointment at the suggested meeting times at least two days in advance.
 
 .. _work calendar: http://www.moorepants.info/work-calendar.html
 
@@ -108,9 +119,9 @@ textbook:
    ISBN 978-0-13-287169-3 [`Book Information`_]
 
 This year, the textbook is optional and will only be a reference. We will not
-be following it in any way. We will provide you with free online resources and
-other materials for reading. Note that many students have found the above book
-in paperback for ~$25 via non-standard channels.
+be following it in any particular way. We will provide you with free online
+resources and other materials for reading. Note that many students have found
+the above book in paperback for ~$25 via non-standard channels.
 
 .. _Book Information: https://www.pearsonhighered.com/program/Inman-Engineering-Vibration-4th-Edition/PGM198634.html
 
@@ -126,27 +137,31 @@ per business day late** on all assignments.
 Classwork         10%
 Homework          20%
 Midterm           20%
-Final             20%
-Project           30%
+Final             25%
+Project           25%
 ================  ===
 
 .. _canvas.ucdavis.edu: http://canvas.ucdavis.edu
 
 Classwork
    There will be in class quizzes and computational exercises. These will be
-   sometimes be graded for participation and sometimes for correctness.
+   sometimes be graded for participation and sometimes for correctness. You may
+   have to finish the activities we started in class outside of class and
+   submit with your homework that week.
 Homework
-   Weekly homework will be assigned from the book which will be due before
-   class the following week in the mechanical engineering homework **drop box
-   A** in Bainer Hall.
-
-.. _Design Projects: {filename}/pages/projects.rst
+   Weekly homework will be assigned which will be due before class the
+   following week. You will submit these through bicycle.ucdavis.edu.
+Midterm and Final
+   You will have to complete two in class exams.
+Project
+   You will be assigned an individual design project that will be due the last
+   week of lecture.
 
 Canvas
 ======
 
 We will make use of Canvas for the course. Log in to canvas.ucdavis.edu_ with
-your Kerberos ID and passphrase then select **ENG 122 001 FQ 2016**.
+your Kerberos ID and passphrase then select **ENG 122 001 FQ 2017**.
 
 We will be using several features in canvas:
 
@@ -189,9 +204,9 @@ Piazza should be used for all questions about the class, homework, theory,
 projects, etc that is not of a private nature. Piazza allows both the
 instructors and students to collectively answer questions for the whole classes
 benefit. The instructors can also endorse the student answer if it is correct.
-The top student askers and answerers, to be judged by the instructors,
-will be rewarded with bonus points to their final grade.
+The top student askers and answerers, to be judged by the instructors, will be
+rewarded with bonus points to their final grade.
 
 The Piazza forum can be reached here:
 
-http://piazza.com/ucdavis/fall2016/eng122/home
+http://piazza.com/ucdavis/fall2017/eng122/home
