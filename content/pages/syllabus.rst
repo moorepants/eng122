@@ -37,7 +37,7 @@ There are three broad learning objectives that we focus on in the course:
 
 1. Students will be able to analyze vibrational measurement data to draw
    conclusions about the measured system's vibrational nature and describe how
-   the systems behaves vibrational.
+   the system behaves vibrationally.
 2. Students will be able to create simple mathematical and computational models
    of real vibrating systems that can be used to answer specific questions
    about the system by concisely demonstrating the vibrational phenomena.
