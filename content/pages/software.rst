@@ -56,3 +56,15 @@ For beginning Python, I recommend ThinkPython_ by Allen Downey.
 
 There are thousands of other online resources that cover the full spectrum of
 using Python for scientific and engineering computing.
+
+Example Notebooks
+=================
+
+To get an idea of what you can do with Jupyter notebooks, here are some
+examples:
+
+- https://nbviewer.jupyter.org/
+- A tutorial I gave at SciPy 2017: http://www.sympy.org/scipy-2017-codegen-tutorial/
+- The PyDy Human Standing Tutorial: https://github.com/pydy/pydy-tutorial-human-standing
+- CFDPython: https://github.com/barbagroup/CFDPython
+- Notebook gallery: http://nb.bianp.net/sort/views/
