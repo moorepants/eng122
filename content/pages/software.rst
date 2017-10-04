@@ -3,10 +3,23 @@
 
 We will be using a custom Python package named resonance_ during the class to
 investigate a variety of mechanically vibrating systems. Resonance is an open
-source software packages developed by the instructors and is built on top of
-the Scientific Python ecosystem of software packages.
+source software package developed by the instructors and is built on top of the
+`Scientific Python`_ ecosystem of software packages.
 
 .. _resonance: https://github.com/moorepants/resonance
+.. _Scientific Python: https://scipy.org/
+
+The documentation for resonance can be found at:
+
+http://resonance.readthedocs.io
+
+The rendered Jupyter notebooks that are used in class can be found at:
+
+https://moorepants.github.io/resonance/
+
+Finally, the source code for resonance can be found at:
+
+https://github.com/moorepants/resonance
 
 Running The Software
 ====================
@@ -20,7 +33,7 @@ Backing Up Your Work
 --------------------
 
 The JupyterHub server has an automated backup in place should any problems
-occur, but it is recommended to occasionally back up your own work. To do so,
+occur, but it is recommended to regularly back up your own work. To do so,
 open a terminal from the JupyterHub interface (go to ``New -> Terminal``). From
 this terminal window, type ``backup-home``. This will find all of your files
 and put them in a zip file called ``backup.zip``, which you should then be able
@@ -42,8 +55,15 @@ packages you will need.
 With this, you can open up either Jupyter notebooks or use the Spyder IDE
 (which also can open notebooks).
 
-More instructions on getting resonance running on your computer will be added
-later.
+Currently, you will need to install resonance via the command line tool
+``pip``. Open a terminal on Mac OSX or Linux or an Anconda Command Prompt on
+Windows and type::
+
+   pip install resonance
+
+To upgrade resonance as we release new versions, type::
+
+   pip install -U resonance
 
 Learning Python For Engineering Computation
 ===========================================
@@ -61,6 +81,7 @@ Each software package also has documentation:
 - NumPy: https://docs.scipy.org/doc/numpy/
 - matplotlib: https://matplotlib.org/contents.html
 - SciPy: https://docs.scipy.org/doc/scipy/reference/
+- Pandas: https://pandas.pydata.org/pandas-docs/stable/
 - SymPy: http://docs.sympy.org/latest/index.html
 
 For beginning Python, I recommend ThinkPython_ by Allen Downey.
