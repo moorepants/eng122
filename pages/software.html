@@ -30,8 +30,14 @@
     
     <p>We will be using a custom Python package named <a class="reference external" href="https://github.com/moorepants/resonance">resonance</a> during the class to
 investigate a variety of mechanically vibrating systems. Resonance is an open
-source software packages developed by the instructors and is built on top of
-the Scientific Python ecosystem of software packages.</p>
+source software package developed by the instructors and is built on top of the
+<a class="reference external" href="https://scipy.org/">Scientific Python</a> ecosystem of software packages.</p>
+<p>The documentation for resonance can be found at:</p>
+<p><a class="reference external" href="http://resonance.readthedocs.io">http://resonance.readthedocs.io</a></p>
+<p>The rendered Jupyter notebooks that are used in class can be found at:</p>
+<p><a class="reference external" href="https://moorepants.github.io/resonance/">https://moorepants.github.io/resonance/</a></p>
+<p>Finally, the source code for resonance can be found at:</p>
+<p><a class="reference external" href="https://github.com/moorepants/resonance">https://github.com/moorepants/resonance</a></p>
 <div class="section" id="running-the-software">
 <h2>Running The Software</h2>
 <p>The easiest, and preferred method, of running the software is to log into
@@ -41,7 +47,7 @@ Jupyter notebook. We will primarily be using Jupyter notebooks in class.</p>
 <div class="section" id="backing-up-your-work">
 <h3>Backing Up Your Work</h3>
 <p>The JupyterHub server has an automated backup in place should any problems
-occur, but it is recommended to occasionally back up your own work. To do so,
+occur, but it is recommended to regularly back up your own work. To do so,
 open a terminal from the JupyterHub interface (go to <tt class="docutils literal">New <span class="pre">-&gt;</span> Terminal</tt>). From
 this terminal window, type <tt class="docutils literal"><span class="pre">backup-home</span></tt>. This will find all of your files
 and put them in a zip file called <tt class="docutils literal">backup.zip</tt>, which you should then be able
@@ -59,8 +65,16 @@ install the <a class="reference external" href="https://www.anaconda.com/downloa
 packages you will need.</p>
 <p>With this, you can open up either Jupyter notebooks or use the Spyder IDE
 (which also can open notebooks).</p>
-<p>More instructions on getting resonance running on your computer will be added
-later.</p>
+<p>Currently, you will need to install resonance via the command line tool
+<tt class="docutils literal">pip</tt>. Open a terminal on Mac OSX or Linux or an Anconda Command Prompt on
+Windows and type:</p>
+<pre class="literal-block">
+pip install resonance
+</pre>
+<p>To upgrade resonance as we release new versions, type:</p>
+<pre class="literal-block">
+pip install -U resonance
+</pre>
 </div>
 <div class="section" id="learning-python-for-engineering-computation">
 <h2>Learning Python For Engineering Computation</h2>
@@ -77,6 +91,7 @@ later.</p>
 <li>NumPy: <a class="reference external" href="https://docs.scipy.org/doc/numpy/">https://docs.scipy.org/doc/numpy/</a></li>
 <li>matplotlib: <a class="reference external" href="https://matplotlib.org/contents.html">https://matplotlib.org/contents.html</a></li>
 <li>SciPy: <a class="reference external" href="https://docs.scipy.org/doc/scipy/reference/">https://docs.scipy.org/doc/scipy/reference/</a></li>
+<li>Pandas: <a class="reference external" href="https://pandas.pydata.org/pandas-docs/stable/">https://pandas.pydata.org/pandas-docs/stable/</a></li>
 <li>SymPy: <a class="reference external" href="http://docs.sympy.org/latest/index.html">http://docs.sympy.org/latest/index.html</a></li>
 </ul>
 <p>For beginning Python, I recommend <a class="reference external" href="http://greenteapress.com/wp/think-python/">ThinkPython</a> by Allen Downey.</p>
