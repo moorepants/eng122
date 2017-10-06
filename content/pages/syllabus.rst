@@ -82,17 +82,28 @@ exception).**
 Office Hours
 ============
 
-| Instructor Office Hours
-| Bainer 2095
-| TBA
-|
-| TA Office Hours
-| Bainer 2071 (CAE Lab)
-| TBA
+The Wednesday "office hours" will be in the design studio (Bainer 2071). Kenny
+or Jason will present materials on vibration analysis and Python skills
+regardless if you have questions or not. This is more like a discussion
+section, a work session, etc. If you do have questions we will answer them.
+Regardless, it is an extra 2 hours of instruction. I highly recommend that you
+come.
 
-To schedule an appointment with Jason, check his work calendar and select a
-free time between 8:00 AM and 6:30 PM on weekdays. Send him an email requesting
-an appointment at the suggested meeting times at least two days in advance.
+| Jason's Office Hours
+| Bainer 2071 (MAE Design Studio)
+| Wednesday 1:10-2:00pm
+| Bainer 2095
+| Thursday 10:00-10:50am
+|
+| Kenny's Office Hours
+| Bainer 2071 (MAE Design Studio)
+| Wednesday 10:00-10:50am
+
+If it is impossible to make office hours, schedule an appointment with Jason by
+checking his work calendar and select a free time between 8:00 AM and 6:30 PM
+Monday-Thursday. Send him an email requesting an appointment at the suggested
+meeting times at least two days in advance. You can also email Kenny and
+request a meeting.
 
 .. _work calendar: http://www.moorepants.info/work-calendar.html
 
