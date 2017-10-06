@@ -100,10 +100,10 @@ come.
 | Wednesday 10:00-10:50am
 
 If it is impossible to make office hours, schedule an appointment with Jason by
-checking his work calendar and select a free time between 8:00 AM and 6:30 PM
-Monday-Thursday. Send him an email requesting an appointment at the suggested
-meeting times at least two days in advance. You can also email Kenny and
-request a meeting.
+checking his `work calendar`_ and select a free time between 8:00 AM and 6:30
+PM Monday-Thursday. Send him an email requesting an appointment at the
+suggested meeting times at least two days in advance. You can also email Kenny
+and request a meeting.
 
 .. _work calendar: http://www.moorepants.info/work-calendar.html
 
