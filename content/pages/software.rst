@@ -56,14 +56,17 @@ With this, you can open up either Jupyter notebooks or use the Spyder IDE
 (which also can open notebooks).
 
 Currently, you will need to install resonance via the command line tool
-``pip``. Open a terminal on Mac OSX or Linux or an Anconda Command Prompt on
+``conda``. Open a terminal on Mac OSX or Linux or an Anconda Command Prompt on
 Windows and type::
 
-   pip install resonance
+   conda install -c conda-forge resonance
 
 To upgrade resonance as we release new versions, type::
 
-   pip install -U resonance
+   conda update -c conda-forge resonance
+
+This can also be done via Anaconda Navigator if you add the conda-forge
+channel.
 
 Learning Python For Engineering Computation
 ===========================================
