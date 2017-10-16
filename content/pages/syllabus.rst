@@ -97,7 +97,7 @@ come.
 |
 | Kenny's Office Hours
 | Bainer 2071 (MAE Design Studio)
-| Wednesday 10:00-10:50am
+| Monday 10:00-10:50am
 
 If it is impossible to make office hours, schedule an appointment with Jason by
 checking his `work calendar`_ and select a free time between 8:00 AM and 6:30
