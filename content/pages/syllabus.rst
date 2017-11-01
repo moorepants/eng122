@@ -68,6 +68,9 @@ Instructors
 |
 | Kenneth Lyons
 | krlyons@ucdavis.edu
+|
+| Ben Margolis
+| bwmargolis@ucdavis.edu
 
 Time and Location
 =================
