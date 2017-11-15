@@ -15,10 +15,11 @@ Course Description
 Mechanical structures and systems are susceptible to vibrations, i.e. periodic
 changes in the physical state. Vibrations can both be a hindrance and a benefit
 to machines. In this course, we will learn how one can predict vibrations and
-interpret simulated and measured vibrations using analytical and computational
-means. We will cover topics ranging from free and forced vibrations in
-lumped-parameter systems with and without damping, vibrations in coupled
-systems, electromechanical analogs, and use of energy conservation principles.
+interpret both simulated and measured vibrations using analytical and
+computational means. We will cover topics ranging from free and forced
+vibrations in lumped-parameter systems with and without damping, vibrations in
+coupled systems, electromechanical analogs, and use of energy conservation
+principles.
 
 Catalog Description
 -------------------
@@ -37,11 +38,11 @@ There are three broad learning objectives that we focus on in the course:
 
 1. Students will be able to analyze vibrational measurement data to draw
    conclusions about the measured system's vibrational nature and describe how
-   the system behaves vibrationally.
+   the system behaves with respect to vibration concepts.
 2. Students will be able to create simple mathematical and computational models
    of real vibrating systems that can be used to answer specific questions
    about the system by concisely demonstrating the vibrational phenomena.
-3. Students will be able to design a mechanical structure that has desirable
+3. Students will be able to design a mechanical system that has desirable
    vibrational behavior.
 
 Students that master these three core learning objectives will be well prepared
@@ -147,13 +148,14 @@ throughout the course along with class statistics. Check the website on a
 regular basis to gauge your performance. Keep in mind that **15% is deducted
 per business day late** on all assignments.
 
-================  ===
-Classwork         10%
-Homework          20%
-Midterm           20%
-Final             25%
-Project           25%
-================  ===
+==================== =====
+Classwork            10%
+Homeworks 1-5        12.5%
+Homeworks 6-9        17.5%
+Midterm              20%
+Project Report       30%
+Project Presentation 10%
+==================== =====
 
 .. _canvas.ucdavis.edu: http://canvas.ucdavis.edu
 
@@ -165,11 +167,12 @@ Classwork
 Homework
    Weekly homework will be assigned which will be due before class the
    following week. You will submit these through bicycle.ucdavis.edu.
-Midterm and Final
-   You will have to complete two in class exams.
+Midterm
+   You will have to complete a two hour in class exam.
 Project
-   You will be assigned an individual design project that will be due the last
-   week of lecture.
+   You will be assigned an individual design project that will be due just
+   before the final exam start time. You will submit a report and give a 5
+   minute lightning talk during the scheduled exam period.
 
 Canvas
 ======

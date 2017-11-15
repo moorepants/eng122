@@ -33,25 +33,25 @@ NA T Oct 24    Drop Date
 NA F Nov 03                                                                     HW 05
 -- ----------  ------------------------------------  -------------------------  ---------------
 12 M Nov 06    Midterm Exam
-13 W Nov 08    Modeling SDoF/MDoF Systems
+13 W Nov 08    Modeling a SDoF Trifilar Pendulum
 NA F Nov 11    Veteran's Day Holiday
 -- ----------  ------------------------------------  -------------------------  ---------------
-14 M Nov 13    Modeling a Multi-story Building
-15 W Nov 15    Modeling the Bicycle                                             HW 06
+14 M Nov 13    Modeling a MDoF Trough Pendulum
+15 W Nov 15    Multi-DoF Analysis                                               HW 06
 -- ----------  ------------------------------------  -------------------------  ---------------
-16 M Nov 20    Desiging a Clock That Keeps Time
-17 W Nov 22    Isolator Selection                                               HW 07
+16 M Nov 20    Multi-Story Building
+17 W Nov 22    A Bicycle                                                        HW 07
 NA R Nov 23    Thanksgiving Holiday
 NA F Nov 24    Thanksgiving Holiday
 -- ----------  ------------------------------------  -------------------------  ---------------
-18 M Nov 27    Designing a Tuned Mass Damper
-19 W Nov 29    Designing a Stable Bicycle                                       HW 08
+18 M Nov 27    Design Topic TBA
+19 W Nov 29    Design Topic TBA                                                 HW 08
 -- ----------  ------------------------------------  -------------------------  ---------------
-20 M Dec 04    TBA
-21 W Dec 06    - TBA                                                            Design Report Due
-               - Exam Review
+20 M Dec 04    Design Topic TBA
+21 W Dec 06    TBA                                                              HW 09
 -- ----------  ------------------------------------  -------------------------  ---------------
-NA T Dec 12    **Final Exam** 6:00 pm - 8:00 pm
+NA T Dec 12    - **Final Period** 6:00 pm - 8:00 pm                             Design Report Due (6 pm)
+               - Project Lightning Talks
 == ==========  ====================================  =========================  ===============
 
 .. _NB 01: https://moorepants.github.io/resonance/01-intro-jupyter.html
@@ -70,3 +70,7 @@ NA T Dec 12    **Final Exam** 6:00 pm - 8:00 pm
    Modeling Bicycle Wheel Pendulum
    Modeling the Bus Driver's Seat
    Modeling an Engine Cam
+   Desiging a Clock That Keeps Time
+   Designing a Tuned Mass Damper
+   Designing a Stable Bicycle
+   Isolator Selection
