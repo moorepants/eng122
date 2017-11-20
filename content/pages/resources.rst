@@ -7,6 +7,8 @@ Text
 - Wikipedia's article on vibration: https://en.wikipedia.org/wiki/Vibration
 - Dr. Anil V. Rao's lecture notes (like a textbook) on mechanical vibrations:
   http://vdol.mae.ufl.edu/CourseNotes/EML4220/vibrations.pdf
+- MIT OpenCourseWare Lecture on Lagrange's method:
+  https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-07-dynamics-fall-2009/lecture-notes/MIT16_07F09_Lec20.pdf
 
 Media
 =====
