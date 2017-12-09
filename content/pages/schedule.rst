@@ -27,28 +27,33 @@ NA T Oct 24    Drop Date
 09 W Oct 25    Vertical Vibration of a Car           - `NB 07`_                 HW 04
 -- ----------  ------------------------------------  -------------------------  ---------------
 10 M Oct 30    - Vertical Vibration of a Car         - `NB 07`_
-               - Introduction to Modeling
-11 W Nov 01    - Introduction to Modeling
+               - Introduction to Modeling            - `Notes 10`_
+11 W Nov 01    - Introduction to Modeling            - `Notes 11`_
                - Review for exam
 NA F Nov 03                                                                     HW 05
 -- ----------  ------------------------------------  -------------------------  ---------------
 12 M Nov 06    Midterm Exam
-13 W Nov 08    Modeling a SDoF Trifilar Pendulum
+13 W Nov 08    Modeling a Trifilar Pendulum          - `Notes 13`_
+                                                     - `NB 08`_
 NA F Nov 11    Veteran's Day Holiday
 -- ----------  ------------------------------------  -------------------------  ---------------
-14 M Nov 13    Modeling a MDoF Trough Pendulum
-15 W Nov 15    Multi-DoF Analysis                                               HW 06
+14 M Nov 13    Modeling a Ball Channel Pendulum      - `NB 10`_
+15 W Nov 15    Linearization                         - `NB 10`_                 HW 06
 -- ----------  ------------------------------------  -------------------------  ---------------
-16 M Nov 20    Multi-Story Building
-17 W Nov 22    A Bicycle                                                        HW 07
+16 M Nov 20    Modes of a Ball Channel Pendulum      - `NB 11`_
+                                                     - `Notes L16`_
+17 W Nov 22    Modes of a Multi-Story Building       - `NB 12`_                 HW 07
 NA R Nov 23    Thanksgiving Holiday
 NA F Nov 24    Thanksgiving Holiday
 -- ----------  ------------------------------------  -------------------------  ---------------
-18 M Nov 27    Design Topic TBA
-19 W Nov 29    Design Topic TBA                                                 HW 08
+18 M Nov 27    - Modes of a Multi-Story Building     - `NB 12`_
+19 W Nov 29    - Forcing Multi-Story Building        - `NB 13`_
+               - A Bicycle                           - `NB 14`_
 -- ----------  ------------------------------------  -------------------------  ---------------
-20 M Dec 04    Design Topic TBA
-21 W Dec 06    TBA                                                              HW 09
+20 M Dec 04    A Bicycle                             - `NB 14`_
+                                                     - `Notes L20`_
+21 W Dec 06    - Bicycle continued                   - `NB 14`_                 HW 08
+               - Review
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA T Dec 12    - **Final Period** 6:00 pm - 8:00 pm                             Design Report Due (6 pm)
                - Project Lightning Talks
@@ -61,6 +66,19 @@ NA T Dec 12    - **Final Period** 6:00 pm - 8:00 pm                             
 .. _NB 05: https://moorepants.github.io/resonance/05_clock_pendulum_with_friction.html
 .. _NB 06: https://moorepants.github.io/resonance/06_sinusoidal_forcing.html
 .. _NB 07: https://moorepants.github.io/resonance/07_vertical_vibration_of_a_quarter_car.html
+.. _NB 08: https://moorepants.github.io/resonance/08_modeling_a_drone_trifilar_pendulum.html
+.. _NB 09: https://moorepants.github.io/resonance/09_modeling_a_washing_machine.html
+.. _NB 10: https://moorepants.github.io/resonance/10_modeling_a_ball_channel_pendulum.html
+.. _NB 11: https://moorepants.github.io/resonance/11_modes_of_a_ball_channel_pendulum.html
+.. _NB 12: https://moorepants.github.io/resonance/12_vibrating_building.html
+.. _NB 13: https://moorepants.github.io/resonance/13_vibrating_building_forcing.html
+.. _NB 14: https://moorepants.github.io/resonance/14_bicycle.html
+
+.. _Notes L10: {filename}/materials/ENG122-L10.pdf
+.. _Notes L11: {filename}/materials/ENG122-L11.pdf
+.. _Notes L13: {filename}/materials/ENG122-L13.pdf
+.. _Notes L16: {filename}/materials/ENG122-L16.pdf
+.. _Notes L20: {filename}/materials/ENG122-L20.pdf
 
 .. Modeling A Non-linear Spring
    Multi-story Building Earthquake
