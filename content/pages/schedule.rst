@@ -27,13 +27,13 @@ NA T Oct 24    Drop Date
 09 W Oct 25    Vertical Vibration of a Car           - `NB 07`_                 HW 04
 -- ----------  ------------------------------------  -------------------------  ---------------
 10 M Oct 30    - Vertical Vibration of a Car         - `NB 07`_
-               - Introduction to Modeling            - `Notes 10`_
-11 W Nov 01    - Introduction to Modeling            - `Notes 11`_
+               - Introduction to Modeling            - `Notes L10`_
+11 W Nov 01    - Introduction to Modeling            - `Notes L11`_
                - Review for exam
 NA F Nov 03                                                                     HW 05
 -- ----------  ------------------------------------  -------------------------  ---------------
 12 M Nov 06    Midterm Exam
-13 W Nov 08    Modeling a Trifilar Pendulum          - `Notes 13`_
+13 W Nov 08    Modeling a Trifilar Pendulum          - `Notes L13`_
                                                      - `NB 08`_
 NA F Nov 11    Veteran's Day Holiday
 -- ----------  ------------------------------------  -------------------------  ---------------
