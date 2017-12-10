@@ -151,7 +151,7 @@ per business day late** on all assignments.
 ==================== =====
 Classwork            10%
 Homeworks 1-5        12.5%
-Homeworks 6-9        17.5%
+Homeworks 6-8        17.5%
 Midterm              20%
 Project Report       30%
 Project Presentation 10%
