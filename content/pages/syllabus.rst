@@ -9,8 +9,8 @@ Course Description
 | University of California, Davis
 | Department of Mechanical and Aerospace Engineering
 | Introduction to Mechanical Vibrations - ENG 122
-| Fall 2017, Lecture: MW 4:10-6:00PM
-| CRN: 41697
+| Winter 2020, Lecture: MW 10:00AM-11:50AM
+| CRN: 77345
 
 Mechanical structures and systems are susceptible to vibrations, i.e. periodic
 changes in the physical state. Vibrations can both be a hindrance and a benefit
@@ -67,17 +67,14 @@ Instructors
 | 530-752-4805
 | jkm@ucdavis.edu
 |
-| Kenneth Lyons
-| krlyons@ucdavis.edu
-|
-| Ben Margolis
-| bwmargolis@ucdavis.edu
+| Gregory Bales
+| glbales@ucdavis.edu
 
 Time and Location
 =================
 
-The lecture/discussion meets on Mondays and Wednesdays from 4:10-6:00 PM in
-Bainer Hall 1060.
+The lecture/discussion meets on Mondays and Wednesdays from 10:00-11:50 AM in
+Bainer Hall 1130.
 
 **If you have any conflicts with the schedule, especially for the exams, you
 must tell me in the first week of class (emergencies will be the only
@@ -94,14 +91,12 @@ Regardless, it is an extra 2 hours of instruction. I highly recommend that you
 come.
 
 | Jason's Office Hours
-| Bainer 2071 (MAE Design Studio)
-| Wednesday 1:10-2:00pm
 | Bainer 2095
-| Thursday 10:00-10:50am
+| Time: TBA
 |
-| Kenny's Office Hours
-| Bainer 2071 (MAE Design Studio)
-| Monday 10:00-10:50am
+| Greg's Office Hours
+| Location: TBA
+| Time: TBA
 
 If it is impossible to make office hours, schedule an appointment with Jason by
 checking his `work calendar`_ and select a free time between 8:00 AM and 6:30
@@ -148,14 +143,15 @@ throughout the course along with class statistics. Check the website on a
 regular basis to gauge your performance. Keep in mind that **15% is deducted
 per business day late** on all assignments.
 
-==================== =====
-Classwork            10%
-Homeworks 1-5        12.5%
-Homeworks 6-8        17.5%
-Midterm              20%
-Project Report       30%
-Project Presentation 10%
-==================== =====
+.. class:: table table-striped table-bordered
+
+========================== =====
+Classwork                  10%
+Homeworks                  30%
+Midterm Project            20%
+Final Project Report       30%
+Final Project Presentation 10%
+========================== =====
 
 .. _canvas.ucdavis.edu: http://canvas.ucdavis.edu
 
@@ -214,16 +210,12 @@ announcements made via canvas.
 When contacting the instructors via email you should default to submitting it
 via Piazza (see next section) unless the question is a private matter.
 
-Piazza
-------
+Canvas Discussions
+------------------
 
-Piazza should be used for all questions about the class, homework, theory,
-projects, etc that is not of a private nature. Piazza allows both the
-instructors and students to collectively answer questions for the whole classes
-benefit. The instructors can also endorse the student answer if it is correct.
-The top student askers and answerers, to be judged by the instructors, will be
-rewarded with bonus points to their final grade.
-
-The Piazza forum can be reached here:
-
-http://piazza.com/ucdavis/fall2017/eng122/home
+Canvas discussions should be used for all questions about the class, homework,
+theory, projects, etc that is not of a private nature. Discussions allows both
+the instructors and students to collectively answer questions for the whole
+classes benefit. The instructors can also endorse the student answer if it is
+correct.  The top student askers and answerers, to be judged by the
+instructors, will be rewarded with bonus points to their final grade.
