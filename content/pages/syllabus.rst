@@ -209,3 +209,11 @@ The primary instructor should be informed of any learning accommodations at
 least 1 full week before the desired accommodation is needed. I expect students
 to contact me to discuss any special arrangements with 1 week time to make and
 agree on the arrangements.
+
+Computers
+=========
+
+All of the in-class exercises will be done on a personal computing device
+(preferably one with a keyboard) that you will be expected to bring to class.
+If you do not have a suitable computing device that you can bring to class, you
+will need to let the primary instructor know the day of the first class period.
