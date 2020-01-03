@@ -1,5 +1,6 @@
 The course website for Jason K. Moore's University of California, Davis
-Mechanical Vibrations course (ENG 122). The rendered version can be viewed at:
+Introduction to Mechanical Vibrations course (ENG 122). The rendered version
+can be viewed at:
 
 http://moorepants.github.io/eng122
 
@@ -7,35 +8,83 @@ This site is generated with Pelican_.
 
 .. _Pelican: http://getpelican.com
 
-Build Instructions
-==================
+Editing Guide
+=============
 
-Install miniconda_. Create an environment for this website::
+- The website is built using Pelican. Review the `Pelican documentation`_ to
+  get familar with how to create pages and articles.
+- The source files are in the git branch called ``master``. This is the default
+  branch of the repository. The HTML files are generated via doctr and pushed
+  to the ``gh-pages`` branch, which is automatically seved to
+  https://moorepants.github.io/eng122. You should not have to ever manually
+  edit files in the ``gh-pages`` branch.
+- All articles, pages, and similar content should be written in
+  reStructuredText. See the `Sphinx reStructuredText primer`_ to learn the syntax.
+- All changes, in general, should be submitted as Github pull requests. Don't
+  commit directly to the ``master`` branch. Wait until the build finishes with
+  a green checkmark before merging the pull request.
+- Binary Assets such as images, videos, etc should be served from an external
+  hosting site. Ask Jason about using his Dreamhost DreamObject bucket. He'll
+  set it up for multi-user access when needed. Do not commit binary assets to
+  this repository.
+- You can edit and add rst files directly in the contents directory using the
+  Github interface. The small pencil on files lets you edit and submit pull
+  requests. Just above the directory view has buttons for adding files. See
+  these instructions: https://help.github.com/en/articles/editing-files-in-your-repository
 
-   $ conda create -n pelican python=2 pygments pip jinja2 docutils markupsafe python-dateutil pytz six unidecode fabric
-   $ source activate pelican
-   (pelican)$ pip install pelican ghp-import
+.. _Pelican documentation: http://docs.getpelican.com/en/stable/
+.. _Sphinx reStructuredText primer: http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 
-Clone the plugin repository (for the render_math plugin)::
+Building Locally
+================
 
-   $ mkdir ~/src
-   $ git clone git@github.com:getpelican/pelican-plugins.git ~/src/
+It is good practice to build the documentation locally so that you can review
+change before submitting a pull request.
 
-Rebuild and serve the site locally::
+Install pelican with conda (or pip if you prefer)::
 
-   (pelican)$ fab reserve
+   $ conda install pelican
 
-Push the site to Github pages::
+Clone the theme repository::
 
-   (pelican)$ fab gh_pages
+   $ git clone --branch mechmotum git@github.com:mechmotum/pelican-alchemy.git
 
-.. _miniconda: http://conda.pydata.org/miniconda.html
+Note the path to the theme, e.g.::
 
-License
+   /home/my_username/pelican-alchemy
+
+Clone the pelican-plugins repository::
+
+   $ git clone git@github.com:getpelican/pelican-plugins.git
+
+Note the path to the plugins directory, e.g.::
+
+   /home/my_username/pelican-plugins
+
+Clone this repository and change into the new directory::
+
+   $ git clone git@github.com:moorepants/eng122.git
+   $ cd eng122/
+
+Create a configuration file called ``local-config.yml`` and add the full path
+to where you installed the theme::
+
+   $ echo "THEME_PATH: /home/my_username/pelican-alchemy" > local-config.yml
+   $ echo "PLUGIN_PATHS: /home/my_username/pelican-plugins" >> local-config.yml
+
+Now you can build and serve the documentation with::
+
+   $ make devserver
+
+If this succeeds you can open the website in your web browser at
+http://localhost:8000.
+
+While the server is running you can change the website source files and they
+will be build automatically. Refresh your web browser to view the changes.
+
+To stop the web server press <CTRL + C> or type ``make stopserver``.
+
+LICENSE
 =======
 
-Creative Commons CC0
-
-   To the extent possible under law, Jason K. Moore has waived all copyright
-   and related or neighboring rights to ENG122 Mechanical Vibrations Course
-   Website. This work is published from: United States.
+This repository is licensed under the CC-BY 4.0 license.
