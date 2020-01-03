@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-from os.path import expanduser, join
+
+import yaml
 
 AUTHOR = 'Jason K. Moore'
 SITENAME = 'ENG 122: Intro to Mechanical Vibrations'
@@ -9,14 +10,22 @@ SITEURL = ''
 SOURCEURL = 'http://github.com/moorepants/eng122'
 
 PATH = 'content'
-THEME = 'theme'
 PAGE_ORDER_BY = 'sortorder'
 
 TIMEZONE = 'US/Pacific'
 
 DEFAULT_LANG = 'en'
 
-PLUGIN_PATHS = [join(expanduser("~"), 'src', 'pelican-plugins')]
+try:
+    with open('local-config.yml', 'r') as config_file:
+        config_data = yaml.load(config_file)
+except IOError:
+    THEME = ''
+    PLUGIN_PATHS = ''
+else:
+    THEME = config_data['THEME_PATH']
+    PLUGIN_PATHS = config_data['PLUGIN_PATHS']
+
 PLUGINS = ['render_math']
 MATH_JAX = {'color': 'black'}
 

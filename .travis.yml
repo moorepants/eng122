@@ -1,0 +1,22 @@
+language: python
+python:
+  - 3.6
+env:
+  global:
+    # Doctr deploy key for moorepants/eng122
+    - secure: "dZuajNmESxD1VEk9Tp7XWeq2vuDT5VpkG1jd8e/1bp6HE+SNdymHFDwAnGkRxQU75Jg0LaEDP/nq0Rp3CMBq9Frz2/gBZ0PIEkSpMY8OhLgPvf7VYgjrYW/ryyRwVfoAX3Ux5xPMvb8MFGzTYov6kPVrCiP6itRJ8JJsLHZRmeAePygd8p49F4L7LSs87yEwLEFX2E/HdhFplWflxLQ2tSKmSBx7dUv7CKJcyC8dv4lP9vYQ3Pb6bUDPc6LJD8EssA7jUdYzx5g6Q++CwScp1/JY5hrtvACHAbwIWUJohqk5Jq1Nd1eU+tk1Exm/G+JezqbT1A2yV9H89KRbiF09kA8bDGPmkCS3lB4wuZYQDjM2TDAErsIBpsmU13qXY9bGaNJm1j2Kbda4j09Lm81cMgA+3A7la7/9Mnl3aO/apL68T9Wv+K6qrkIVYHz5V873mW2B+30XR7wNoU6hYZDkfxsERTmACBd8AgcBFoHBlcVuOC39sXxg+dghgaVrJD1rkkgfKoSspBpt4kfeRqMR+MKskX6VOtZDJuLBrslRZ0AoZPkdIqbrWoj1YJsnG6x8/8YDkh2c0uGLLld0DgBfFz8b86GeSgV8fY/e7JvC6x9cy9YI/1dzvWMym//hUNGcA8F+gHxo8FENqA1w98LYQAiXFDy55fC8FuVn0AwWeqs="
+install:
+  - pip install pelican doctr
+  - git clone --depth=1 --single-branch --branch mechmotum https://github.com/mechmotum/pelican-alchemy.git
+  - git clone --depth=1 https://github.com/getpelican/pelican-plugins.git
+before_script:
+  - pip freeze
+script:
+  - set -e
+  - pelican -D -v --fatal errors -s publishconf.py
+  - if [[ -z "$TRAVIS_TAG" ]]; then
+      DEPLOY_DIR=".";
+    else
+      DEPLOY_DIR="$TRAVIS_TAG";
+    fi
+  - doctr deploy --build-tags --built-docs output/ $DEPLOY_DIR
