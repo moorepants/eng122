@@ -13,7 +13,7 @@ The documentation for resonance can be found at:
 
 http://resonance.readthedocs.io
 
-The rendered Jupyter notebooks that are used in class can be found at:
+The rendered Jupyter notebooks that will be used in class can be found at:
 
 https://moorepants.github.io/resonance/
 

@@ -1,61 +1,50 @@
 :title: Schedule
 :sortorder: 1
 
-This is the schedule for the quarter. The midterm and final dates are fixed and
-homework will be due each week on Monday except around the exams. The lecture
-topics are tentative and will be adjusted to fit the flow of the class. **Check
-the schedule periodically for changes.**
+This is the schedule for the quarter. The final date is fixed and homework will
+be due each week on Monday. The lecture topics are tentative and will be
+adjusted to fit the flow of the class. **Check the schedule periodically for
+changes.**
+
+.. class:: table table-striped table-bordered
 
 == ==========  ====================================  =========================  ===============
 #  Date        Topic                                 Materials                  Assignment Due
 == ==========  ====================================  =========================  ===============
-01 W Sep 27    - Introduction                        - `NB 01`_
-               - Working with Jupyter and Python     - `NB 02`_
+01 M Jan 06    - Introduction
+               - Working with Jupyter and Python
                - Book Balancing on a Cup Demo
+02 W Jan 08    Measuring a Bicycle Wheel's Inertia
 -- ----------  ------------------------------------  -------------------------  ---------------
-02 M Oct 02    Book Balancing on a Cup Revsited      - `NB 02`_                 HW 01
-03 W Oct 04    Measuring a Bicycle Wheel's Inertia   - `NB 03`_
+03 M Jan 13    Clock Pendulum with Viscous Damping                              HW 01
+04 W Jan 15    Clock Pendulum with Coulomb Friction
 -- ----------  ------------------------------------  -------------------------  ---------------
-04 M Oct 09    Measuring a Bicycle Wheel's Inertia   - `NB 03`_
-05 W Oct 11    Clock Pendulum with Viscous Damping   - `NB 04`_                 HW 02
+NA M Jan 20    Martin Luther King Jr. Holiday                                   HW 02
+05 W Jan 22    Sinusoidal Forcing
 -- ----------  ------------------------------------  -------------------------  ---------------
-06 M Oct 16    Clock Pendulum with Coulomb Friction  - `NB 05`_
-07 W Oct 18    Sinusoidal Forcing                    - `NB 06`_                 HW 03
+06 M Jan 27    Sinusoidal Forcing                                               HW 03
+07 W Jan 29    Vertical Vibration of a Car
 -- ----------  ------------------------------------  -------------------------  ---------------
-08 M Oct 23    Sinusoidal Forcing                    - `NB 06`_
-NA T Oct 24    Drop Date
-09 W Oct 25    Vertical Vibration of a Car           - `NB 07`_                 HW 04
+08 M Feb 03    - Vertical Vibration of a Car                                    HW 04
+               - Introduction to Modeling
+09 W Feb 0     Modeling a Trifilar Pendulum5
 -- ----------  ------------------------------------  -------------------------  ---------------
-10 M Oct 30    - Vertical Vibration of a Car         - `NB 07`_
-               - Introduction to Modeling            - `Notes L10`_
-11 W Nov 01    - Introduction to Modeling            - `Notes L11`_
-               - Review for exam
-NA F Nov 03                                                                     HW 05
+10 M Feb 10    Modeling a Ball Channel Pendulum                                 HW 05
+11 W Feb 12    Linearization
 -- ----------  ------------------------------------  -------------------------  ---------------
-12 M Nov 06    Midterm Exam
-13 W Nov 08    Modeling a Trifilar Pendulum          - `Notes L13`_
-                                                     - `NB 08`_
-NA F Nov 11    Veteran's Day Holiday
+NA M Feb 17    President's Day Holiday                                          Project Model
+12 W Feb 19    Modes of a Ball Channel Pendulum
 -- ----------  ------------------------------------  -------------------------  ---------------
-14 M Nov 13    Modeling a Ball Channel Pendulum      - `NB 10`_
-15 W Nov 15    Linearization                         - `NB 10`_                 HW 06
+13 M Feb 24    Modes of a Multi-Story Building                                  HW 06
+14 W Feb 26    Modes of a Multi-Story Building
 -- ----------  ------------------------------------  -------------------------  ---------------
-16 M Nov 20    Modes of a Ball Channel Pendulum      - `NB 11`_
-                                                     - `Notes L16`_
-17 W Nov 22    Modes of a Multi-Story Building       - `NB 12`_                 HW 07
-NA R Nov 23    Thanksgiving Holiday
-NA F Nov 24    Thanksgiving Holiday
+15 M Mar 02    Forcing Multi-Story Building                                     HW 07
+17 W Mar 04    A Bicycle
 -- ----------  ------------------------------------  -------------------------  ---------------
-18 M Nov 27    - Modes of a Multi-Story Building     - `NB 12`_
-19 W Nov 29    - Forcing Multi-Story Building        - `NB 13`_
-               - A Bicycle                           - `NB 14`_
+18 M Mar 09    A Bicycle                                                        HW 08
+19 W Mar 11    Bicycle continued
 -- ----------  ------------------------------------  -------------------------  ---------------
-20 M Dec 04    A Bicycle                             - `NB 14`_
-                                                     - `Notes L20`_
-21 W Dec 06    - Bicycle continued                   - `NB 14`_                 HW 08
-               - Review
--- ----------  ------------------------------------  -------------------------  ---------------
-NA T Dec 12    - **Final Period** 6:00 pm - 8:00 pm                             Design Report Due (6 pm)
+NA T Mar 17    - **Final Period** 1:00 pm - 3:00 pm                             Design Report
                - Project Lightning Talks
 == ==========  ====================================  =========================  ===============
 
@@ -79,16 +68,3 @@ NA T Dec 12    - **Final Period** 6:00 pm - 8:00 pm                             
 .. _Notes L13: {filename}/materials/ENG122-L13.pdf
 .. _Notes L16: {filename}/materials/ENG122-L16.pdf
 .. _Notes L20: {filename}/materials/ENG122-L20.pdf
-
-.. Modeling A Non-linear Spring
-   Multi-story Building Earthquake
-   Vibration of a Bus Driver's Seat
-   Bicycle Lateral Vibration
-   Balancing a Car Tire
-   Modeling Bicycle Wheel Pendulum
-   Modeling the Bus Driver's Seat
-   Modeling an Engine Cam
-   Desiging a Clock That Keeps Time
-   Designing a Tuned Mass Damper
-   Designing a Stable Bicycle
-   Isolator Selection

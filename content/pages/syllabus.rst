@@ -64,7 +64,7 @@ Instructors
 
 | Jason K. Moore
 | 2095 Bainer Hall
-| 530-752-4805
+| 530-601-9791
 | jkm@ucdavis.edu
 |
 | Gregory Bales
@@ -156,15 +156,16 @@ Final Project Presentation 10%
 .. _canvas.ucdavis.edu: http://canvas.ucdavis.edu
 
 Classwork
-   There will be in class quizzes and computational exercises. These will be
-   sometimes be graded for participation and sometimes for correctness. You may
-   have to finish the activities we started in class outside of class and
+   There will be a large number of in class computational exercises. These will
+   be sometimes be graded for participation and sometimes for correctness. You
+   may have to finish the activities we started in class outside of class and
    submit with your homework that week.
 Homework
    Weekly homework will be assigned which will be due before class the
    following week. You will submit these through bicycle.ucdavis.edu.
-Midterm
-   You will have to complete a two hour in class exam.
+Midterm Project
+   You will have to complete a non-trivial modeling project as the first
+   portion of the class project.
 Project
    You will be assigned an individual design project that will be due just
    before the final exam start time. You will submit a report and give a 5
@@ -174,16 +175,25 @@ Canvas
 ======
 
 We will make use of Canvas for the course. Log in to canvas.ucdavis.edu_ with
-your Kerberos ID and passphrase then select **ENG 122 001 FQ 2017**.
+your Kerberos ID and passphrase then select **ENG 122 001 WQ 2020**.
 
 We will be using several features in canvas:
 
 Announcements
-   This will be my primary communication avenue to you. These announcements
-   will be forwarded automatically to your UCD email address. You are expected
-   to read these either through your email program or on the Canvas website.
+   This will be the instructors' primary communication avenue to you. These
+   announcements will be forwarded automatically to your UCD email address. You
+   are expected to read these either through your email program or on the
+   Canvas website.
 Assignments
-   The electronic assignments will be distributed and collected here.
+   The electronic assignments will be listed here but will be distributed and
+   collected through the JuyterHub.
+Discussions
+   Canvas discussions should be used for all questions about the class,
+   homework, theory, projects, etc that is not of a private nature. Discussions
+   allows both the instructors and students to collectively answer questions
+   for the whole classes benefit. When considering contacting the instructors
+   via email you should default to submitting it via Discussions unless the
+   question is a private matter.
 Grades
    Your grades and basic stats on your relative performance will be available
    as the course goes along.
@@ -192,30 +202,10 @@ Files
    available here for download. The rest will be available for download on this
    website.
 
-Communications
-==============
+Accomodation
+============
 
-Email
------
-
-Personal electronic correspondence from the instructors will be made to your
-UCD email address. It is your responsibility to check this regularly.
-
-Electronic announcements from the instructors to the whole class will be made
-through Canvas. By default, Canvas will automatically send the announcement to
-your UCD email address. You can change your Canvas settings to opt out, send it
-them to a different email, or as an SMS. You are responsible for reading the
-announcements made via canvas.
-
-When contacting the instructors via email you should default to submitting it
-via Piazza (see next section) unless the question is a private matter.
-
-Canvas Discussions
-------------------
-
-Canvas discussions should be used for all questions about the class, homework,
-theory, projects, etc that is not of a private nature. Discussions allows both
-the instructors and students to collectively answer questions for the whole
-classes benefit. The instructors can also endorse the student answer if it is
-correct.  The top student askers and answerers, to be judged by the
-instructors, will be rewarded with bonus points to their final grade.
+The primary instructor should be informed of any learning accommodations at
+least 1 full week before the desired accommodation is needed. I expect students
+to contact me to discuss any special arrangements with 1 week time to make and
+agree on the arrangements.
