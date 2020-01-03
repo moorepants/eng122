@@ -10,11 +10,16 @@ SITEURL = ''
 SOURCEURL = 'http://github.com/moorepants/eng122'
 
 PATH = 'content'
-PAGE_ORDER_BY = 'sortorder'
 
 TIMEZONE = 'US/Pacific'
 
 DEFAULT_LANG = 'en'
+
+# This sets the default pages to be top level items.
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
+PAGE_ORDER_BY = 'sortorder'
+STATIC_PATHS = ['scripts']
 
 try:
     with open('local-config.yml', 'r') as config_file:
@@ -29,6 +34,12 @@ else:
 PLUGINS = ['render_math']
 MATH_JAX = {'color': 'black'}
 
+# Blogroll
+LINKS = ()
+
+# Social widget
+SOCIAL = ()
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -42,3 +53,11 @@ STATIC_PATHS = ['materials', 'images']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+## THEME
+
+# Alchemy theme settings
+SITESUBTITLE = ''
+SITEIMAGE = ''
+DESCRIPTION = ''
+PYGMENTS_STYLE = 'emacs'
