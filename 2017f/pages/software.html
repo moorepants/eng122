@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Software</title>
+        <link rel="stylesheet" href="https://moorepants.github.io/eng122/2017f/theme/css/main.css" />
+        <link rel="stylesheet" href="https://moorepants.github.io/eng122/2017f/theme/css/custom.css" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <script type="text/javascript"
+          src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="https://moorepants.github.io/eng122/2017f/">ENG 122: Intro to Mechanical Vibrations </a></h1>
+                <nav><ul>
+                    <li><a href="https://moorepants.github.io/eng122/2017f/">Syllabus</a></li>
+                    <li><a href="https://moorepants.github.io/eng122/2017f/pages/schedule.html">Schedule</a></li>
+                    <li class="active"><a href="https://moorepants.github.io/eng122/2017f/pages/software.html">Software</a></li>
+                    <li><a href="https://moorepants.github.io/eng122/2017f/pages/resources.html">Resources</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+    <h1 class="entry-title">Software</h1>
+    
+    <p>We will be using a custom Python package named <a class="reference external" href="https://github.com/moorepants/resonance">resonance</a> during the class to
+investigate a variety of mechanically vibrating systems. Resonance is an open
+source software package developed by the instructors and is built on top of the
+<a class="reference external" href="https://scipy.org/">Scientific Python</a> ecosystem of software packages.</p>
+<p>The documentation for resonance can be found at:</p>
+<p><a class="reference external" href="http://resonance.readthedocs.io">http://resonance.readthedocs.io</a></p>
+<p>The rendered Jupyter notebooks that are used in class can be found at:</p>
+<p><a class="reference external" href="https://moorepants.github.io/resonance/">https://moorepants.github.io/resonance/</a></p>
+<p>Finally, the source code for resonance can be found at:</p>
+<p><a class="reference external" href="https://github.com/moorepants/resonance">https://github.com/moorepants/resonance</a></p>
+<div class="section" id="running-the-software">
+<h2>Running The Software</h2>
+<p>The easiest, and preferred method, of running the software is to log into
+<a class="reference external" href="http://bicycle.ucdavis.edu">http://bicycle.ucdavis.edu</a> with your UCD email address to access our JupyterHub
+server. You can then either create a new terminal session or a &quot;Python 3&quot;
+Jupyter notebook. We will primarily be using Jupyter notebooks in class.</p>
+<div class="section" id="backing-up-your-work">
+<h3>Backing Up Your Work</h3>
+<p>The JupyterHub server has an automated backup in place should any problems
+occur, but it is recommended to regularly back up your own work. To do so,
+open a terminal from the JupyterHub interface (go to <tt class="docutils literal">New <span class="pre">-&gt;</span> Terminal</tt>). From
+this terminal window, type <tt class="docutils literal"><span class="pre">backup-home</span></tt>. This will find all of your files
+and put them in a zip file called <tt class="docutils literal">backup.zip</tt>, which you should then be able
+to see and download from JupyterHub interface. Any time you want to back up
+your work, you can run this command again from the terminal and it will add any
+new or changed files to the zip file on the server (you have to download it to
+your own computer each time).</p>
+</div>
+</div>
+<div class="section" id="installing-the-software-on-your-personal-computer">
+<h2>Installing the Software On Your Personal Computer</h2>
+<p>If you want to run the software locally on your own computer, you can install
+the same packages that we have on the server. We recommend that you first
+install the <a class="reference external" href="https://www.anaconda.com/download/">Anaconda</a> distribution of Python which includes most all of the
+packages you will need.</p>
+<p>With this, you can open up either Jupyter notebooks or use the Spyder IDE
+(which also can open notebooks).</p>
+<p>Currently, you will need to install resonance via the command line tool
+<tt class="docutils literal">conda</tt>. Open a terminal on Mac OSX or Linux or an Anconda Command Prompt on
+Windows and type:</p>
+<pre class="literal-block">
+conda install -c conda-forge resonance
+</pre>
+<p>To upgrade resonance as we release new versions, type:</p>
+<pre class="literal-block">
+conda update -c conda-forge resonance
+</pre>
+<p>This can also be done via Anaconda Navigator if you add the conda-forge
+channel.</p>
+</div>
+<div class="section" id="learning-python-for-engineering-computation">
+<h2>Learning Python For Engineering Computation</h2>
+<p>These are my recommended resources:</p>
+<ul class="simple">
+<li>The SciPy Lecture Notes: <a class="reference external" href="http://www.scipy-lectures.org/">http://www.scipy-lectures.org/</a></li>
+<li>Effective Computation in Physics Anthony Scopatz &amp; Kathryn Huff
+<a class="reference external" href="http://physics.codes/">http://physics.codes/</a></li>
+<li><a class="reference external" href="https://stackoverflow.com/">https://stackoverflow.com/</a> (Q &amp; A site, search for topics of interest)</li>
+</ul>
+<p>Each software package also has documentation:</p>
+<ul class="simple">
+<li>Jupyter: <a class="reference external" href="http://jupyter.org/documentation.html">http://jupyter.org/documentation.html</a></li>
+<li>NumPy: <a class="reference external" href="https://docs.scipy.org/doc/numpy/">https://docs.scipy.org/doc/numpy/</a></li>
+<li>matplotlib: <a class="reference external" href="https://matplotlib.org/contents.html">https://matplotlib.org/contents.html</a></li>
+<li>SciPy: <a class="reference external" href="https://docs.scipy.org/doc/scipy/reference/">https://docs.scipy.org/doc/scipy/reference/</a></li>
+<li>Pandas: <a class="reference external" href="https://pandas.pydata.org/pandas-docs/stable/">https://pandas.pydata.org/pandas-docs/stable/</a></li>
+<li>SymPy: <a class="reference external" href="http://docs.sympy.org/latest/index.html">http://docs.sympy.org/latest/index.html</a></li>
+</ul>
+<p>For beginning Python, I recommend <a class="reference external" href="http://greenteapress.com/wp/think-python/">ThinkPython</a> by Allen Downey.</p>
+<p>There are thousands of other online resources that cover the full spectrum of
+using Python for scientific and engineering computing.</p>
+</div>
+<div class="section" id="example-notebooks">
+<h2>Example Notebooks</h2>
+<p>To get an idea of what you can do with Jupyter notebooks, here are some
+examples:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://nbviewer.jupyter.org/">https://nbviewer.jupyter.org/</a></li>
+<li>A tutorial I gave at SciPy 2017: <a class="reference external" href="http://www.sympy.org/scipy-2017-codegen-tutorial/">http://www.sympy.org/scipy-2017-codegen-tutorial/</a></li>
+<li>The PyDy Human Standing Tutorial: <a class="reference external" href="https://github.com/pydy/pydy-tutorial-human-standing">https://github.com/pydy/pydy-tutorial-human-standing</a></li>
+<li>CFDPython: <a class="reference external" href="https://github.com/barbagroup/CFDPython">https://github.com/barbagroup/CFDPython</a></li>
+<li>Notebook gallery: <a class="reference external" href="http://nb.bianp.net/sort/views/">http://nb.bianp.net/sort/views/</a></li>
+</ul>
+</div>
+
+</section>
+        <section id="extras" class="body">
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+          <address id="about" class="vcard body">
+            <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+              <a rel="license"
+                href="http://creativecommons.org/publicdomain/zero/1.0/">
+                <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+              </a>
+              <br />
+              To the extent possible under law,
+              <a rel="dct:publisher"
+                href="http://moorepants.info">
+                <span property="dct:title">Jason K. Moore</span>
+              </a>
+              has waived all copyright and related or neighboring rights to
+              <span property="dct:title">ENG122 Mechanical Vibrations Course Website</span>.
+              This work is published from:
+              <span property="vcard:Country" datatype="dct:ISO3166"
+                content="US" about="http://moorepants.info">
+              United States</span>.
+            </p>
+            Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+            <p>The source for the website is <a href="http://github.com/moorepants/eng122">hosted on Github</a>. Report issues
+              and make contributions there.</p>
+          </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-15966419-8', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+</body>
+</html>
