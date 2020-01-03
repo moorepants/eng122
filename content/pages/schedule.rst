@@ -59,20 +59,20 @@ NA T Dec 12    - **Final Period** 6:00 pm - 8:00 pm                             
                - Project Lightning Talks
 == ==========  ====================================  =========================  ===============
 
-.. _NB 01: https://moorepants.github.io/resonance/01-intro-jupyter.html
-.. _NB 02: https://moorepants.github.io/resonance/02-book-balancing-intro.html
-.. _NB 03: https://moorepants.github.io/resonance/03-bicycle-wheel-inertia.html
-.. _NB 04: https://moorepants.github.io/resonance/04_clock_pendulum_with_damping.html
-.. _NB 05: https://moorepants.github.io/resonance/05_clock_pendulum_with_friction.html
-.. _NB 06: https://moorepants.github.io/resonance/06_sinusoidal_forcing.html
-.. _NB 07: https://moorepants.github.io/resonance/07_vertical_vibration_of_a_quarter_car.html
-.. _NB 08: https://moorepants.github.io/resonance/08_modeling_a_drone_trifilar_pendulum.html
-.. _NB 09: https://moorepants.github.io/resonance/09_modeling_a_washing_machine.html
-.. _NB 10: https://moorepants.github.io/resonance/10_modeling_a_ball_channel_pendulum.html
-.. _NB 11: https://moorepants.github.io/resonance/11_modes_of_a_ball_channel_pendulum.html
-.. _NB 12: https://moorepants.github.io/resonance/12_vibrating_building.html
-.. _NB 13: https://moorepants.github.io/resonance/13_vibrating_building_forcing.html
-.. _NB 14: https://moorepants.github.io/resonance/14_bicycle.html
+.. _NB 01: https://moorepants.github.io/resonance/01/01-intro-jupyter.html
+.. _NB 02: https://moorepants.github.io/resonance/02/02-book-balancing-intro.html
+.. _NB 03: https://moorepants.github.io/resonance/03/03-bicycle-wheel-inertia.html
+.. _NB 04: https://moorepants.github.io/resonance/04/04_clock_pendulum_with_damping.html
+.. _NB 05: https://moorepants.github.io/resonance/05/05_clock_pendulum_with_friction.html
+.. _NB 06: https://moorepants.github.io/resonance/06/06_sinusoidal_forcing.html
+.. _NB 07: https://moorepants.github.io/resonance/07/07_vertical_vibration_of_a_quarter_car.html
+.. _NB 08: https://moorepants.github.io/resonance/08/08_modeling_a_drone_trifilar_pendulum.html
+.. _NB 09: https://moorepants.github.io/resonance/09/09_modeling_a_washing_machine.html
+.. _NB 10: https://moorepants.github.io/resonance/10/10_modeling_a_ball_channel_pendulum.html
+.. _NB 11: https://moorepants.github.io/resonance/11/11_modes_of_a_ball_channel_pendulum.html
+.. _NB 12: https://moorepants.github.io/resonance/12/12_vibrating_building.html
+.. _NB 13: https://moorepants.github.io/resonance/13/13_vibrating_building_forcing.html
+.. _NB 14: https://moorepants.github.io/resonance/14/14_bicycle.html
 
 .. _Notes L10: {filename}/materials/ENG122-L10.pdf
 .. _Notes L11: {filename}/materials/ENG122-L11.pdf
