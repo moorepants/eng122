@@ -32,7 +32,7 @@ NA M Jan 20    Martin Luther King Jr. Holiday                                   
 10 M Feb 10    Modeling a Ball Channel Pendulum                                 HW 05
 11 W Feb 12    Linearization
 -- ----------  ------------------------------------  -------------------------  ---------------
-NA M Feb 17    President's Day Holiday                                          Project Model
+NA M Feb 17    President's Day Holiday                                          Midterm Report
 12 W Feb 19    Modes of a Ball Channel Pendulum
 -- ----------  ------------------------------------  -------------------------  ---------------
 13 M Feb 24    Modes of a Multi-Story Building                                  HW 06
@@ -44,7 +44,7 @@ NA M Feb 17    President's Day Holiday                                          
 18 M Mar 09    A Bicycle                                                        HW 08
 19 W Mar 11    Bicycle continued
 -- ----------  ------------------------------------  -------------------------  ---------------
-NA T Mar 17    - **Final Period** 1:00 pm - 3:00 pm                             Design Report
+NA T Mar 17    - **Final Period** 1:00 pm - 3:00 pm                             Final Report
                - Project Lightning Talks
 == ==========  ====================================  =========================  ===============
 

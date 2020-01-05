@@ -108,10 +108,13 @@ Office of Student Judicial Affairs to review the campus' policy on academic
 responsibility and integrity and read the UC Davis `code of academic conduct
 <http://sja.ucdavis.edu/cac.html>`_.
 
-Feel free to discuss homework and project assignments and work on them
-together, but each student must turn in a *unique* solution and presentation of
-the work. Keep in mind that actually doing all of the homework yourself is
-critical for learning and passing the course.
+Feel free to discuss homework assignments and work on them together, but each
+student must turn in a *unique* solution and presentation of the work. Keep in
+mind that actually doing all of the homework yourself is critical for learning
+and passing the course.
+
+You may discuss your projects with others but the presented text, code,
+figures, and other materials in the reports must be created solely by yourself.
 
 Textbook
 ========
@@ -171,10 +174,11 @@ Homework
    following week.
 Project
    You will select a course project from a set of options provided by the
-   instructors. Midway through you will turn in a midterm report detailing a
-   model that you develop for your system. At the end of the course, you will
-   submit a report and give a 5 minute lightning talk during the scheduled exam
-   period detailing the modeling, analysis, and design aspects of your project.
+   instructors or one that you choose yourself. Approximately, midway through
+   you will turn in a midterm report detailing a model that you develop for
+   your system. At the end of the course, you will submit a report and give a 5
+   minute lightning talk during the scheduled exam period detailing the
+   modeling, analysis, and design aspects of your project.
 
 Canvas
 ======
