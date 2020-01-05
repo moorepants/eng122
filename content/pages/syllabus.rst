@@ -9,7 +9,7 @@ Course Description
 | University of California, Davis
 | Department of Mechanical and Aerospace Engineering
 | Introduction to Mechanical Vibrations - ENG 122
-| Winter 2020, Lecture: MW 10:00AM-11:50AM
+| Winter 2020, Lecture: MW 10:00AM-11:50AM, Bainer Hall 1130
 | CRN: 77345
 
 Mechanical structures and systems are susceptible to vibrations, i.e. periodic
@@ -64,8 +64,8 @@ Instructors
 
 | Jason K. Moore
 | 2095 Bainer Hall
-| 530-601-9791
 | jkm@ucdavis.edu
+| 530-601-9791
 |
 | Gregory Bales
 | glbales@ucdavis.edu
@@ -76,23 +76,16 @@ Time and Location
 The lecture/discussion meets on Mondays and Wednesdays from 10:00-11:50 AM in
 Bainer Hall 1130.
 
-**If you have any conflicts with the schedule, especially for the exams, you
-must tell me in the first week of class (emergencies will be the only
+**If you have any conflicts with the schedule, especially for the exam period,
+you must tell me in the first week of class (emergencies will be the only
 exception).**
 
 Office Hours
 ============
 
-The Wednesday "office hours" will be in the design studio (Bainer 2071). Kenny
-or Jason will present materials on vibration analysis and Python skills
-regardless if you have questions or not. This is more like a discussion
-section, a work session, etc. If you do have questions we will answer them.
-Regardless, it is an extra 2 hours of instruction. I highly recommend that you
-come.
-
 | Jason's Office Hours
 | Bainer 2095
-| Time: TBA
+| Time: Wednesdays 1:10 PM to 2:00 PM (shared with EME 171), Thursdays 2:10 PM to 3:00 PM
 |
 | Greg's Office Hours
 | Location: TBA
@@ -100,9 +93,9 @@ come.
 
 If it is impossible to make office hours, schedule an appointment with Jason by
 checking his `work calendar`_ and select a free time between 8:00 AM and 6:30
-PM Monday-Thursday. Send him an email requesting an appointment at the
-suggested meeting times at least two days in advance. You can also email Kenny
-and request a meeting.
+PM Monday-Friday. Send him an email requesting an appointment at the suggested
+meeting times at least two days in advance. You can also email Kenny and
+request a meeting.
 
 .. _work calendar: http://www.moorepants.info/work-calendar.html
 
@@ -115,23 +108,35 @@ Office of Student Judicial Affairs to review the campus' policy on academic
 responsibility and integrity and read the UC Davis `code of academic conduct
 <http://sja.ucdavis.edu/cac.html>`_.
 
-Feel free to discuss homework assignments and work on them together, but each
-student must turn in a *unique* solution. Keep in mind that actually doing all
-of the homework yourself is critical for learning and passing the course.
+Feel free to discuss homework and project assignments and work on them
+together, but each student must turn in a *unique* solution and presentation of
+the work. Keep in mind that actually doing all of the homework yourself is
+critical for learning and passing the course.
 
 Textbook
 ========
 
-In the past, I have used the following book as the official and required
-textbook:
+There is no assigned textbook for the course but you may want to obtain a
+mechanical vibrations textbook for reference. There are numerous books on the
+subject that all present essentially the same materials. Here are some options:
 
-   *Engineering Vibration*, Daniel J. Inman, 4th Edition, Pearson Education.
-   ISBN 978-0-13-287169-3 [`Book Information`_]
-
-This year, the textbook is optional and will only be a reference. We will not
-be following it in any particular way. We will provide you with free online
-resources and other materials for reading. Note that many students have found
-the above book in paperback for ~$25 via non-standard channels.
+*Mechanical Vibrations*, J.P. Den Hartog
+   This is the first an most widely read book on the subject. For those that
+   want the classic perspective.
+*Engineering Vibration*, Daniel J. Inman, 4th Edition, Pearson Education.
+   Book that was used for this course in the recent past.
+*Mechanical Vibrations*, Singiresu S. Rao, 2016
+   Highly cited text.
+*Mechanical Vibrations: Theory and Applications*, Tse, Morse, and Hinkle, 1978
+  `PDF download <https://s3.amazonaws.com/academia.edu.documents/56128041/Mechanical_Vibrations.pdf?response-content-disposition=inline%3B%20filename%3DMechanical_Vibrations_Theory_and_Applica.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200105T215525Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e38461b649719baf329ff4fd7e9b8a3da8959fc148966325bd3a4235c1a9b048>`_
+*Mechanical Vibrations*, Anil V. Rao, 2009, (130 pages)
+   Lecture notes for course EME 4220 at the University of Florida. http://vdol.mae.ufl.edu/CourseNotes/EML4220/vibrations.pdf
+*Mechanical Vibrations*, D.E. Adams (131 pages)
+   Notes from Prof. Adam's course ME 563 at Purdue. https://engineering.purdue.edu/~deadams/ME563/notes_10.pdf
+*Mecanical Vibrations*, Luis San Andres, 2008
+   Notes from Texas A&M's course. https://oaktrust.library.tamu.edu/handle/1969.1/93266
+*Vibration*, Wikipedia Authors
+   https://en.wikipedia.org/wiki/Vibration
 
 .. _Book Information: https://www.pearsonhighered.com/program/Inman-Engineering-Vibration-4th-Edition/PGM198634.html
 
@@ -141,14 +146,15 @@ Assignments & Grades
 Grades will be available in the canvas.ucdavis.edu_ grade book periodically
 throughout the course along with class statistics. Check the website on a
 regular basis to gauge your performance. Keep in mind that **15% is deducted
-per business day late** on all assignments.
+per business day late** on all assignments except for the final report in
+**100% will be deducted if late**.
 
 .. class:: table table-striped table-bordered
 
 ========================== =====
 Classwork                  10%
 Homeworks                  30%
-Midterm Project            20%
+Midterm Project Report     20%
 Final Project Report       30%
 Final Project Presentation 10%
 ========================== =====
@@ -157,19 +163,18 @@ Final Project Presentation 10%
 
 Classwork
    There will be a large number of in class computational exercises. These will
-   be sometimes be graded for participation and sometimes for correctness. You
-   may have to finish the activities we started in class outside of class and
-   submit with your homework that week.
+   be graded for participation and/or correctness. You may have to finish the
+   activities we started in class outside of class and submit with your
+   homework that week.
 Homework
    Weekly homework will be assigned which will be due before class the
-   following week. You will submit these through bicycle.ucdavis.edu.
-Midterm Project
-   You will have to complete a non-trivial modeling project as the first
-   portion of the class project.
+   following week.
 Project
-   You will be assigned an individual design project that will be due just
-   before the final exam start time. You will submit a report and give a 5
-   minute lightning talk during the scheduled exam period.
+   You will select a course project from a set of options provided by the
+   instructors. Midway through you will turn in a midterm report detailing a
+   model that you develop for your system. At the end of the course, you will
+   submit a report and give a 5 minute lightning talk during the scheduled exam
+   period detailing the modeling, analysis, and design aspects of your project.
 
 Canvas
 ======
