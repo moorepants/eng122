@@ -25,22 +25,15 @@ Running The Software
 ====================
 
 The easiest, and preferred method, of running the software is to log into
-http://bicycle.ucdavis.edu with your UCD email address to access our JupyterHub
-server. You can then either create a new terminal session or a "Python 3"
-Jupyter notebook. We will primarily be using Jupyter notebooks in class.
+http://jupyter.libretexts.edu with your UCD email address to access our
+JupyterHub server. You can then create a new "Python 3" Jupyter notebook.
 
 Backing Up Your Work
 --------------------
 
 The JupyterHub server has an automated backup in place should any problems
-occur, but it is recommended to regularly back up your own work. To do so,
-open a terminal from the JupyterHub interface (go to ``New -> Terminal``). From
-this terminal window, type ``backup-home``. This will find all of your files
-and put them in a zip file called ``backup.zip``, which you should then be able
-to see and download from JupyterHub interface. Any time you want to back up
-your work, you can run this command again from the terminal and it will add any
-new or changed files to the zip file on the server (you have to download it to
-your own computer each time).
+occur, but it is recommended to regularly back up your own work. Download any
+important files to your computer on a regular basis.
 
 Installing the Software On Your Personal Computer
 =================================================
@@ -56,7 +49,7 @@ With this, you can open up either Jupyter notebooks or use the Spyder IDE
 (which also can open notebooks).
 
 Currently, you will need to install resonance via the command line tool
-``conda``. Open a terminal on Mac OSX or Linux or an Anconda Command Prompt on
+``conda``. Open a terminal on Mac OSX or Linux or an Anaconda Command Prompt on
 Windows and type::
 
    conda install -c conda-forge resonance
