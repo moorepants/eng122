@@ -69,6 +69,8 @@ These are my recommended resources:
 - The SciPy Lecture Notes: http://www.scipy-lectures.org/
 - Effective Computation in Physics Anthony Scopatz & Kathryn Huff
   http://physics.codes/
+- `NumPy for Matlab Users
+  <https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html>`_
 - https://stackoverflow.com/ (Q & A site, search for topics of interest)
 
 Each software package also has documentation:
