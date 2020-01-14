@@ -84,12 +84,12 @@ Office Hours
 ============
 
 | Jason's Office Hours
-| Bainer 2095
+| Location: Bainer 2095
 | Time: Wednesdays 1:10 PM to 2:00 PM (shared with EME 171), Thursdays 2:10 PM to 3:00 PM
 |
 | Greg's Office Hours
-| Location: TBA
-| Time: TBA
+| Location: Bainer 2071
+| Time: Thursday's 1PM-2PM and Friday's 11AM-12PM
 
 If it is impossible to make office hours, schedule an appointment with Jason by
 checking his `work calendar`_ and select a free time between 8:00 AM and 6:30
