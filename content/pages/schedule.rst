@@ -15,9 +15,12 @@ changes.**
                - Working with Jupyter and Python
                - Book Balancing on a Cup Demo
 02 W Jan 08    Measuring a Bike Wheel's Inertia      - `NB 02`_
+                                                     - `NB L02-01`_
+                                                     - `NB L02-02`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 03 M Jan 13    - Measuring a Bike Wheel's Inertia    - `NB 02`_                 HW 01
                - Curve Fitting                       - `NB 03`_
+                                                     - `NB L03`_
 04 W Jan 15    Clock Pendulum with Damping/Friction
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Jan 20    Martin Luther King Jr. Holiday                                   HW 02
@@ -52,6 +55,10 @@ NA T Mar 17    - **Final Period** 1:00 pm - 3:00 pm                             
 .. _NB 01: https://moorepants.github.io/resonance/01-2020/first_day.html
 .. _NB 02: https://moorepants.github.io/resonance/02-2020/estimating_bicycle_radial_inertia.html
 .. _NB 03: https://moorepants.github.io/resonance/03-2020/curve_fitting.html
+
+.. _NB L02-01: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l02_pandas_example.ipynb
+.. _NB L02-02: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l02_plotting_widget_example.ipynb
+.. _NB L03: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l03_numpy_and_loops.ipynb
 
 .. _NB 04: https://moorepants.github.io/resonance/04/04_clock_pendulum_with_damping.html
 .. _NB 05: https://moorepants.github.io/resonance/05/05_clock_pendulum_with_friction.html
