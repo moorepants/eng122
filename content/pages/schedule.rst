@@ -11,13 +11,14 @@ changes.**
 == ==========  ====================================  =========================  ===============
 #  Date        Topic                                 Materials                  Assignment Due
 == ==========  ====================================  =========================  ===============
-01 M Jan 06    - Introduction
+01 M Jan 06    - Introduction                        - `NB 01`_
                - Working with Jupyter and Python
                - Book Balancing on a Cup Demo
-02 W Jan 08    Measuring a Bicycle Wheel's Inertia
+02 W Jan 08    Measuring a Bike Wheel's Inertia      - `NB 02`_
 -- ----------  ------------------------------------  -------------------------  ---------------
-03 M Jan 13    Clock Pendulum with Viscous Damping                              HW 01
-04 W Jan 15    Clock Pendulum with Coulomb Friction
+03 M Jan 13    - Measuring a Bike Wheel's Inertia    - `NB 02`_                 HW 01
+               - Curve Fitting                       - `NB 03`_
+04 W Jan 15    Clock Pendulum with Damping/Friction
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Jan 20    Martin Luther King Jr. Holiday                                   HW 02
 05 W Jan 22    Sinusoidal Forcing
@@ -48,9 +49,10 @@ NA T Mar 17    - **Final Period** 1:00 pm - 3:00 pm                             
                - Project Lightning Talks
 == ==========  ====================================  =========================  ===============
 
-.. _NB 01: https://moorepants.github.io/resonance/01/01-intro-jupyter.html
-.. _NB 02: https://moorepants.github.io/resonance/02/02-book-balancing-intro.html
-.. _NB 03: https://moorepants.github.io/resonance/03/03-bicycle-wheel-inertia.html
+.. _NB 01: https://moorepants.github.io/resonance/01-2020/first_day.html
+.. _NB 02: https://moorepants.github.io/resonance/02-2020/estimating_bicycle_radial_inertia.html
+.. _NB 03: https://moorepants.github.io/resonance/03-2020/curve_fitting.html
+
 .. _NB 04: https://moorepants.github.io/resonance/04/04_clock_pendulum_with_damping.html
 .. _NB 05: https://moorepants.github.io/resonance/05/05_clock_pendulum_with_friction.html
 .. _NB 06: https://moorepants.github.io/resonance/06/06_sinusoidal_forcing.html
