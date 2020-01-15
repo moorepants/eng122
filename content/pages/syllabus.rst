@@ -226,3 +226,10 @@ All of the in-class exercises will be done on a personal computing device
 (preferably one with a keyboard) that you will be expected to bring to class.
 If you do not have a suitable computing device that you can bring to class, you
 will need to let the primary instructor know the day of the first class period.
+
+Student Campus Resources
+========================
+
+This is a helpful page for students' frequently asked questions:
+
+https://ebeler.faculty.ucdavis.edu/resources/faq-student-resources/
