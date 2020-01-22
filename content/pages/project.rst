@@ -278,6 +278,8 @@ the wheel to ensure minimal vibration when rotating at speed. This project
 would focus on figuring out how this machine works and designing the machine
 through a model and simulation.
 
+https://en.wikipedia.org/wiki/Tire_balance
+
 Estimating of the Inertia of a Sports Implement
 -----------------------------------------------
 
