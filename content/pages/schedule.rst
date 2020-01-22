@@ -35,13 +35,13 @@ NA T Jan 21                                                                     
 -- ----------  ------------------------------------  -------------------------  ---------------
 08 M Feb 03    - Vertical Vibration of a Car                                    HW 04
                - Introduction to Modeling
-09 W Feb 0     Modeling a Trifilar Pendulum
+09 W Feb 05    Modeling a Trifilar Pendulum                                     Project Proposal
 -- ----------  ------------------------------------  -------------------------  ---------------
 10 M Feb 10    Modeling a Ball Channel Pendulum                                 HW 05
 11 W Feb 12    Linearization
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Feb 17    President's Day Holiday
-NA T Feb 18                                                                     Midterm Report
+NA T Feb 18                                                                     Modeling Report
 12 W Feb 19    Modes of a Ball Channel Pendulum
 -- ----------  ------------------------------------  -------------------------  ---------------
 13 M Feb 24    Modes of a Multi-Story Building                                  HW 06
