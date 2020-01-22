@@ -1,0 +1,374 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>  Project | ENG 122: Intro to Mechanical Vibrations
+</title>
+  <link rel="canonical" href="https://moorepants.github.io/eng122/project.html">
+
+
+  <link rel="stylesheet" href="https://moorepants.github.io/eng122/theme/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://moorepants.github.io/eng122/theme/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://moorepants.github.io/eng122/theme/css/pygments/emacs.min.css">
+  <link rel="stylesheet" href="https://moorepants.github.io/eng122/theme/css/theme.css">
+
+  
+  <meta name="description" content="A significant portion of your grade will be assigned based on a multi-week long project involving the modeling, analysis, and design of a real vibrating system. You will be paired with a partner and together you must select a reasonably complex system that can be modeled using planar kinematics and …">
+  <script>
+    (function(i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o);
+      a.async = 1;
+      a.src = g;
+      m = s.getElementsByTagName(o)[0];
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-15966419-8', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+
+</head>
+
+<body>
+  <header class="header">
+    <div class="container">
+<div class="row">
+  <div class="col-sm-12">
+    <h1 class="title"><a href="https://moorepants.github.io/eng122/">ENG 122: Intro to Mechanical Vibrations</a></h1>
+      <ul class="list-inline">
+            <li class="list-inline-item"><a href="https://moorepants.github.io/eng122/">Syllabus</a></li>
+            <li class="list-inline-item"><a href="https://moorepants.github.io/eng122/schedule.html">Schedule</a></li>
+            <li class="list-inline-item"><a href="https://moorepants.github.io/eng122/software.html">Software</a></li>
+            <li class="list-inline-item"><a href="https://moorepants.github.io/eng122/resources.html">Resources</a></li>
+            <li class="list-inline-item"><a href="https://moorepants.github.io/eng122/project.html">Project</a></li>
+      </ul>
+  </div>
+</div>    </div>
+  </header>
+
+  <div class="main">
+    <div class="container">
+      <h1>  Project
+</h1>
+      <hr>
+
+<article class="article">
+  <div class="content">
+    <p>A significant portion of your grade will be assigned based on a multi-week long
+project involving the modeling, analysis, and design of a real vibrating
+system. You will be paired with a partner and together you must select a
+reasonably complex system that can be modeled using planar kinematics and
+dynamics.</p>
+<p>You will start by suggesting a well-posed question about and/or design criteria
+for the system which the simulation and analysis can help you to address. You
+will derive the differential equations of motion, study the system by
+simulating the system dynamics, and present you results in a well formatted
+written report in the form of a Jupyter notebook (or set of) including whatever
+charts, tables, figures, and visualizations you may need to clearly communicate
+your results.</p>
+<p>Many students believe that once the equations are written and the simulation is
+completed, the job is finished. Actually, dynamic simulations are merely a tool
+to learn about the possible dynamic behaviors that a system can exhibit and how
+these dynamics depend on other parameters. They must be used cleverly and
+resourcefully to elucidate the behavior of the system. This involves asking the
+right questions about the system and understanding which parametric
+dependencies are of interest. Usually this will come from some engineering job
+requirements and specifications or from some scientific question which one
+would like answered (e.g. &quot;Design an antenna deployment system for a
+communication satellite which works in the near earth orbit, deploys in less
+that 10 sec, ..., etc.&quot; or &quot;What are the important parameters which limit the
+maximum range of achievable in a throw of the discus and how should it be
+launched optimally?&quot;).</p>
+<p>In this project you will be responsible for generating this project requirement
+before writing the simulation to help you answer the question you have asked. A
+good, precise statement of an interesting question is every bit as important as
+good answer. Indeed, poorly defined or worded questions are often impossible
+to answer in a satisfying and fulfilling way.</p>
+<div class="section" id="basic-project-tasks">
+<h2>Basic Project Tasks</h2>
+<ul class="simple">
+<li>Develop a research question and/or design criteria for the system</li>
+<li>Perform a literature review and report on at least two relevant and useful
+references</li>
+<li>Develop a simple planar free body diagram along with an associated
+mathematical and computational model</li>
+<li>Calculate fundamental modal frequencies and frequency response of the system</li>
+<li>Design inputs to the systems that mimic reality</li>
+<li>Identify parameters (mass, geometry, stiffness, damping, etc.) to investigate</li>
+<li>Simulate the system for the inputs and design changes</li>
+<li>Design your system to answer your question or meet the design criteria</li>
+</ul>
+</div>
+<div class="section" id="proposal-due-wednesday-february-5th">
+<h2>Proposal [Due Wednesday February 5th]</h2>
+<p>Report to the instructors in writing the system of your choice, including a
+motivation for the problem, background on how the system works heuristically, a
+literature search to identify previous work on this problem, and a relatively
+complete discussion of the way you hope to use the vibration simulation to
+learn what you have chosen to learn. The proposal should be no more than 3
+pages and address these things:</p>
+<ul class="simple">
+<li>What do you want to figure out or solve? Propose either a research question
+or some specifications a design should meet.</li>
+<li>Background and literature review of prior related work others have done.</li>
+<li>What are inputs/outputs of the system?</li>
+<li>What are relevant masses/inertias in the system?</li>
+<li>What are flexible elements of the system?</li>
+<li>What dissipates energy in the system?</li>
+<li>Include a basic sketch or schematic of the system with descriptive
+annotation.</li>
+</ul>
+<div class="section" id="proposal-rubric">
+<h3>Proposal Rubric</h3>
+<p>[10] Research question/Design Criteria</p>
+<ul class="simple">
+<li>[10] Defined a research question or design criteria</li>
+<li>[5] Research question or design criteria is present but not articulated
+clearly</li>
+<li>[0] Did not define a research question or design criteria</li>
+</ul>
+<p>[10] Literature review</p>
+<ul class="simple">
+<li>[10] Identified more than two relevant work or extensive discussion of at
+least two</li>
+<li>[5] Identified and discussed at least two relevant works</li>
+<li>[0] Did not look into the literature</li>
+</ul>
+<p>[10] System description</p>
+<ul class="simple">
+<li>[10] System described from a vibrational and dynamics perspective</li>
+<li>[5] System described but lacking in description of dynamics/vibration</li>
+<li>[0] System not described</li>
+</ul>
+<p>[10] Methods description</p>
+<ul class="simple">
+<li>[10] Clear plan on how analysis and simulation may be used to answer research
+question</li>
+<li>[5] Plan on how to answer question is murky</li>
+<li>[0] No discussion of how analysis and simulation may be used to answer
+research question or address design criteria</li>
+</ul>
+<p>[10] Writing</p>
+<ul class="simple">
+<li>[10] Clear, coherent, and well organized</li>
+<li>[5] Writing and organization needs improvement</li>
+<li>[0] Not clear, coherent, or well organized</li>
+</ul>
+<p>[10] Contributions</p>
+<ul class="simple">
+<li>[10] Very clear that each partner contributed equitably to all aspects of the
+project.</li>
+<li>[5] Need to improve the contributions of one or more members</li>
+<li>[0] Clear that everyone is not contributing equitably</li>
+</ul>
+</div>
+</div>
+<div class="section" id="modeling-report-due-tba">
+<h2>Modeling Report [Due TBA]</h2>
+<p>This report will describe your model and demonstrate that it functions. More
+will be added to this section after the proposals are submitted.</p>
+</div>
+<div class="section" id="final-report-due-tuesday-march-17th">
+<h2>Final Report [Due Tuesday March 17th]</h2>
+<p>This report will cover the entirety of the project. More will be added to this
+section after the modeling report is submitted.</p>
+</div>
+<div class="section" id="project-idea-prompts">
+<h2>Project Idea Prompts</h2>
+<p>You may propose your own project idea if you'd like. Each team must choose a
+unique project topic with respect to the other teams. Here are some possible
+ideas to choose from or to use as inspiration:</p>
+<div class="section" id="utensil-tool-design-for-people-with-parkinson-s-disease">
+<h3>Utensil/Tool Design for People with Parkinson's Disease</h3>
+<p>Parkinson's disease often causes uncontrollable shaking. This prevents people
+with the disease from performing many daily tasks. For example, it is difficult
+to eat with utensils because the vibration in the hand causes the food to fall
+from the utensil or not make it into the mouth. There are products that damp
+the vibrations in the utensil, for example the <a class="reference external" href="https://www.liftware.com/steady/">Liftware Steady Spoon</a>. The
+goal of this project would be to design a utensil or tool that could allow
+those with Parkinson's to continue performing the selected task.</p>
+<p>You will need to characterize the typical motion and vibrations that occur in
+the task. The task should be one that can be modeled with a planar model of the
+arm, hand, and utensil/tool. The idea would be do design a passive mechanism
+with appropriate damping that causes the effector of the utensil to move more
+smoothly than that of the shaking input.</p>
+</div>
+<div class="section" id="record-player-needle">
+<h3>Record Player Needle</h3>
+<p>Record players produce sound by vibrating a thin structure, the needle, across
+a dimpled surface. The vibration of the needle then has to be transformed into
+vibrations of the air to produce sound. The simplest setup can be created by
+attaching a vibrating needle to a paper cone that amplifies the air vibration
+magnitude. Electronic record players use a voice coil that transforms
+mechanical motion into voltage changes in a coil via the Lorentz effect which
+is then amplified via the transformation back into the motion of the speaker
+diaphragm. This project could explore the design geometry of the needle, the
+surface shapes of the record dimpling, the transformation into electric energy,
+fatigue constraints, material selection, and/or resonance. It is even possible
+to produce sound waves with Python based on our simulations.</p>
+</div>
+<div class="section" id="cricket-sound-production">
+<h3>Cricket Sound Production</h3>
+<p>Cricket's and other insects produce sound by vibrating elements of their
+exoskeletons. This project would involve investing the geometric and material
+properties of the exoskeleton elements that are used to make their chirp,
+creating a simple model of the mechanism, and designing the model to produce
+chirps of frequency and amplitude that match an actual cricket or other insect.</p>
+</div>
+<div class="section" id="braking-on-cobblestone">
+<h3>Braking On Cobblestone</h3>
+<p>A cobblestone road is shaped such that a tire (e.g. bicycle tire) doesn't
+create a full contact patch between the tire and the road, as it does on a
+smooth road. This short article gives some initial ideas about the issues:</p>
+<p><a class="reference external" href="https://figshare.com/articles/On_coupling_of_vertical_and_longitudinal_dynamics_of_unsuspended_bicycles/5404942">https://figshare.com/articles/On_coupling_of_vertical_and_longitudinal_dynamics_of_unsuspended_bicycles/5404942</a></p>
+<p>Here you would develop a model that shows the difference in braking ability and
+affects of the vehicle due to the cobblestone road. Once the simulations are
+functioning you can turn to designing the suspension, tire, materials, or other
+aspects to provide better braking and suspension  performance.</p>
+</div>
+<div class="section" id="car-motorcycle-etc-traversing-periodic-roads-with-active-damping">
+<h3>Car, Motorcycle, etc. Traversing Periodic Roads with Active Damping</h3>
+<p>Two and four wheel vehicles are often modeled as a &quot;half car&quot; with a rigid body
+representing the sprung mass mounted on front and rear suspension elements and
+an unsprung mass representing the mass of the wheels. Develop a half car model
+and select realistic parameter values for a real vehicle of your choice.
+Develop a variety of road inputs for different travel speeds and design a
+suspension system that provides a comfortable rider to the passengers and
+sufficiently low forces to the vehicle structure. There is also the concept of
+the Skyhook damper that could be investigated:</p>
+<p><a class="reference external" href="https://en.wikipedia.org/wiki/Active_suspension">https://en.wikipedia.org/wiki/Active_suspension</a></p>
+<p>Here is a paper that implements a model that would be of interest:</p>
+<p><a class="reference external" href="https://pdfs.semanticscholar.org/7f64/a2002cfa48a49161f7eafeb509052d4925fc.pdf">https://pdfs.semanticscholar.org/7f64/a2002cfa48a49161f7eafeb509052d4925fc.pdf</a></p>
+</div>
+<div class="section" id="bouncy-bus-seat">
+<h3>Bouncy Bus Seat</h3>
+<p>The driver's seat of buses are typically mounted on special suspension systems
+that have large travel. This project could investigate why this is the only
+seat with suspension, how should this suspension be designed, data collection
+of acceleration of different locations on a bus. You can use a smartphone to
+collect angular rate and linear acceleration data different locations on a
+Unitrans bus to characterize inputs to seat locations. You would then need to
+design a seat suspension system to provide comfortable motion to the driver
+and/or passengers.</p>
+<p>Here is a related paper:</p>
+<p><a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S0307904X13002345">https://www.sciencedirect.com/science/article/pii/S0307904X13002345</a></p>
+</div>
+<div class="section" id="tuned-mass-damper">
+<h3>Tuned Mass Damper</h3>
+<p>Tuned mass dampers are often designed and installed in skyscrapers to damp
+oscillations due to earthquakes. This project would focus on modeling a
+multistory building and designing a tune mass damper to suppress motion from
+earthquake-like input vibrations.</p>
+<p><a class="reference external" href="https://en.wikipedia.org/wiki/Tuned_mass_damper">https://en.wikipedia.org/wiki/Tuned_mass_damper</a></p>
+<p><a class="reference external" href="https://en.wikipedia.org/wiki/Earthquake_engineering">https://en.wikipedia.org/wiki/Earthquake_engineering</a></p>
+</div>
+<div class="section" id="energy-harvesting-from-waves">
+<h3>Energy Harvesting From Waves</h3>
+<p>Ocean waves provide an oscillation input. If designed correctly a machine that
+floats on the surface or that is attached to the sea floor can harvest energy
+from the periodic motion of the waves. The moving machine can be coupled to an
+electric motor to transform rotational or linear motion into electricity. This
+project would investigate a wave energy harvesting device and design it such
+that energy can be stored from the &quot;vibrating&quot; ocean waves.</p>
+<p><a class="reference external" href="https://en.wikipedia.org/wiki/Wave_power">https://en.wikipedia.org/wiki/Wave_power</a></p>
+</div>
+<div class="section" id="design-of-front-wheel-suspension-in-an-automobile">
+<h3>Design of Front Wheel Suspension in an Automobile</h3>
+<p>There are a variety of non-trivial suspension designs for ground vehicles. This
+project would select a suspension system that has a reasonably complex
+mechanism to model and simulation under realistic road conditions.</p>
+<p>Here is a paper some Formula SAE students wrote about their suspension design
+that could be a starting point:</p>
+<p><a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S1877705816302983">https://www.sciencedirect.com/science/article/pii/S1877705816302983</a></p>
+</div>
+<div class="section" id="design-and-analysis-of-a-mountain-bike-suspension">
+<h3>Design and Analysis of a Mountain Bike Suspension</h3>
+<p>There are a variety of interesting bicycle suspension designs (see
+<a class="reference external" href="https://en.wikipedia.org/wiki/Bicycle_suspension">https://en.wikipedia.org/wiki/Bicycle_suspension</a> for a starting point). This
+project would model and investigate a non-trivial mountain bike suspension over
+downhill off-road shapes with a goal to provide comfortable traversal of the
+rough terrain.</p>
+</div>
+<div class="section" id="design-of-a-tire-balance-machine">
+<h3>Design of a Tire Balance Machine</h3>
+<p>Automobile tires need to be &quot;balanced&quot; to minimized vibrations due to
+asymmetries in the mass distribution of the wheel. Autoshop typically have a
+machine that spins the wheel and recommends a location and mass size to add to
+the wheel to ensure minimal vibration when rotating at speed. This project
+would focus on figuring out how this machine works and designing the machine
+through a model and simulation.</p>
+</div>
+<div class="section" id="estimating-of-the-inertia-of-a-sports-implement">
+<h3>Estimating of the Inertia of a Sports Implement</h3>
+<p>It is potentially useful to know the inertia of a sports implement for further
+dynamic study. For example, tennis rackets, baseball bats, cricket bats,
+bowling balls, etc. all have moments and products of inertia. This project
+would be to design a vibrating machine that could automatically estimate the
+inertia of a sports implement that is place on a vibrating table. You can see
+how Jason has done this with bicycle parts here:</p>
+<p><a class="reference external" href="http://moorepants.github.io/dissertation/physicalparameters.html">http://moorepants.github.io/dissertation/physicalparameters.html</a></p>
+<p>but this is a labor intensive process. It would be much nicer if the item can
+be placed in a machine and vibrated in such a way that doesn't require special
+mounting to arrive at the full set of inertia values.</p>
+</div>
+<div class="section" id="piezoelectric-hydraulic-pump">
+<h3>Piezoelectric Hydraulic Pump</h3>
+<p>Piezoelectric materials are those which convert applied mechanical stress into
+electrical signals. These materials are used in a wide array of transducers
+(sensors and actuators).</p>
+<p><a class="reference external" href="https://en.wikipedia.org/wiki/Piezoelectricity">https://en.wikipedia.org/wiki/Piezoelectricity</a></p>
+<p>In this project, you will model a positive displacement piston pump powered by
+a piezoelectric stack actuator. The piezoelectric actuator will be driven by a
+sinusoidal voltage at a frequency of approximately 1kHz. The pump will consist
+of a single piston moving axially in a frictionless bore. Your simulation will
+include the mass and stiffness of the pump housing, piston, and fluid, as well
+as pressure losses from flow resistance. This study will examine how elements
+of mechanical design are driven by the properties and limitations of real
+materials. An effective model will aid in the identification of design criteria
+that will drive the selection of materials, and the geometry of the final
+product.</p>
+<img alt="" src="https://objects-us-east-1.dream.io/eng122/2020w/piezo-pump.jpg" style="width: 600px;" />
+</div>
+</div>
+
+  </div>
+</article>
+
+
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+<div class="row">
+  <ul class="col-sm-6 list-inline">
+      <li class="list-inline-item"><a href="https://moorepants.github.io/eng122/authors.html">Authors</a></li>
+    <li class="list-inline-item"><a href="https://moorepants.github.io/eng122/archives.html">Archives</a></li>
+    <li class="list-inline-item"><a href="https://moorepants.github.io/eng122/categories.html">Categories</a></li>
+  </ul>
+  <p class="col-sm-6 text-sm-right text-muted">
+    Generated by <a href="https://github.com/getpelican/pelican" target="_blank">Pelican</a>
+    / <a href="https://github.com/nairobilug/pelican-alchemy" target="_blank">&#x2728;</a>
+  </p>
+</div>
+<div class="row">
+  <div class="col-sm-4 mx-auto text-center text-muted" >
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+      <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+    </a>
+    <br />
+    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+  </div>
+</div>    </div>
+  </footer>
+</body>
+
+</html>
