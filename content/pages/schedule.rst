@@ -27,12 +27,12 @@ changes.**
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Jan 20    Martin Luther King Jr. Holiday
 NA T Jan 21                                                                     HW 02
-05 W Jan 22    - Clock Pendulum with Damping         - `NB 05`_
+05 W Jan 22    - Clock Pendulum with Damping         - `NB 04`_
 -- ----------  ------------------------------------  -------------------------  ---------------
-06 M Jan 27    - Center of Percussion                - `NB 06`_                 HW 03
-               - Nonlinear Clock Pendulum            - `NB 07`_
+06 M Jan 27    - Center of Percussion                - `NB 05`_                 HW 03
+               - Nonlinear Clock Pendulum            - `NB 06`_
                                                      - `NB L05`_
-07 W Jan 29    - Nonlinear Clock Pendulum            - `NB 07`_
+07 W Jan 29    - Nonlinear Clock Pendulum            - `NB 06`_
                - Introduction to Modeling
 -- ----------  ------------------------------------  -------------------------  ---------------
 08 M Feb 03    Modeling a Trifilar Pendulum                                     HW 04
