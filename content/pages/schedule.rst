@@ -27,31 +27,31 @@ changes.**
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Jan 20    Martin Luther King Jr. Holiday
 NA T Jan 21                                                                     HW 02
-05 W Jan 22    - Clock Pendulum with Damping
-               - Center of Percussion
+05 W Jan 22    - Clock Pendulum with Damping         - `NB 05`_
 -- ----------  ------------------------------------  -------------------------  ---------------
-06 M Jan 27    Sinusoidal Forcing                                               HW 03
-07 W Jan 29    Vertical Vibration of a Car
--- ----------  ------------------------------------  -------------------------  ---------------
-08 M Feb 03    - Vertical Vibration of a Car                                    HW 04
+06 M Jan 27    - Center of Percussion                - `NB 06`_                 HW 03
+               - Nonlinear Clock Pendulum            - `NB 07`_
+                                                     - `NB L05`_
+07 W Jan 29    - Nonlinear Clock Pendulum            - `NB 07`_
                - Introduction to Modeling
-09 W Feb 05    Modeling a Trifilar Pendulum                                     Project Proposal
 -- ----------  ------------------------------------  -------------------------  ---------------
-10 M Feb 10    Modeling a Ball Channel Pendulum                                 HW 05
-11 W Feb 12    Linearization
+08 M Feb 03    Modeling a Trifilar Pendulum                                     HW 04
+09 W Feb 05    Modeling a Ball Channel Pendulum                                 Project Proposal
+-- ----------  ------------------------------------  -------------------------  ---------------
+10 M Feb 10    Linearization                                                    HW 05
+11 W Feb 12    Sinusoidal Forcing
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Feb 17    President's Day Holiday
-NA T Feb 18                                                                     Modeling Report
-12 W Feb 19    Modes of a Ball Channel Pendulum
+12 W Feb 19    Vertical Vibration of a Car                                      Modeling Report
 -- ----------  ------------------------------------  -------------------------  ---------------
-13 M Feb 24    Modes of a Multi-Story Building                                  HW 06
+13 M Feb 24    Modes of a Ball Channel Pendulum                                 HW 06
 14 W Feb 26    Modes of a Multi-Story Building
 -- ----------  ------------------------------------  -------------------------  ---------------
 15 M Mar 02    Forcing Multi-Story Building                                     HW 07
-17 W Mar 04    A Bicycle
+17 W Mar 04    Modes of a bicycle
 -- ----------  ------------------------------------  -------------------------  ---------------
-18 M Mar 09    A Bicycle                                                        HW 08
-19 W Mar 11    Bicycle continued
+18 M Mar 09    Modes of bicycle                                                 HW 08
+19 W Mar 11    TBA
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA T Mar 17    - **Final Period** 1:00 pm - 3:00 pm                             Final Report
                - Project Lightning Talks
@@ -61,15 +61,17 @@ NA T Mar 17    - **Final Period** 1:00 pm - 3:00 pm                             
 .. _NB 02: https://moorepants.github.io/resonance/02-2020/estimating_bicycle_radial_inertia.html
 .. _NB 03: https://moorepants.github.io/resonance/03-2020/curve_fitting.html
 .. _NB 04: https://moorepants.github.io/resonance/04-2020/clock_pendulum_with_damping.html
+.. _NB 05: https://moorepants.github.io/resonance/05-2020/compound_pendulum_and_cop.html
+.. _NB 06: https://moorepants.github.io/resonance/06-2020/clock_pendulum_with_friction.html
 
 .. _NB L02-01: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l02_pandas_example.ipynb
 .. _NB L02-02: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l02_plotting_widget_example.ipynb
 .. _NB L03: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l03_numpy_and_loops.ipynb
 .. _NB L04: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l04_measurements_example.ipynb
+.. _NB L05: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l05_circle_example.ipynb
+
 .. _Notes L04: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l04.pdf
 
-.. _NB 05: https://moorepants.github.io/resonance/05/05_clock_pendulum_with_friction.html
-.. _NB 06: https://moorepants.github.io/resonance/06/06_sinusoidal_forcing.html
 .. _NB 07: https://moorepants.github.io/resonance/07/07_vertical_vibration_of_a_quarter_car.html
 .. _NB 08: https://moorepants.github.io/resonance/08/08_modeling_a_drone_trifilar_pendulum.html
 .. _NB 09: https://moorepants.github.io/resonance/09/09_modeling_a_washing_machine.html
