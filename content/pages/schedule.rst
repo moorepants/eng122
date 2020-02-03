@@ -33,7 +33,7 @@ NA T Jan 21                                                                     
                - Nonlinear Clock Pendulum            - `NB 06`_
                                                      - `NB L05`_
 07 W Jan 29    - Nonlinear Clock Pendulum            - `NB 06`_
-               - Introduction to Modeling            - `Notes 07`_
+               - Introduction to Modeling            - `Notes L07`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 08 M Feb 03    Modeling a Trifilar Pendulum                                     HW 04
 09 W Feb 05    Modeling a Ball Channel Pendulum                                 Project Proposal
