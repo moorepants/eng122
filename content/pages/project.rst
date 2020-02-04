@@ -49,8 +49,8 @@ Basic Project Tasks
 - Simulate the system for the inputs and design changes
 - Design your system to answer your question or meet the design criteria
 
-Proposal [Due Wednesday February 5th]
-=====================================
+Proposal [Due Friday February 7th]
+==================================
 
 Report to the instructors in writing the system of your choice, including a
 motivation for the problem, background on how the system works heuristically, a
