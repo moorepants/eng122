@@ -35,7 +35,9 @@ NA T Jan 21                                                                     
 07 W Jan 29    - Nonlinear Clock Pendulum            - `NB 06`_
                - Introduction to Modeling            - `Notes L07`_
 -- ----------  ------------------------------------  -------------------------  ---------------
-08 M Feb 03    Modeling a Trifilar Pendulum                                     HW 04
+08 M Feb 03    Modeling a Trifilar Pendulum          - `Notes L08`_             HW 04
+                                                     - `NB L08`_
+                                                     - `NB E08`_
 09 W Feb 05    Modeling a Ball Channel Pendulum                                 Project Proposal
 -- ----------  ------------------------------------  -------------------------  ---------------
 10 M Feb 10    Linearization                                                    HW 05
@@ -69,9 +71,12 @@ NA T Mar 17    - **Final Period** 1:00 pm - 3:00 pm                             
 .. _NB L03: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l03_numpy_and_loops.ipynb
 .. _NB L04: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l04_measurements_example.ipynb
 .. _NB L05: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l05_circle_example.ipynb
+.. _NB L08: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l08_trifilar_with_sympy.ipynb
+.. _NB E08: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/parentheses_brackets.ipynb
 
 .. _Notes L04: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l04.pdf
 .. _Notes L07: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l07.pdf
+.. _Notes L08: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l08.pdf
 
 .. _NB 07: https://moorepants.github.io/resonance/07/07_vertical_vibration_of_a_quarter_car.html
 .. _NB 08: https://moorepants.github.io/resonance/08/08_modeling_a_drone_trifilar_pendulum.html
