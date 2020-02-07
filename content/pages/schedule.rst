@@ -38,9 +38,10 @@ NA T Jan 21                                                                     
 08 M Feb 03    Modeling a Trifilar Pendulum          - `Notes L08`_             HW 04
                                                      - `NB L08`_
                                                      - `NB E08`_
-09 W Feb 05    Modeling a Ball Channel Pendulum                                 Project Proposal
+09 W Feb 05    Modeling a Trifilar Pendulum          - `NB L09`_
+10 F Feb 07                                                                     Project Proposal
 -- ----------  ------------------------------------  -------------------------  ---------------
-10 M Feb 10    Linearization                                                    HW 05
+10 M Feb 10    Modeling MultiDof Systems                                        HW 05
 11 W Feb 12    Sinusoidal Forcing
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Feb 17    President's Day Holiday
@@ -59,6 +60,13 @@ NA T Mar 17    - **Final Period** 1:00 pm - 3:00 pm                             
                - Project Lightning Talks
 == ==========  ====================================  =========================  ===============
 
+Key:
+
+- NB XX : Pre-typed notebook worked on in class
+- NB LXX : Notebooks created live in class
+- NB EXX : Extra notebooks created outside of class
+- Notes LXX: Handwritten notes from class
+
 .. _NB 01: https://moorepants.github.io/resonance/01-2020/first_day.html
 .. _NB 02: https://moorepants.github.io/resonance/02-2020/estimating_bicycle_radial_inertia.html
 .. _NB 03: https://moorepants.github.io/resonance/03-2020/curve_fitting.html
@@ -72,6 +80,8 @@ NA T Mar 17    - **Final Period** 1:00 pm - 3:00 pm                             
 .. _NB L04: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l04_measurements_example.ipynb
 .. _NB L05: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l05_circle_example.ipynb
 .. _NB L08: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l08_trifilar_with_sympy.ipynb
+.. _NB L09: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l09_trifilar_with_sympy.ipynb
+
 .. _NB E08: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/parentheses_brackets.ipynb
 
 .. _Notes L04: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l04.pdf
