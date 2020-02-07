@@ -39,6 +39,9 @@ NA T Jan 21                                                                     
                                                      - `NB L08`_
                                                      - `NB E08`_
 09 W Feb 05    Modeling a Trifilar Pendulum          - `NB L09`_
+                                                     - `NB 09`_
+                                                     - `Notes L09`_
+                                                     - `NB E09`_
 10 F Feb 07                                                                     Project Proposal
 -- ----------  ------------------------------------  -------------------------  ---------------
 10 M Feb 10    Modeling MultiDof Systems                                        HW 05
@@ -73,6 +76,7 @@ Key:
 .. _NB 04: https://moorepants.github.io/resonance/04-2020/clock_pendulum_with_damping.html
 .. _NB 05: https://moorepants.github.io/resonance/05-2020/compound_pendulum_and_cop.html
 .. _NB 06: https://moorepants.github.io/resonance/06-2020/clock_pendulum_with_friction.html
+.. _NB 09: https://moorepants.github.io/resonance/08/08_modeling_a_drone_trifilar_pendulum.html
 
 .. _NB L02-01: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l02_pandas_example.ipynb
 .. _NB L02-02: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l02_plotting_widget_example.ipynb
@@ -83,10 +87,12 @@ Key:
 .. _NB L09: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l09_trifilar_with_sympy.ipynb
 
 .. _NB E08: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/parentheses_brackets.ipynb
+.. _NB E08: https://moorepants.github.io/resonance/09/09_modeling_a_washing_machine.html
 
 .. _Notes L04: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l04.pdf
 .. _Notes L07: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l07.pdf
 .. _Notes L08: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l08.pdf
+.. _Notes L09: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l09.pdf
 
 .. _NB 07: https://moorepants.github.io/resonance/07/07_vertical_vibration_of_a_quarter_car.html
 .. _NB 08: https://moorepants.github.io/resonance/08/08_modeling_a_drone_trifilar_pendulum.html
