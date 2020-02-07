@@ -87,7 +87,7 @@ Key:
 .. _NB L09: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l09_trifilar_with_sympy.ipynb
 
 .. _NB E08: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/parentheses_brackets.ipynb
-.. _NB E08: https://moorepants.github.io/resonance/09/09_modeling_a_washing_machine.html
+.. _NB E09: https://moorepants.github.io/resonance/09/09_modeling_a_washing_machine.html
 
 .. _Notes L04: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l04.pdf
 .. _Notes L07: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l07.pdf
