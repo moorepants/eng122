@@ -93,18 +93,3 @@ Key:
 .. _Notes L07: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l07.pdf
 .. _Notes L08: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l08.pdf
 .. _Notes L09: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l09.pdf
-
-.. _NB 07: https://moorepants.github.io/resonance/07/07_vertical_vibration_of_a_quarter_car.html
-.. _NB 08: https://moorepants.github.io/resonance/08/08_modeling_a_drone_trifilar_pendulum.html
-.. _NB 09: https://moorepants.github.io/resonance/09/09_modeling_a_washing_machine.html
-.. _NB 10: https://moorepants.github.io/resonance/10/10_modeling_a_ball_channel_pendulum.html
-.. _NB 11: https://moorepants.github.io/resonance/11/11_modes_of_a_ball_channel_pendulum.html
-.. _NB 12: https://moorepants.github.io/resonance/12/12_vibrating_building.html
-.. _NB 13: https://moorepants.github.io/resonance/13/13_vibrating_building_forcing.html
-.. _NB 14: https://moorepants.github.io/resonance/14/14_bicycle.html
-
-.. _Notes L10: {filename}/materials/ENG122-L10.pdf
-.. _Notes L11: {filename}/materials/ENG122-L11.pdf
-.. _Notes L13: {filename}/materials/ENG122-L13.pdf
-.. _Notes L16: {filename}/materials/ENG122-L16.pdf
-.. _Notes L20: {filename}/materials/ENG122-L20.pdf
