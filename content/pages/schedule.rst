@@ -39,18 +39,21 @@ NA T Jan 21                                                                     
                                                      - `NB L08`_
                                                      - `NB E08`_
 09 W Feb 05    Modeling a Trifilar Pendulum          - `NB L09`_
-                                                     - `NB 09`_
+                                                     - `NB 07`_
                                                      - `Notes L09`_
                                                      - `NB E09`_
-10 F Feb 07                                                                     Project Proposal
+NA F Feb 07                                                                     Project Proposal
 -- ----------  ------------------------------------  -------------------------  ---------------
-10 M Feb 10    Modeling MultiDof Systems                                        HW 05
-11 W Feb 12    Sinusoidal Forcing
+10 M Feb 10    Modeling MultiDof Systems             - `NB L10`_                HW 05
+                                                     - `Notes L10`_
+11 W Feb 12    - Linearizing MultiDoF Systems        - `NB L11`_
+               - Sinusoidal Forcing
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Feb 17    President's Day Holiday
 12 W Feb 19    Vertical Vibration of a Car                                      Modeling Report
+NA F Feb 21                                                                     HW 06
 -- ----------  ------------------------------------  -------------------------  ---------------
-13 M Feb 24    Modes of a Ball Channel Pendulum                                 HW 06
+13 M Feb 24    Modes of a Ball Channel Pendulum                                 Modeling Report
 14 W Feb 26    Modes of a Multi-Story Building
 -- ----------  ------------------------------------  -------------------------  ---------------
 15 M Mar 02    Forcing Multi-Story Building                                     HW 07
@@ -76,7 +79,7 @@ Key:
 .. _NB 04: https://moorepants.github.io/resonance/04-2020/clock_pendulum_with_damping.html
 .. _NB 05: https://moorepants.github.io/resonance/05-2020/compound_pendulum_and_cop.html
 .. _NB 06: https://moorepants.github.io/resonance/06-2020/clock_pendulum_with_friction.html
-.. _NB 09: https://moorepants.github.io/resonance/08/08_modeling_a_drone_trifilar_pendulum.html
+.. _NB 07: https://moorepants.github.io/resonance/08/08_modeling_a_drone_trifilar_pendulum.html
 
 .. _NB L02-01: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l02_pandas_example.ipynb
 .. _NB L02-02: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l02_plotting_widget_example.ipynb
@@ -85,6 +88,8 @@ Key:
 .. _NB L05: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l05_circle_example.ipynb
 .. _NB L08: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l08_trifilar_with_sympy.ipynb
 .. _NB L09: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l09_trifilar_with_sympy.ipynb
+.. _NB L10: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l10_modeling_a_bouncy_pendulum.ipynb
+.. _NB L11: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l11_linearizing_a_bouncy_pendulum.ipynb
 
 .. _NB E08: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/parentheses_brackets.ipynb
 .. _NB E09: https://moorepants.github.io/resonance/09/09_modeling_a_washing_machine.html
@@ -93,3 +98,4 @@ Key:
 .. _Notes L07: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l07.pdf
 .. _Notes L08: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l08.pdf
 .. _Notes L09: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l09.pdf
+.. _Notes L10: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l10.pdf
