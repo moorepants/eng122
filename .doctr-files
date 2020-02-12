@@ -37,6 +37,8 @@
 ./materials/notebooks/2020/l05_circle_example.ipynb
 ./materials/notebooks/2020/l08_trifilar_with_sympy.ipynb
 ./materials/notebooks/2020/l09_trifilar_with_sympy.ipynb
+./materials/notebooks/2020/l10_modeling_a_bouncy_pendulum.ipynb
+./materials/notebooks/2020/l11_linearizing_a_bouncy_pendulum.ipynb
 ./materials/notebooks/2020/parentheses_brackets.ipynb
 ./materials/notebooks/2020/utils2.py
 ./materials/notebooks/Two Degree of Freedom Bicycle Analysis.ipynb
