@@ -47,7 +47,7 @@ NA F Feb 07                                                                     
 10 M Feb 10    Modeling MultiDof Systems             - `NB L10`_                HW 05
                                                      - `Notes L10`_
 11 W Feb 12    - Linearizing MultiDoF Systems        - `NB L11`_
-               - Sinusoidal Forcing
+               - Sinusoidal Forcing                  - `Notes L11`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Feb 17    President's Day Holiday
 12 W Feb 19    Vertical Vibration of a Car                                      Modeling Report
@@ -99,3 +99,4 @@ Key:
 .. _Notes L08: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l08.pdf
 .. _Notes L09: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l09.pdf
 .. _Notes L10: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l10.pdf
+.. _Notes L11: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l11.pdf
