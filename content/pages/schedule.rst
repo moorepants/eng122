@@ -48,9 +48,10 @@ NA F Feb 07                                                                     
                                                      - `Notes L10`_
 11 W Feb 12    - Linearizing MultiDoF Systems        - `NB L11`_
                - Sinusoidal Forcing                  - `Notes L11`_
+                                                     - `NB E11`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Feb 17    President's Day Holiday
-12 W Feb 19    Vertical Vibration of a Car                                      Modeling Report
+12 W Feb 19    - Sinusoidal Forcing
 NA F Feb 21                                                                     HW 06
 -- ----------  ------------------------------------  -------------------------  ---------------
 13 M Feb 24    Modes of a Ball Channel Pendulum                                 Modeling Report
@@ -93,6 +94,7 @@ Key:
 
 .. _NB E08: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/parentheses_brackets.ipynb
 .. _NB E09: https://moorepants.github.io/resonance/09/09_modeling_a_washing_machine.html
+.. _NB E11: https://moorepants.github.io/resonance/09-2020/modeling_a_ball_channel_pendulum.html
 
 .. _Notes L04: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l04.pdf
 .. _Notes L07: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l07.pdf
