@@ -54,8 +54,9 @@ NA M Feb 17    President's Day Holiday
 12 W Feb 19    - Sinusoidal Forcing
 NA F Feb 21                                                                     HW 06
 -- ----------  ------------------------------------  -------------------------  ---------------
-13 M Feb 24    Modes of a Ball Channel Pendulum                                 Modeling Report
+13 M Feb 24    Modes of a Ball Channel Pendulum
 14 W Feb 26    Modes of a Multi-Story Building
+NA F Feb 28                                                                     Modeling Report
 -- ----------  ------------------------------------  -------------------------  ---------------
 15 M Mar 02    Forcing Multi-Story Building                                     HW 07
 17 W Mar 04    Modes of a bicycle
