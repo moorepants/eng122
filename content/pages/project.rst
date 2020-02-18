@@ -143,54 +143,45 @@ notebooks before submitting. The instructors should be able to run and inspect
 the notebooks.  Make use of Markdown cells with section headings and text to
 describe what you are doing in each section of the notebook(s).
 
-Report Rubric
--------------
+.. list-table:: Report Rubric
+   :header-rows: 1
+   :class: table table-striped table-bordered
 
-[10] Proposal
-
-- [10] Proposal included and feedback addressed
-- [0-9.9] Proposal grade if not present or feedback not addressed
-
-[10] Model description
-
-- [10] Model fully described
-- [5] Model partially described
-- [0] Model not described
-
-[10] Free body diagram
-
-- [10] Complete & fully descriptive free body diagram(s)
-- [5] Partially descriptive free body diagram(s)
-- [0] No free body diagram
-
-[10] Equations of motion
-
-- [10 Exceeds] Correct Lagrange derivation and resulting nonlinear equations of
-  motion in explicit first order form
-- [5 Meets] Partially correct derivation and resulting nonlinear equations of
-  motion
-- [0 Does not meet] No derivation and equations of motion
-
-[10] Demonstration of model
-
-- [10 Exceeds] Simulation demonstrates that the model behaves like the real
-  system
-- [5 Meets] Simulation present but does not necessarily demonstrate the model
-  behaves as expected
-- [0 Does not meet] No simulation
-
-[10] Writing
-
-- [10] Clear, coherent, and well organized
-- [5] Writing and organization needs improvement
-- [0] Not clear, coherent, or well organized
-
-[10] Contributions
-
-- [10] Very clear that each partner contributed equitably to all aspects of the
-  project.
-- [5] Need to improve the contributions of one or more members
-- [0] Clear that everyone is not contributing equitably
+   * - Item
+     - Exceed expectations [10 points]
+     - Meets expectations [5 points]
+     - Does not meet expectations [0 points]
+   * - Proposal
+     - Proposal included and feedback addressed
+     - Proposal grade if not present or feedback not addressed
+     - Proposal grade if not present or feedback not addressed
+   * - Model description
+     - Model fully described
+     - Model partially described
+     - Model not described
+   * - Free body diagram
+     - Complete & fully descriptive free body diagram(s)
+     - Partially descriptive free body diagram(s)
+     - No free body diagram
+   * - Equations of motion
+     - Correct Lagrange derivation and resulting nonlinear equations of motion
+       in explicit first order form
+     - Partially correct derivation and resulting nonlinear equations of motion
+     - No derivation and equations of motion
+   * - Demonstration of model
+     - Simulation demonstrates that the model behaves like the real system
+     - Simulation present but does not necessarily demonstrate the model
+       behaves as expected
+     - No simulation
+   * - Writing
+     - Clear, coherent, and well organized
+     - Writing and organization needs improvement
+     - Not clear, coherent, or well organized
+   * - Contributions
+     - Very clear that each partner contributed equitably to all aspects of the
+       project.
+     - Need to improve the contributions of one or more members
+     - Clear that everyone is not contributing equitably
 
 Final Report [Due Tuesday March 17th]
 =====================================
