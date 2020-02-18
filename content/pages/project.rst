@@ -32,8 +32,8 @@ launched optimally?").
 In this project you will be responsible for generating this project requirement
 before writing the simulation to help you answer the question you have asked. A
 good, precise statement of an interesting question is every bit as important as
-good answer. Indeed, poorly defined or worded questions are often impossible
-to answer in a satisfying and fulfilling way.
+good answer. Indeed, poorly defined or worded questions are often impossible to
+answer in a satisfying and fulfilling way.
 
 Basic Project Tasks
 ===================
@@ -113,11 +113,84 @@ Proposal Rubric
 - [5] Need to improve the contributions of one or more members
 - [0] Clear that everyone is not contributing equitably
 
-Modeling Report [Due TBA]
-=========================
+Modeling Report [Due Friday, February 28th]
+===========================================
 
-This report will describe your model and demonstrate that it functions. More
-will be added to this section after the proposals are submitted.
+This report will extend your proposal with a detailed description of your model
+and a demonstration that it behaves like the real system. The report should be
+no longer than 6 pages in total.
+
+The report should include:
+
+- Everything from the proposal (you will receive full points if the feedback is
+  addressed, otherwise the grade from the proposal will be used).
+- Description of the modeling assumptions, number of degrees of freedom,
+  inertial, restorative & dissipative elements and any forcing functions.
+- A free body diagram (or diagrams) of your system that indicates the
+  generalized coordinates & speeds, important velocities, and applied forces &
+  torques.
+- A Lagrange derivation of the nonlinear equations of motion using SymPy (start
+  with kinetic and potential energy definitions and show the equations of
+  motion in explicit nonlinear first order form).
+- A demonstration through numerical simulation that the model behaves like the
+  real system.
+- A short paragraph describing each team members' contributions to this report.
+
+Submit your written report as a PDF alongside a zip file that contains your
+functioning Jupyter notebooks (.ipynb), Python (.py), and/or data files. Make
+sure that "Kernel > Restart Kernel and Run All Cells" runs without error on any
+notebooks before submitting. The instructors should be able to run and inspect
+the notebooks.  Make use of Markdown cells with section headings and text to
+describe what you are doing in each section of the notebook(s).
+
+Report Rubric
+-------------
+
+[10] Proposal
+
+- [10] Proposal included and feedback addressed
+- [0-9.9] Proposal grade if not present or feedback not addressed
+
+[10] Model description
+
+- [10] Model fully described
+- [5] Model partially described
+- [0] Model not described
+
+[10] Free body diagram
+
+- [10] Complete & fully descriptive free body diagram(s)
+- [5] Partially descriptive free body diagram(s)
+- [0] No free body diagram
+
+[10] Equations of motion
+
+- [10 Exceeds] Correct Lagrange derivation and resulting nonlinear equations of
+  motion in explicit first order form
+- [5 Meets] Partially correct derivation and resulting nonlinear equations of
+  motion
+- [0 Does not meet] No derivation and equations of motion
+
+[10] Demonstration of model
+
+- [10 Exceeds] Simulation demonstrates that the model behaves like the real
+  system
+- [5 Meets] Simulation present but does not necessarily demonstrate the model
+  behaves as expected
+- [0 Does not meet] No simulation
+
+[10] Writing
+
+- [10] Clear, coherent, and well organized
+- [5] Writing and organization needs improvement
+- [0] Not clear, coherent, or well organized
+
+[10] Contributions
+
+- [10] Very clear that each partner contributed equitably to all aspects of the
+  project.
+- [5] Need to improve the contributions of one or more members
+- [0] Clear that everyone is not contributing equitably
 
 Final Report [Due Tuesday March 17th]
 =====================================
