@@ -51,14 +51,17 @@ NA F Feb 07                                                                     
                                                      - `NB E11`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA M Feb 17    President's Day Holiday
-12 W Feb 19    - Sinusoidal Forcing
+12 W Feb 19    - Sinusoidal Forcing                  - `NB 10`_
 NA F Feb 21                                                                     HW 06
 -- ----------  ------------------------------------  -------------------------  ---------------
-13 M Feb 24    Modes of a Ball Channel Pendulum
-14 W Feb 26    Modes of a Multi-Story Building
+13 M Feb 24    - Arbitrary Forcing                   - `NB L13`_
+               - Intro to Modal Analaysis            - `Notes L13`_
+14 W Feb 26    - Modes of a Ball Channel Pendulum    - `Notes L14`_
+                                                     - `NB 12`_
 NA F Feb 28                                                                     Modeling Report
 -- ----------  ------------------------------------  -------------------------  ---------------
-15 M Mar 02    Forcing Multi-Story Building                                     HW 07
+15 M Mar 02    - Modes of a Multi-Story Building                                HW 07
+               - Forcing Multi-Story Building
 17 W Mar 04    Modes of a bicycle
 -- ----------  ------------------------------------  -------------------------  ---------------
 18 M Mar 09    Modes of bicycle                                                 HW 08
@@ -82,6 +85,8 @@ Key:
 .. _NB 05: https://moorepants.github.io/resonance/05-2020/compound_pendulum_and_cop.html
 .. _NB 06: https://moorepants.github.io/resonance/06-2020/clock_pendulum_with_friction.html
 .. _NB 07: https://moorepants.github.io/resonance/08/08_modeling_a_drone_trifilar_pendulum.html
+.. _NB 10: https://moorepants.github.io/resonance/10-2020/sinusoidal_forcing.html
+.. _NB 12: https://moorepants.github.io/resonance/12-2020/modes_of_a_ball_channel_pendulum.html
 
 .. _NB L02-01: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l02_pandas_example.ipynb
 .. _NB L02-02: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l02_plotting_widget_example.ipynb
@@ -92,6 +97,7 @@ Key:
 .. _NB L09: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l09_trifilar_with_sympy.ipynb
 .. _NB L10: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l10_modeling_a_bouncy_pendulum.ipynb
 .. _NB L11: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l11_linearizing_a_bouncy_pendulum.ipynb
+.. _NB L13: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l13_arbitrary_forcing.ipynb
 
 .. _NB E08: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/parentheses_brackets.ipynb
 .. _NB E09: https://moorepants.github.io/resonance/09/09_modeling_a_washing_machine.html
@@ -103,3 +109,5 @@ Key:
 .. _Notes L09: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l09.pdf
 .. _Notes L10: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l10.pdf
 .. _Notes L11: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l11.pdf
+.. _Notes L13: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l13.pdf
+.. _Notes L14: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l14.pdf
