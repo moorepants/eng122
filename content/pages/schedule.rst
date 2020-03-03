@@ -97,7 +97,7 @@ Key:
 .. _NB L09: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l09_trifilar_with_sympy.ipynb
 .. _NB L10: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l10_modeling_a_bouncy_pendulum.ipynb
 .. _NB L11: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l11_linearizing_a_bouncy_pendulum.ipynb
-.. _NB L13: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l13_arbitrary_forcing.ipynb
+.. _NB L13: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/l13_arbitrary_inputs.ipynb
 
 .. _NB E08: https://nbviewer.jupyter.org/github/moorepants/eng122/blob/master/content/materials/notebooks/2020/parentheses_brackets.ipynb
 .. _NB E09: https://moorepants.github.io/resonance/09/09_modeling_a_washing_machine.html
