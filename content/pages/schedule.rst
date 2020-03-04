@@ -61,11 +61,10 @@ NA F Feb 21                                                                     
 NA F Feb 28                                                                     Modeling Report
 -- ----------  ------------------------------------  -------------------------  ---------------
 15 M Mar 02    - Modes of a Multi-Story Building                                HW 07
-               - Forcing Multi-Story Building
-17 W Mar 04    Modes of a bicycle
+17 W Mar 04    - Forcing Multi-Story Building        - `Notes 17`_
 -- ----------  ------------------------------------  -------------------------  ---------------
-18 M Mar 09    Modes of bicycle                                                 HW 08
-19 W Mar 11    TBA
+18 M Mar 09    Modes of bicycle
+19 W Mar 11    Modes of bicycle                                                 HW 08
 -- ----------  ------------------------------------  -------------------------  ---------------
 NA T Mar 17    - **Final Period** 1:00 pm - 3:00 pm                             Final Report
                - Project Lightning Talks
@@ -111,3 +110,4 @@ Key:
 .. _Notes L11: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l11.pdf
 .. _Notes L13: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l13.pdf
 .. _Notes L14: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l14.pdf
+.. _Notes L17: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l17.pdf
