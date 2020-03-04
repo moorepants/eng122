@@ -61,7 +61,7 @@ NA F Feb 21                                                                     
 NA F Feb 28                                                                     Modeling Report
 -- ----------  ------------------------------------  -------------------------  ---------------
 15 M Mar 02    - Modes of a Multi-Story Building                                HW 07
-17 W Mar 04    - Forcing Multi-Story Building        - `Notes 17`_
+17 W Mar 04    - Forcing Multi-Story Building        - `Notes L17`_
 -- ----------  ------------------------------------  -------------------------  ---------------
 18 M Mar 09    Modes of bicycle
 19 W Mar 11    Modes of bicycle                                                 HW 08
