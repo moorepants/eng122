@@ -1,6 +1,8 @@
 :title: Project
 :sortorder: 5
 
+.. contents::
+
 A significant portion of your grade will be assigned based on a multi-week long
 project involving the modeling, analysis, and design of a real vibrating
 system. You will be paired with a partner and together you must select a
@@ -72,46 +74,43 @@ pages and address these things:
 Proposal Rubric
 ---------------
 
-[10] Research question/Design Criteria
+.. list-table:: Report Rubric
+   :header-rows: 1
+   :class: table table-striped table-bordered
 
-- [10] Defined a research question or design criteria
-- [5] Research question or design criteria is present but not articulated
-  clearly
-- [0] Did not define a research question or design criteria
-
-[10] Literature review
-
-- [10] Identified more than two relevant work or extensive discussion of at
-  least two
-- [5] Identified and discussed at least two relevant works
-- [0] Did not look into the literature
-
-[10] System description
-
-- [10] System described from a vibrational and dynamics perspective
-- [5] System described but lacking in description of dynamics/vibration
-- [0] System not described
-
-[10] Methods description
-
-- [10] Clear plan on how analysis and simulation may be used to answer research
-  question
-- [5] Plan on how to answer question is murky
-- [0] No discussion of how analysis and simulation may be used to answer
-  research question or address design criteria
-
-[10] Writing
-
-- [10] Clear, coherent, and well organized
-- [5] Writing and organization needs improvement
-- [0] Not clear, coherent, or well organized
-
-[10] Contributions
-
-- [10] Very clear that each partner contributed equitably to all aspects of the
-  project.
-- [5] Need to improve the contributions of one or more members
-- [0] Clear that everyone is not contributing equitably
+   * - Item
+     - Exceed expectations [10 points]
+     - Meets expectations [5 points]
+     - Does not meet expectations [0 points]
+   * - Research question/Design Criteria
+     - Defined a research question or design criteria
+     - Research question or design criteria is present but not articulated
+       clearly
+     - Did not define a research question or design criteria
+   * - Literature review
+     - Identified more than two relevant work or extensive discussion of at
+       least two
+     - Identified and discussed at least two relevant works
+     - Did not look into the literature
+   * - System description
+     - System described from a vibrational and dynamics perspective
+     - System described but lacking in description of dynamics/vibration
+     - System not described
+   * - Methods description
+     - Clear plan on how analysis and simulation may be used to answer research
+       question
+     - Plan on how to answer question is murky
+     - No discussion of how analysis and simulation may be used to answer
+       research question or address design criteria
+   * - Writing
+     - Clear, coherent, and well organized
+     - Writing and organization needs improvement
+     - Not clear, coherent, or well organized
+   * - Contributions
+     - Very clear that each partner contributed equitably to all aspects of the
+       project.
+     - Need to improve the contributions of one or more members
+     - Clear that everyone is not contributing equitably
 
 Modeling Report [Due Friday, February 28th]
 ===========================================
@@ -142,6 +141,9 @@ sure that "Kernel > Restart Kernel and Run All Cells" runs without error on any
 notebooks before submitting. The instructors should be able to run and inspect
 the notebooks.  Make use of Markdown cells with section headings and text to
 describe what you are doing in each section of the notebook(s).
+
+Modeling Report Rubric
+----------------------
 
 .. list-table:: Report Rubric
    :header-rows: 1
@@ -230,6 +232,9 @@ Guidelines:
 - Thoroughly explain your figures and results with accompanying text (if you
   include a figure, it needs explanation).
 - Address any feedback from the prior reports.
+
+Final Report Rubric
+-------------------
 
 .. list-table:: Report Rubric
    :header-rows: 1
