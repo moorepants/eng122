@@ -186,8 +186,98 @@ describe what you are doing in each section of the notebook(s).
 Final Report [Due Tuesday March 17th]
 =====================================
 
-This report will cover the entirety of the project. More will be added to this
-section after the modeling report is submitted.
+This report will cover the entirety of the project with the primary goal of
+showing how you utilized your model to answer your research question or meet
+your design requirements. You should make use of any relevant topics learned in
+class or homeworks and apply those to your system to characterize the system's
+vibrational dynamics in context of the research question or design
+requirements. The topics are expected to be covered in the report:
+
+- introduction with physical system description and background literature for
+  context
+- describe your model of the system (assumptions, free body diagram, forcing,
+  etc.)
+- show the resulting symbolic linear equations in canonical form
+- characterize the free response by identifying, showing, and explaining the
+  eigenvalues and the associated mode shapes (modal analysis)
+- characterize the forced response
+- exercise the non-linear and/or linear model to answer your research question
+  or meet your design requirements (show that you used your understanding of
+  the free and forced dynamics in this process)
+- show and explain the results of your analysis
+- conclusion and discussion of the results
+
+You should have an accompanying Jupyter notebook (or notebooks) that
+demonstrate your analyses with working code. These notebooks should be
+executable, with no errors, by the instructors so make sure to "Restart Kernel
+and Run All Cells" before saving and submitting. Include all necessary
+ancillary files in a zip file with the notebook(s). The notebook(s) should
+include:
+
+- nonlinear equation of motion deviation via Lagrange's method
+- linearization of the equations of motion
+- modal analysis of the unforced system
+- analysis of the effects of forcing (if relevant)
+- simulation(s) of the model to answer your research question or design
+  criteria
+- code to produce any figures used in your report
+- animation of your system (optional)
+
+Guidelines:
+
+- The report should be not more than 12 pages long in total!
+- Make liberal use of figures to describe your system and the analysis results.
+- Thoroughly explain your figures and results with accompanying text (if you
+  include a figure, it needs explanation).
+- Address any feedback from the prior reports.
+
+.. list-table:: Report Rubric
+   :header-rows: 1
+   :class: table table-striped table-bordered
+
+   * - Item
+     - Exceed expectations [10 points]
+     - Meets expectations [5 points]
+     - Does not meet expectations [0 points]
+   * - Introduction
+     - Physical system thoroughly introduced in context of external
+       information.
+     - Physical system introduced but lacks clarity and/or context.
+     - Physical system not introduced.
+   * - Model description
+     - Model fully described and final linear equations presented.
+     - Model partially described and final linear equations presented.
+     - Model not described and final linear equations not presented.
+   * - Modal analysis
+     - Modal analysis complete with clear explanations of modes.
+     - Modal analysis present but not correct and/or clear.
+     - No modal analysis.
+   * - Forced response
+     - Forced response of the system explored and explained thoroughly.
+     - Basic forced response explanation.
+     - No forced response analysis.
+   * - Results
+     - Model exercised and clear, relevant results present.
+     - Model exercised but results are not clear.
+     - Model not exercised, no results.
+   * - Research question/Design criteria
+     - Resarch question or design criteria fully addressed.
+     - Resarch question or design criteria partially addressed.
+     - Reearch question or design criteria not addressed.
+   * - Writing
+     - Clear, coherent, and well organized
+     - Writing and organization needs improvement
+     - Not clear, coherent, or well organized
+   * - Notebooks
+     - Functioning notebooks with correct analysis.
+     - Function notebooks with partially correct analysis and/or partially
+       functioning.
+     - No notebooks.
+   * - Contributions
+     - Very clear that each partner contributed equitably to all aspects of the
+       project.
+     - Need to improve the contributions of one or more members
+     - Clear that everyone is not contributing equitably
 
 Project Idea Prompts
 ====================
