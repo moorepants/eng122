@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Homework #01</title>
+        <link rel="stylesheet" href="https://moorepants.github.io/eng122/2016f/theme/css/main.css" />
+        <link rel="stylesheet" href="https://moorepants.github.io/eng122/2016f/theme/css/custom.css" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <script type="text/javascript"
+          src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="https://moorepants.github.io/eng122/2016f/">ENG 122: Intro to Mechanical Vibrations </a></h1>
+                <nav><ul>
+                    <li><a href="https://moorepants.github.io/eng122/2016f/">Syllabus</a></li>
+                    <li><a href="https://moorepants.github.io/eng122/2016f/pages/schedule.html">Schedule</a></li>
+                    <li><a href="https://moorepants.github.io/eng122/2016f/pages/homework.html">Homework</a></li>
+                    <li><a href="https://moorepants.github.io/eng122/2016f/pages/resources.html">Resources</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+    <h1 class="entry-title">Homework #01</h1>
+    
+    <p><strong>DUE: Monday, September 26, 2016 before class in Box A in the MAE department if a paper assignment and
+if digital turn in it in via Canvas.</strong></p>
+<p><a class="reference external" href="https://moorepants.github.io/eng122/2016f/pages/hw-01.pdf">PDF Version</a></p>
+<div class="section" id="problem-1">
+<h2>Problem 1</h2>
+<p>A function object is a value you can assign to a variable or pass as an
+argument. For example, <tt class="docutils literal">do_twice</tt> is a function that takes a function object
+as an argument and calls it twice:</p>
+<pre class="code python literal-block">
+<span class="k">def</span> <span class="nf">do_twice</span><span class="p">(</span><span class="n">f</span><span class="p">):</span>
+    <span class="n">f</span><span class="p">()</span>
+    <span class="n">f</span><span class="p">()</span>
+</pre>
+<p>Here's an example that uses <tt class="docutils literal">do_twice</tt> to call a function named
+<tt class="docutils literal">print_spam</tt> twice.</p>
+<pre class="code python literal-block">
+<span class="k">def</span> <span class="nf">print_spam</span><span class="p">():</span>
+    <span class="nb">print</span> <span class="s1">'spam'</span>
+
+<span class="n">do_twice</span><span class="p">(</span><span class="n">print_spam</span><span class="p">)</span>
+</pre>
+<ol class="arabic simple">
+<li>Type this example into a Jupyter notebook and test it.</li>
+<li>Modify <tt class="docutils literal">do_twice</tt> so that it takes two arguments, a function object and a
+value, and calls the function twice, passing the value as an argument to the
+function.</li>
+<li>Write a more general version of <tt class="docutils literal">print_spam</tt>, called <tt class="docutils literal">print_twice</tt>, that
+takes a string as a parameter and prints it twice.</li>
+<li>Use the modified version of <tt class="docutils literal">do_twice</tt> to call <tt class="docutils literal">print_twice</tt> twice,
+passing <tt class="docutils literal">'spam'</tt> as an argument.</li>
+<li>Define a new function called <tt class="docutils literal">do_four</tt> that takes a function object and a
+value and calls the function four times, passing the value as a parameter.
+There should be only two statements in the body of this function, not four.</li>
+</ol>
+</div>
+<div class="section" id="problem-2">
+<h2>Problem 2</h2>
+<p>In a Jupyter notebook use NumPy to solve the following:</p>
+<ol class="arabic simple">
+<li>Create a uniform subdivision of the interval -1.3 to 2.5 with 64
+subdivisions.</li>
+<li>Generate an array of length <span class="math">\(3n\)</span> filled with the cyclic pattern 1, 2,
+3.</li>
+<li>Create an array of the first 10 odd integers.</li>
+<li>Create a 10 x 10 arrays of zeros and then &quot;frame&quot; it with a border of ones.</li>
+<li>Create an 8 x 8 array with a checkerboard pattern of zeros and ones using a
+slicing + striding approach.</li>
+<li>Try using the dot function on a vector-vector, matrix-vector and
+matrix-matrix example. (This may seem simple but it's good to see how the
+results differ in each case.)</li>
+<li>Create a function which creates an n×n array with (i,j)-entry equal to i+j.</li>
+<li>Evaluate cos and sin on the interval [0, 1] and then stack the results into
+a tall array with rows being the (cos(x), sin(x)) entries.</li>
+<li>Create a random 3x5 array using the <tt class="docutils literal">np.random.rand(3, 5)</tt> function and
+compute: the sum of all the entries, the sum of the rows and the sum of the
+columns. (<em>Just like sorted had an optional key= argument, many Numpy
+functions have an optional axis= argument!</em>)</li>
+<li>Create a random 5x5 array using the function <tt class="docutils literal">np.random.rand(5, 5)</tt>. We want
+to sort the rows according to the second column. Try combining array
+slicing + argsort + indexing to do this.</li>
+</ol>
+<p>Refer to the <a class="reference external" href="http://docs.scipy.org/doc/numpy-1.10.0/">NumPy documentation</a> and <a class="reference external" href="http://www.scipy-lectures.org/">SciPy Lecture Notes</a> for help.</p>
+</div>
+<div class="section" id="problem-3">
+<h2>Problem 3</h2>
+<p>In a Jupyter notebook use NumPy and Matplotlib to create a plot of the <a class="reference external" href="http://mathworld.wolfram.com/BatmanCurve.html">Batman
+equation</a>. The outline should be should be yellow and the enclosed space
+should be filled with black. Remove the grid and axes (i.e. plain white
+background) and insert your first name into the inside the symbol as large as
+it can be without touching the edges of the symbol. Color your name yellow too.</p>
+<p>Refer to the Matplotlib documentation and gallery for help.</p>
+</div>
+<script type='text/javascript'>if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width < 768) ? "left" : align;
+        indent = (screen.width < 768) ? "0em" : indent;
+        linebreak = (screen.width < 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+
+    var configscript = document.createElement('script');
+    configscript.type = 'text/x-mathjax-config';
+    configscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        availableFonts: ['STIX', 'TeX']," +
+        "        preferredFont: 'STIX'," +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'black ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+</script>
+</section>
+        <section id="extras" class="body">
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+          <address id="about" class="vcard body">
+            <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+              <a rel="license"
+                href="http://creativecommons.org/publicdomain/zero/1.0/">
+                <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+              </a>
+              <br />
+              To the extent possible under law,
+              <a rel="dct:publisher"
+                href="http://moorepants.info">
+                <span property="dct:title">Jason K. Moore</span>
+              </a>
+              has waived all copyright and related or neighboring rights to
+              <span property="dct:title">ENG122 Mechanical Vibrations Course Website</span>.
+              This work is published from:
+              <span property="vcard:Country" datatype="dct:ISO3166"
+                content="US" about="http://moorepants.info">
+              United States</span>.
+            </p>
+            Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+            <p>The source for the website is <a href="http://github.com/moorepants/eng122">hosted on Github</a>. Report issues
+              and make contributions there.</p>
+          </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-15966419-8', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+</body>
+</html>
