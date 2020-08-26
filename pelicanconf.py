@@ -61,3 +61,5 @@ SITESUBTITLE = ''
 SITEIMAGE = ''
 DESCRIPTION = ''
 PYGMENTS_STYLE = 'emacs'
+# pelican-alchemy removed the original theme.css, so bring it back.
+THEME_CSS_OVERRIDES = ['theme/css/origtheme.css']
