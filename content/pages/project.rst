@@ -475,5 +475,5 @@ materials. An effective model will aid in the identification of design criteria
 that will drive the selection of materials, and the geometry of the final
 product.
 
-.. image:: https://objects-us-east-1.dream.io/eng122/2020w/piezo-pump.jpg
+.. image:: https://eng122.s3.us-east-005.dream.io/2020w/piezo-pump.jpg
    :width: 600px

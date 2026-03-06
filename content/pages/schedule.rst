@@ -103,14 +103,14 @@ Key:
 .. _NB E09: https://moorepants.github.io/resonance/09/09_modeling_a_washing_machine.html
 .. _NB E11: https://moorepants.github.io/resonance/09-2020/modeling_a_ball_channel_pendulum.html
 
-.. _Notes L04: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l04.pdf
-.. _Notes L07: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l07.pdf
-.. _Notes L08: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l08.pdf
-.. _Notes L09: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l09.pdf
-.. _Notes L10: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l10.pdf
-.. _Notes L11: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l11.pdf
-.. _Notes L13: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l13.pdf
-.. _Notes L14: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l14.pdf
-.. _Notes L17: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l17.pdf
-.. _Notes L18: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l18.pdf
-.. _Notes L19: https://objects-us-east-1.dream.io/eng122/2020w/eng122-l19.pdf
+.. _Notes L04: https://eng122.s3.us-east-005.dream.io/2020w/eng122-l04.pdf
+.. _Notes L07: https://eng122.s3.us-east-005.dream.io/2020w/eng122-l07.pdf
+.. _Notes L08: https://eng122.s3.us-east-005.dream.io/2020w/eng122-l08.pdf
+.. _Notes L09: https://eng122.s3.us-east-005.dream.io/2020w/eng122-l09.pdf
+.. _Notes L10: https://eng122.s3.us-east-005.dream.io/2020w/eng122-l10.pdf
+.. _Notes L11: https://eng122.s3.us-east-005.dream.io/2020w/eng122-l11.pdf
+.. _Notes L13: https://eng122.s3.us-east-005.dream.io/2020w/eng122-l13.pdf
+.. _Notes L14: https://eng122.s3.us-east-005.dream.io/2020w/eng122-l14.pdf
+.. _Notes L17: https://eng122.s3.us-east-005.dream.io/2020w/eng122-l17.pdf
+.. _Notes L18: https://eng122.s3.us-east-005.dream.io/2020w/eng122-l18.pdf
+.. _Notes L19: https://eng122.s3.us-east-005.dream.io/2020w/eng122-l19.pdf
